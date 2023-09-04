@@ -1,1001 +1,1001 @@
-Name,Age,Gender,Blood Type,Weight (kg),Height (cm),Medical Condition
-Ashley Cook,65,Female,A-,66.7,185,Diabetes
-Harold Brown,80,Other,AB+,76.8,146,Diabetes
-Thomas Soto,21,Female,A+,80.4,192,Hypertension
-Stephen Reed,40,Other,AB-,137.2,208,Hypertension
-Virginia Taylor,43,Female,B+,136.1,171,None
-Debra Noble,36,Male,A+,100.4,140,Diabetes
-Morgan Gates,73,Female,O-,69.6,192,None
-Kimberly Kennedy,28,Female,O-,47.2,189,Healthy
-Dr. Robert Clements,24,Male,B+,100.5,186,Hypertension
-David Mendoza,69,Female,AB+,142.6,174,None
-Jamie Myers,62,Male,O-,149.2,149,Hypertension
-Bill Padilla,55,Male,A+,72.5,195,Hypertension
-Troy Weiss,42,Female,O+,40.6,146,None
-Don Davis,71,Female,A-,69.7,173,Healthy
-Jennifer Mason,46,Other,A-,78.2,169,Diabetes
-Rachel Phillips,29,Other,O-,47.9,191,Diabetes
-Erica Phillips,50,Female,B-,109.3,159,Asthma
-Sean Ball,21,Male,O-,51.0,164,Asthma
-Carol Hill,58,Other,O+,135.8,159,Healthy
-Jacob Robertson,41,Other,AB+,44.3,187,Diabetes
-Denise Ford,57,Other,B-,64.7,152,Diabetes
-Ebony Bass,36,Other,B+,139.2,172,Healthy
-Austin Gutierrez,53,Other,O-,47.1,178,Asthma
-Jennifer Cruz,42,Male,O+,85.6,193,Healthy
-Christina Leach,34,Male,O+,136.1,200,Healthy
-Michael Graham,24,Other,O+,49.0,154,Asthma
-Jessica Jones,74,Female,AB+,77.7,192,Diabetes
-Timothy Woods,49,Other,A+,73.1,210,Hypertension
-Michael Powers,19,Male,AB+,73.4,177,Asthma
-Kevin Salazar,75,Female,AB-,63.6,157,Diabetes
-Gail Parker,64,Female,B-,66.1,192,Hypertension
-Matthew Morrison,34,Female,A-,132.3,165,Diabetes
-Danielle Evans,36,Other,O+,100.2,149,Diabetes
-Brenda Taylor,50,Male,O+,140.2,196,None
-Tamara Hensley,44,Male,A+,69.2,149,Asthma
-Shawn Braun,29,Male,B+,148.5,171,None
-Christopher Garza,34,Male,O+,88.3,198,Diabetes
-Monica Evans,56,Female,O+,48.4,147,Asthma
-Jennifer Anderson,69,Other,B+,62.2,168,Asthma
-William Hurley,29,Female,O+,65.5,150,Asthma
-Matthew Moore,73,Male,A-,102.0,199,Diabetes
-Laura George,75,Male,A+,132.1,146,Hypertension
-Jason Gibbs,43,Female,A-,88.0,199,Asthma
-Anne Weiss,80,Other,O-,51.1,185,Hypertension
-Kimberly Rogers,60,Male,AB-,85.3,195,Hypertension
-Cheryl Frost,61,Other,O-,73.7,194,None
-Jack Price,75,Other,A+,80.0,209,Asthma
-Rebecca Taylor,70,Male,AB+,122.4,204,Healthy
-Jessica Huff,77,Female,A+,51.0,188,None
-Mark Johnson,74,Male,A-,105.8,169,Hypertension
-John Lutz,73,Other,B-,97.9,162,None
-Wendy Velasquez,22,Other,B-,41.4,168,None
-Morgan Wilson,55,Male,B-,54.1,192,Diabetes
-Katherine Reeves,73,Other,B-,76.3,142,Hypertension
-Melissa Wallace,50,Other,O+,81.4,146,Healthy
-Jenny Reynolds,39,Other,AB+,78.7,173,None
-Jill Hughes,54,Other,AB-,53.5,150,Asthma
-David Fisher,65,Male,B+,62.6,168,Healthy
-Brian Huang,38,Female,O-,87.6,161,Healthy
-Angelica Clark,57,Other,AB+,106.3,201,Hypertension
-Gregory Bowen DDS,57,Other,A+,141.6,180,Asthma
-Corey Olsen,37,Male,B+,146.3,207,Healthy
-Jessica Whitehead,39,Male,O+,42.4,181,Diabetes
-Melvin Osborn Jr.,58,Male,B-,67.5,165,None
-April Ferguson,33,Other,O+,120.2,150,Healthy
-Karen Hardy,21,Female,B+,146.3,149,Diabetes
-Yolanda Rollins,69,Other,A-,83.4,204,Asthma
-Nicholas Ross,79,Female,O+,119.4,158,Asthma
-Lisa Kim,54,Male,AB-,118.2,158,Asthma
-Andrew Taylor,73,Female,B+,61.7,198,Asthma
-Luis Shah,27,Male,O+,140.8,172,Hypertension
-Ryan Young,53,Male,B-,137.2,154,Asthma
-Matthew Moore,42,Other,A+,139.7,204,Healthy
-Nicholas Johnson,42,Female,A-,147.8,186,Diabetes
-Elizabeth Joseph,19,Other,O+,119.9,210,None
-Steven Gentry,47,Other,B+,47.0,210,Healthy
-Jennifer Dodson,41,Male,O+,98.4,140,Healthy
-Mary Thompson,37,Female,A-,47.9,192,None
-Christina Walker,62,Female,O+,125.0,142,None
-Ryan Sheppard,72,Male,B-,85.9,154,Healthy
-Christopher Kelly,24,Female,O-,134.6,199,None
-Nathaniel Collins,78,Male,A-,46.8,206,Healthy
-Mr. Alan Brewer,42,Female,B-,141.1,190,Diabetes
-Nicholas Dean,28,Female,AB-,105.8,207,Healthy
-Sharon Austin,50,Male,A-,148.9,188,Asthma
-Jerry Friedman,28,Female,AB+,84.0,202,Hypertension
-Thomas West,36,Male,A+,68.2,201,Hypertension
-John Browning,40,Female,B-,41.0,186,Healthy
-Derek Garcia,66,Female,B+,146.2,193,Hypertension
-Katelyn Ramirez,34,Other,AB+,87.5,210,None
-Nicole Jordan,52,Other,O-,66.6,158,Diabetes
-Jeffrey Crosby,57,Female,A+,121.3,177,Asthma
-Amanda Prince MD,54,Other,O-,44.5,161,Diabetes
-Robert Thompson,54,Female,AB-,119.0,185,Diabetes
-David Thomas,45,Other,AB+,97.7,156,Hypertension
-Jason Harmon,33,Other,A-,74.0,187,Hypertension
-Mary Allen,69,Female,O+,119.2,165,Diabetes
-Jasmine Phelps,26,Female,B-,50.6,194,None
-Kenneth Thompson,34,Other,A+,134.3,156,Diabetes
-Alexa Johnson,77,Female,O+,55.1,153,Diabetes
-Kelly Hernandez,56,Male,O+,141.6,193,None
-Marc Patterson,26,Other,AB+,132.1,208,None
-Wanda Rodgers,19,Female,AB-,69.3,149,Asthma
-Austin Dixon,19,Male,AB-,91.3,193,Diabetes
-Charles Morrison,63,Other,AB+,109.1,206,Hypertension
-Kenneth Wagner,27,Female,A-,115.3,190,Asthma
-Wesley Hoffman,31,Female,A-,50.8,182,None
-Michelle Horne,68,Other,B-,89.4,166,Asthma
-Peggy Chapman,30,Male,B+,66.4,201,Diabetes
-Melanie Lewis,74,Female,O-,67.3,161,None
-Veronica Green,31,Male,A+,141.8,185,None
-Gina Nelson,43,Other,A-,112.7,171,Diabetes
-Christine Arellano,25,Male,B+,135.0,199,None
-Deborah Navarro,42,Other,B-,79.6,191,Hypertension
-Allison Gill,58,Male,B-,124.5,204,Healthy
-Crystal Watts,22,Other,A-,147.1,162,Diabetes
-Cynthia Erickson,29,Female,B+,72.8,193,Hypertension
-Sean Branch,32,Other,B+,125.0,184,Hypertension
-Eileen Taylor,58,Male,O-,97.7,184,Asthma
-Ellen Moore DDS,78,Male,O+,129.7,180,Asthma
-Nicole Hernandez,25,Other,O-,87.4,142,Asthma
-Barry Norman,49,Other,B+,72.7,193,Healthy
-Rebecca Sandoval,70,Female,B+,76.5,155,Healthy
-Jenny Romero,58,Female,AB-,109.2,192,None
-Steven Hunter,26,Other,O-,73.0,152,Healthy
-Larry Montoya,29,Female,AB+,94.1,206,Hypertension
-Latoya Smith,59,Female,AB+,141.0,160,None
-Rebecca Ramirez,75,Other,O+,44.1,149,Asthma
-Russell Hampton MD,61,Other,O+,132.4,210,Asthma
-Kevin Davidson,79,Female,O+,50.4,185,Hypertension
-Alicia Moss,50,Other,O-,117.4,191,Asthma
-Alexandra Guerra,42,Other,O-,107.8,143,Hypertension
-Kevin Golden,20,Female,O+,88.5,168,Diabetes
-Melissa Lopez,80,Female,O+,115.5,185,Asthma
-Tom Stevenson,20,Other,A-,97.0,182,None
-Jennifer Day,21,Female,B-,84.2,156,Asthma
-Haley Jones,68,Male,O-,143.1,140,Hypertension
-Lori Kim,47,Other,AB-,80.7,148,Healthy
-Emily Hays,50,Other,B-,67.9,164,None
-Jermaine Simon,39,Female,AB-,124.1,180,None
-Rachel Garcia,72,Female,A+,91.0,151,Asthma
-Taylor Miller,69,Other,B+,103.8,210,Diabetes
-Corey Velazquez,75,Other,B-,121.8,174,Asthma
-Ashley Mueller DVM,22,Other,A+,86.8,197,Asthma
-Abigail Cochran,67,Male,AB-,114.3,155,Asthma
-Renee Bryant,80,Male,O-,127.9,197,Diabetes
-James Copeland,25,Other,A-,81.4,182,Asthma
-Christopher Garcia,22,Male,O+,47.9,196,Diabetes
-Andrew Leonard,68,Other,B-,53.4,209,Hypertension
-Mark Williams,38,Female,B+,110.6,176,Healthy
-Patricia Kennedy,36,Other,B-,51.1,149,None
-Marissa Rubio,64,Male,B-,138.6,157,None
-Peter Medina,27,Male,B+,94.0,154,Diabetes
-Anne Daniels,51,Other,O+,77.9,180,Asthma
-Lori Lambert,47,Male,O-,72.9,158,Asthma
-Timothy Manning,33,Female,A+,135.7,178,Healthy
-Brent Valdez,69,Other,A+,120.7,151,None
-Jeanette Olsen,53,Male,B-,146.0,195,Healthy
-Allison Diaz,23,Other,A+,89.6,195,Hypertension
-Eric Jones,37,Male,A+,134.3,207,Asthma
-Megan Howard,19,Female,AB+,87.8,195,Hypertension
-Mary Richard,18,Female,AB+,140.1,167,Healthy
-Brittney Allen,72,Male,B+,148.3,142,Hypertension
-Isaac Rogers,42,Other,B-,143.0,146,None
-Michelle Whitehead,18,Other,AB+,84.5,179,Healthy
-Leslie Robinson,31,Male,O-,87.4,174,Diabetes
-Leah Smith,71,Other,AB-,142.8,160,Hypertension
-Ms. Susan Vargas,29,Female,AB+,144.7,149,Healthy
-Brian Conner,63,Male,AB+,63.4,197,Asthma
-Mr. John Weiss,32,Female,O+,114.5,143,Diabetes
-Wendy Palmer,76,Male,A+,50.2,186,Asthma
-Barbara Vazquez,43,Male,A+,67.0,144,Diabetes
-Richard Walker,79,Other,O-,119.7,182,Healthy
-Jonathan Hernandez,36,Other,AB-,140.5,191,None
-Joshua Foley,59,Other,AB+,134.4,144,Healthy
-Ian Cardenas,65,Female,O-,62.1,209,None
-Sherry Perry,28,Male,B-,125.9,181,None
-Andre Pierce,24,Male,O+,139.6,190,Healthy
-Veronica Oliver,47,Male,B-,62.5,154,None
-Robin Noble,62,Male,A+,71.8,207,None
-Peter Bennett,65,Female,O-,68.7,170,Diabetes
-Rebekah Bowen,44,Male,O+,142.1,192,Diabetes
-Meredith Byrd,38,Female,B-,77.7,168,None
-Shawn Tran,25,Other,B+,138.0,151,Diabetes
-Sonya Griffin,19,Male,O+,89.3,198,Diabetes
-Brittany Carter,74,Other,A+,126.5,192,Asthma
-Jose Klein,35,Male,B+,58.4,176,Healthy
-Joseph Mahoney,63,Female,O+,130.8,149,Diabetes
-Jennifer Ramirez,60,Male,AB-,79.8,183,Healthy
-Carolyn Hernandez,27,Male,A+,75.2,164,Asthma
-Tonya Young,71,Other,A-,87.2,210,Hypertension
-Scott Combs,56,Female,A+,87.7,195,Asthma
-Tara Dorsey,65,Male,O-,64.6,197,Asthma
-Linda Smith,75,Other,B+,107.1,208,Diabetes
-Robert Briggs,37,Other,O-,71.0,155,Hypertension
-Jay Walker,39,Female,AB-,89.4,166,Asthma
-Beth Wheeler,34,Other,B+,147.4,196,Hypertension
-Brianna Thompson,22,Other,O+,64.4,189,Hypertension
-John Reed,37,Other,A+,92.3,140,Diabetes
-Meghan Myers,40,Female,AB-,114.7,182,Diabetes
-Christopher Barker,31,Female,AB-,97.6,167,Hypertension
-Melissa Castro,23,Female,O-,130.2,207,Diabetes
-William Ortiz,38,Female,AB+,73.9,183,Asthma
-Kenneth Armstrong,75,Female,A+,73.9,155,None
-Melissa Duncan,38,Male,AB-,50.9,198,Diabetes
-Brian Garcia,32,Female,A-,54.0,157,None
-Alexis Cline,73,Female,A+,111.1,158,Hypertension
-James Cruz,64,Other,B+,140.4,160,Healthy
-Jessica Johnson,80,Female,O+,45.2,140,None
-Brandon Holmes,46,Female,A+,120.1,185,Hypertension
-Sara Farley,21,Male,O+,84.5,197,None
-Scott Miller,21,Other,AB-,116.9,164,Asthma
-Kristi Vargas,64,Male,O+,122.7,154,Healthy
-Stacy Banks,74,Male,O+,119.3,149,None
-Thomas Norman,36,Other,AB+,70.5,209,Asthma
-Matthew Gill,68,Other,B-,66.2,206,Hypertension
-Timothy Castillo,79,Male,AB+,144.4,150,None
-Terry Mills,50,Male,AB-,134.1,196,Diabetes
-Lisa Clark,59,Male,AB-,144.4,203,Healthy
-Joshua Owens,76,Other,B+,94.9,210,Hypertension
-Shawn Bonilla,65,Female,O+,95.1,150,Diabetes
-Jacob Keller,47,Other,O-,107.3,205,Healthy
-Dr. Megan Sims MD,51,Other,O-,146.8,177,Healthy
-Samuel Ford,61,Male,B-,71.5,183,Asthma
-Amanda Lawson,31,Male,B+,144.9,207,None
-Glenn Williams,74,Other,A+,43.0,198,Diabetes
-Brendan Brown,55,Female,B-,141.9,170,Diabetes
-Mary Contreras,45,Female,A+,128.5,203,Healthy
-Mark Roberson,68,Male,AB-,125.0,186,None
-Eileen Garcia,69,Other,A+,146.6,167,Hypertension
-Gavin Blake,19,Female,A+,63.9,198,Hypertension
-Mark Bond,73,Other,AB+,120.3,158,Diabetes
-Jimmy Preston,22,Female,O-,149.5,170,Diabetes
-Sarah Baker,43,Female,AB+,95.7,178,Hypertension
-Charles Ross,29,Male,B-,102.9,205,Healthy
-David Myers,23,Female,O-,91.3,188,None
-Carrie Wright,31,Female,B+,134.4,148,None
-Jessica Cortez,61,Other,AB-,52.4,151,Diabetes
-Nancy Fisher,47,Male,B+,42.9,158,None
-Dominique Rogers,44,Female,B+,77.9,140,Healthy
-Johnathan Leonard,74,Male,AB+,80.3,169,Diabetes
-Kathleen Howard,66,Male,A+,130.1,156,Asthma
-Travis Walters,51,Male,A+,89.9,180,Hypertension
-Grant Rollins,50,Female,AB+,125.0,202,Hypertension
-Lisa Parker,36,Other,AB-,42.9,157,Healthy
-Sean Carpenter,69,Male,B+,77.2,168,Asthma
-Michael Briggs,79,Male,O-,124.6,141,None
-Kristen King,65,Male,A-,80.8,145,None
-Parker Acosta,75,Other,O-,46.1,153,Healthy
-Jessica Williamson,69,Other,A-,109.7,173,Healthy
-Michael Cox,57,Male,O-,147.7,154,Diabetes
-Willie Goodwin,42,Female,AB+,119.7,207,Hypertension
-Larry Jackson,66,Male,B+,119.2,165,None
-Lindsey Jackson,47,Female,A-,111.0,197,Hypertension
-Diane Aguirre,79,Other,O-,76.2,145,Asthma
-Jacqueline Bates,53,Female,AB+,137.4,202,Hypertension
-Michael Roberts,48,Other,B+,64.8,171,None
-Timothy Perez,69,Female,B+,64.9,148,Healthy
-Travis Johnson,37,Male,AB+,143.7,171,Asthma
-Melissa Lewis,26,Male,A-,137.1,204,None
-Donald Castillo,68,Male,A-,82.9,144,None
-Tasha Smith,63,Female,A+,87.4,188,Hypertension
-Annette Bennett,71,Female,O-,81.8,199,Asthma
-Julie Mason,80,Male,AB-,64.1,150,None
-Rhonda Rios,35,Female,B-,52.2,179,Healthy
-Russell Villa,20,Other,A-,120.9,186,Diabetes
-Daniel Thompson,78,Other,A+,117.0,206,Healthy
-Joshua Fox,38,Other,A-,93.0,177,Hypertension
-Leslie Jones,46,Female,AB-,115.9,159,Healthy
-Bryan Harper,38,Female,B-,142.6,193,Asthma
-Crystal Nguyen,53,Male,O+,131.7,177,Diabetes
-Sharon Brown,44,Male,AB-,122.7,176,None
-Emily Mccullough,65,Other,AB+,138.4,194,Hypertension
-Nathan Miller,57,Other,A+,114.4,193,Hypertension
-Tyler Hill,40,Male,AB+,76.5,178,None
-Dana Garcia,59,Female,O+,47.1,198,Asthma
-Justin Jordan,62,Male,B+,80.6,145,Healthy
-Julie Lawrence,45,Male,O-,56.1,144,Healthy
-Connie Jackson,20,Male,O+,82.6,190,None
-Jennifer Haas,79,Other,B-,130.3,201,None
-Brad Hendricks,56,Male,AB-,135.3,177,Asthma
-Daniel Mcgee,55,Female,A-,65.1,161,Asthma
-Stephanie Tyler,71,Male,B-,71.0,158,Healthy
-Jason Lynch,24,Male,A+,140.2,200,Asthma
-Hector Lynch,68,Other,O+,96.7,155,Asthma
-Christopher Allen,72,Female,AB+,42.9,147,Healthy
-William Santos,38,Male,AB+,113.5,151,None
-Patrick Tran,68,Female,A+,58.0,164,Hypertension
-Jennifer Dudley,30,Other,AB-,55.8,187,None
-Kathryn Phillips,26,Other,A+,68.1,166,None
-Jonathan King,37,Other,A-,86.7,150,Asthma
-Ray Obrien,33,Other,B+,46.9,200,Asthma
-Justin Myers,18,Female,AB+,128.2,201,Diabetes
-Crystal Fields,32,Male,A+,42.6,159,Healthy
-Justin Gutierrez,36,Other,A-,99.3,161,Asthma
-Monica Montes,53,Male,B-,92.8,200,Healthy
-Danielle Parks,47,Other,A+,75.4,181,Asthma
-Mrs. Patricia Schneider MD,58,Male,AB-,94.4,165,Diabetes
-Sarah Myers,29,Male,A-,117.4,153,Healthy
-Mario Jones,22,Female,A-,132.6,190,Asthma
-Brad Meza,45,Female,O+,93.1,165,Healthy
-Melissa Norris,53,Female,O+,88.0,183,Asthma
-Christopher Perez,34,Female,B-,44.3,165,Healthy
-Robin Mcmahon,21,Other,A+,117.2,191,Hypertension
-Christopher Richmond,42,Other,AB-,75.8,163,Healthy
-George Williams,61,Female,O+,137.7,150,Diabetes
-Matthew Perez,58,Male,AB+,51.6,176,Asthma
-Michael Turner,48,Other,A+,141.2,199,Diabetes
-Alex Lewis,32,Other,O+,123.9,187,Diabetes
-Elizabeth Browning,68,Female,B-,49.5,183,Healthy
-Casey Duncan,32,Male,A+,146.4,202,Asthma
-Wendy Potts,31,Other,O+,67.9,195,Healthy
-Mackenzie Dalton,30,Male,O-,53.9,189,Asthma
-Kristina Summers,71,Female,B-,137.3,206,Diabetes
-Courtney Herring,52,Other,B+,95.9,200,Hypertension
-Lisa Alvarez,21,Female,A+,48.0,192,Hypertension
-Elizabeth Molina,61,Female,A-,94.7,209,Healthy
-Carolyn Little,29,Other,AB+,89.7,198,Hypertension
-Joshua Krueger,62,Female,A-,87.9,161,Asthma
-Joanna Jones,49,Female,AB-,129.2,154,Diabetes
-Adrian Ramirez,43,Other,B+,100.2,149,Asthma
-Kelly Simmons,61,Male,AB+,113.7,199,Healthy
-James Ramirez,55,Other,B-,117.3,164,Diabetes
-Antonio Sherman,56,Other,A-,102.2,186,Hypertension
-Jerome Garza,18,Female,B+,100.9,193,Asthma
-Yvonne Taylor,69,Female,AB-,120.9,210,None
-Joseph Ross,61,Male,O-,120.2,149,Healthy
-Kyle Harris,73,Other,AB-,94.3,192,None
-Janet Stone,47,Male,O+,47.8,174,Diabetes
-Kelly Contreras,59,Other,O+,145.2,150,Asthma
-Teresa West,61,Female,O-,50.4,182,Hypertension
-Robin Lamb,25,Male,A-,113.8,169,Asthma
-Michael Phillips,65,Male,O-,41.4,160,Hypertension
-Alexander Miller,46,Other,B-,91.7,184,Diabetes
-Cynthia Wise,36,Female,A+,100.4,205,Hypertension
-Travis Flowers,48,Female,A-,78.4,142,Asthma
-John Mcmahon,72,Female,B+,89.0,168,Healthy
-Kathleen Kemp,67,Female,B-,113.1,189,Hypertension
-Ronnie Taylor,40,Female,B-,123.9,149,None
-Lee Garcia,19,Other,O+,92.8,180,None
-Robert Owens,26,Other,AB+,75.9,146,Asthma
-Shane Gibson,36,Male,A+,123.3,201,Diabetes
-Manuel Lowe,61,Male,AB+,108.3,155,Diabetes
-John Delacruz,65,Other,AB+,104.7,179,Asthma
-Christopher Powell,63,Other,B+,108.6,157,Diabetes
-Makayla Jenkins,41,Female,AB+,70.6,175,Healthy
-Jennifer Rivera,45,Other,O+,136.8,209,Diabetes
-Susan Wells,21,Male,B-,120.5,185,Asthma
-Jerry Becker,55,Other,AB-,64.2,142,Hypertension
-Brittany Henry,50,Other,AB+,138.7,171,Diabetes
-Karen Bass,27,Male,AB+,64.4,189,Diabetes
-Gregory Meza,40,Female,A+,66.8,208,None
-Stacy White,28,Other,AB+,114.1,170,None
-Andrew Murray,72,Female,O-,81.9,156,Asthma
-James Young,55,Other,A-,97.4,169,Diabetes
-Ryan Washington,40,Other,A+,141.0,183,Diabetes
-Heather Horn,47,Female,O+,41.4,203,Hypertension
-Justin Thomas,37,Female,B-,136.9,201,Hypertension
-Michael Price,71,Male,O-,48.8,202,Diabetes
-Emma Morales,21,Female,O+,129.9,189,Asthma
-Michael Stone,66,Male,AB-,75.4,143,Hypertension
-Monique Vazquez,24,Other,B-,108.0,152,Hypertension
-Jamie Jackson,71,Other,AB-,127.6,193,None
-Erika Meyer,27,Male,O+,49.7,159,Asthma
-Scott Smith,65,Male,O+,46.4,162,Hypertension
-Robert Chen,27,Male,A-,130.6,192,Healthy
-Charles Anderson,20,Male,O-,40.3,155,Healthy
-Rhonda Alvarez,72,Other,A-,51.9,175,Healthy
-Melissa Martin,45,Male,A+,43.1,198,Asthma
-Nicholas Moss,43,Male,O+,143.4,205,None
-Joshua Robles,60,Female,B-,100.6,171,Hypertension
-Michael Travis,28,Female,A+,93.5,170,None
-Evelyn Rice,54,Other,O-,135.0,166,Healthy
-David Ruiz,65,Male,AB-,140.1,149,Diabetes
-Elizabeth Smith,25,Male,AB+,134.6,189,Diabetes
-Colleen Zamora,32,Other,B-,67.9,148,None
-Heather Gregory,20,Female,B+,129.7,179,Hypertension
-Michael Miles,33,Other,AB+,51.8,165,None
-Tiffany Ferguson,63,Male,B-,117.0,184,Asthma
-Stacy Little,34,Male,O+,127.2,181,Healthy
-Deanna Porter,76,Male,AB-,141.8,151,Hypertension
-Amy Fletcher,45,Male,AB+,53.5,178,Hypertension
-Gabriel Durham,45,Female,B-,116.0,205,Hypertension
-Shannon Ruiz,58,Male,A+,66.6,157,Diabetes
-Michael Contreras,78,Male,AB-,140.1,143,Asthma
-Tyler Griffith,48,Female,A-,48.0,165,Healthy
-Theresa Garrison,73,Male,O-,141.2,161,None
-David Patterson,28,Male,A+,97.9,197,Hypertension
-Debra Hayes,60,Male,O-,91.6,182,Hypertension
-Jeremy Smith,41,Female,O+,103.1,209,Asthma
-Kristen Combs,42,Female,A+,88.6,178,Healthy
-Barbara Esparza,79,Male,AB+,46.7,146,Healthy
-Shirley Schwartz,79,Other,O-,70.1,149,Diabetes
-Gregory Sheppard,39,Female,O-,79.1,171,Asthma
-Mario Taylor,33,Male,A-,103.7,151,Healthy
-Cheryl Nguyen,43,Female,B+,46.6,200,Diabetes
-Dr. Sharon Conner,49,Male,O-,97.0,170,None
-Robert Patel,30,Other,O+,101.0,153,Diabetes
-Matthew Dawson,41,Other,B+,71.8,161,Asthma
-Charles Green,21,Male,B+,68.1,149,Diabetes
-Sheila Booker,31,Other,O+,144.9,172,Healthy
-Jamie Kim,53,Male,AB-,50.8,157,None
-Margaret Harris,59,Female,AB+,99.8,163,Healthy
-William Harper,52,Female,A+,137.8,169,Healthy
-Antonio Price,36,Other,A+,128.1,145,None
-Jennifer Hood,77,Male,B-,84.9,179,Diabetes
-Jason Solis,60,Other,AB-,82.7,155,Diabetes
-Stephen Mcknight,33,Male,AB+,101.5,161,Diabetes
-Joshua Graves,77,Other,A+,45.3,180,Hypertension
-Nicole Barajas,43,Male,A+,49.4,199,Diabetes
-Ashley Williamson,80,Other,AB+,92.6,156,Diabetes
-Brooke Farmer,75,Male,AB+,52.1,206,Healthy
-Robert Weaver,26,Other,A-,82.4,208,None
-Gregory Ortiz,49,Male,B-,137.5,173,Asthma
-Melissa Marks,20,Male,O+,112.0,195,Diabetes
-Alison Roth,77,Male,O-,47.0,146,None
-Michelle Garcia,45,Female,A+,134.7,163,None
-Jennifer Sweeney,79,Female,O-,81.4,207,Diabetes
-Roberta Lewis,71,Male,A-,57.3,146,Diabetes
-William Hall,65,Other,B+,51.8,204,Hypertension
-Kyle Gomez,21,Female,AB-,53.2,141,Asthma
-Madison Sanford,42,Female,AB+,56.6,210,Asthma
-Emma Simmons PhD,47,Other,A+,70.1,195,Healthy
-Kimberly Montgomery,80,Other,B+,58.5,145,Diabetes
-Bobby Molina,78,Female,B-,45.3,161,Hypertension
-Justin Malone,47,Female,O-,58.0,156,None
-Theresa Ramsey,35,Female,B-,133.2,171,Hypertension
-Jennifer Vincent,77,Male,AB-,123.9,191,Asthma
-Daniel Barber,75,Other,AB-,75.1,170,Hypertension
-Mary Carr,74,Male,AB-,97.5,148,Diabetes
-Kevin Wilson,44,Female,AB+,123.0,198,None
-Erik Holmes,62,Male,B-,62.0,199,None
-Tina Patterson,24,Other,O-,137.6,203,Asthma
-Alyssa Owen,62,Male,B-,52.8,165,Diabetes
-Edward Cunningham,52,Other,AB-,68.1,166,Diabetes
-Jasmine Ellison,46,Other,O-,69.7,175,Diabetes
-John Wright,26,Other,O-,93.2,169,Diabetes
-Kristin House,44,Female,O-,59.3,178,Diabetes
-Sandra Gilbert,74,Female,A-,90.4,176,None
-Eugene Williams,59,Other,B+,51.9,150,Diabetes
-Danny Dixon,51,Other,B+,137.4,158,None
-Larry Sherman,74,Female,B+,87.3,195,Asthma
-Tom Montgomery,25,Male,A+,44.5,185,None
-Jennifer Morgan,63,Male,O+,107.3,202,Diabetes
-Ms. Hannah Jones MD,67,Female,AB+,104.3,150,None
-Emily White,62,Male,B+,46.8,208,Hypertension
-Bryan Wright,75,Male,B-,121.5,203,Hypertension
-Whitney Lewis,59,Male,A+,109.8,159,Diabetes
-Timothy Hebert,66,Other,AB-,111.9,161,None
-Jason Alvarado,42,Other,A+,65.3,200,None
-Aaron Oliver,78,Male,A+,130.5,162,Diabetes
-Carol Perez,32,Other,O+,41.9,175,None
-Joshua Miller,67,Male,A-,141.0,207,Healthy
-Dawn Wood,79,Female,A+,77.0,176,Healthy
-David Flores,76,Female,A-,53.4,206,Hypertension
-Seth Brown,32,Other,O-,148.0,149,Diabetes
-Heather Wolfe,25,Male,AB-,40.6,145,None
-Jamie Hernandez,30,Other,AB+,48.1,161,Hypertension
-Jennifer Thompson,53,Female,B+,74.6,171,Healthy
-Crystal Carpenter DDS,40,Male,AB+,130.0,191,Asthma
-James Brown,48,Other,AB+,59.2,202,None
-Frederick Liu,78,Other,B-,67.2,177,None
-Kenneth Meza,27,Female,A-,50.8,177,Asthma
-William Perez,56,Other,B-,126.0,164,Hypertension
-Anne Hernandez,35,Male,A+,122.3,142,Diabetes
-Michelle Adams MD,75,Male,B+,95.7,168,Hypertension
-Cynthia George,72,Other,B-,48.5,175,Healthy
-Justin Arnold,26,Female,AB-,88.0,191,Diabetes
-Steven Ford,49,Female,A-,73.7,186,None
-Jared Beck,27,Female,B-,68.2,144,None
-Christopher Bailey,18,Female,B+,149.3,156,None
-Susan Woods,48,Female,A-,147.8,175,Asthma
-Kimberly Campbell,26,Other,AB-,102.5,166,None
-Regina Gonzalez,72,Male,B+,60.3,190,Hypertension
-Brian Anthony,53,Male,AB-,75.3,149,Hypertension
-Eric Holland,32,Other,O-,134.9,175,None
-Rachel Bruce,47,Other,A-,88.5,205,Hypertension
-Michael Henderson,56,Other,AB+,45.9,150,Hypertension
-Matthew Campbell,33,Other,A-,68.1,193,Diabetes
-Jeffrey Peterson,78,Female,AB+,105.8,165,Healthy
-Jessica Beck,57,Other,O+,146.8,140,Asthma
-Tina Manning,30,Other,B+,40.5,198,Hypertension
-Albert Walker,75,Female,A+,70.8,199,None
-Shawn Schmidt,70,Other,AB+,87.6,161,None
-Daniel Blankenship,41,Female,AB+,47.9,187,Asthma
-Justin Hall,58,Female,A-,80.7,201,Healthy
-Stephanie Wright,52,Female,A+,68.0,168,Hypertension
-Beth Garcia,49,Male,AB+,78.8,195,Asthma
-Joel Harris,79,Female,AB-,133.4,204,Healthy
-Tiffany Strickland,78,Female,O+,88.1,203,Healthy
-Jeremy Graham,34,Male,B-,76.9,187,Asthma
-Kim Jones,57,Other,A+,86.7,155,None
-Anna Allen,29,Male,O+,125.2,183,Healthy
-Cathy Brooks,43,Male,O+,99.9,197,Healthy
-Bobby Riley,37,Male,O+,117.4,189,Diabetes
-Justin Coleman,77,Male,O-,61.0,144,Healthy
-Stanley Moore,19,Other,O+,43.9,147,None
-Cynthia Harris,51,Other,AB+,81.5,168,Healthy
-Victor Smith,71,Female,A+,120.5,153,Hypertension
-Joseph Morris,66,Female,A-,67.4,146,None
-Louis Evans,59,Other,O+,144.0,196,Diabetes
-Stacy Vega,72,Other,B+,69.0,202,None
-Heather Zhang,30,Female,AB+,85.0,202,Hypertension
-Charles Shah,41,Female,A-,63.8,189,Diabetes
-Bradley Brooks,51,Male,A-,45.2,186,Hypertension
-Richard Evans,79,Male,A+,61.9,173,Hypertension
-Aaron Wallace,76,Female,O+,142.5,210,Diabetes
-Eric King,73,Other,AB-,80.2,187,Asthma
-Paula Martinez,65,Other,A+,122.5,205,Hypertension
-Kara Moore,22,Female,AB+,128.3,191,None
-Brian Phillips,67,Female,AB+,78.8,149,Diabetes
-Ashley Richards,75,Female,AB-,131.9,140,Diabetes
-Kathleen Moore,59,Male,B-,132.3,140,Diabetes
-Melissa Wilkinson,79,Male,AB-,80.8,191,Hypertension
-Mariah Mcdonald,56,Female,AB+,91.8,155,Asthma
-Sarah Hayden,36,Female,A-,85.2,140,None
-Cindy Johnson,56,Female,B-,84.9,143,Asthma
-Joshua Leonard,26,Male,B-,125.1,177,None
-Lisa Parks,41,Other,B+,57.5,192,Asthma
-Lisa Solis,61,Female,A+,108.0,195,None
-Elizabeth Jones,71,Female,A-,139.2,164,Diabetes
-Michael Burns,40,Female,AB+,72.1,205,Asthma
-Joseph Miller,78,Other,B+,143.5,180,Healthy
-Erika Barrera,76,Other,AB+,79.8,205,None
-Laura Hull,80,Other,AB-,56.9,147,Hypertension
-Brian Blair,69,Female,O-,107.9,146,Diabetes
-Julie Sanders,57,Other,A+,61.7,204,Healthy
-Richard Reyes,61,Other,O-,106.3,208,None
-Lisa Williams,45,Male,A-,98.5,192,Asthma
-Charles Palmer,51,Male,A-,75.8,176,None
-Eric Moore,48,Female,AB-,70.8,155,Asthma
-Dawn Conrad DDS,60,Other,A+,54.6,178,Asthma
-Melissa Robinson,58,Other,B-,132.7,183,Healthy
-Jennifer Glass,47,Other,A-,44.5,198,Hypertension
-Donna Long,27,Other,A-,58.1,145,Healthy
-David Bell,18,Other,A-,90.6,210,Asthma
-Travis Flores,63,Male,B+,111.4,165,None
-Kenneth Jordan,42,Other,AB+,71.4,186,None
-Elizabeth Ellison,80,Other,B-,79.4,147,Healthy
-Alyssa Wright,67,Other,B-,79.1,193,Diabetes
-Mr. Michael Wyatt,29,Male,A-,115.8,201,Hypertension
-Holly Donovan,58,Other,AB-,133.6,160,None
-Robert Jefferson,62,Male,B+,91.1,154,Hypertension
-James Pope,53,Male,AB-,56.3,142,Healthy
-John Pierce,43,Other,O-,135.0,202,Hypertension
-Charles Jackson,65,Male,AB-,137.7,194,None
-Peter Dawson,59,Female,AB+,68.5,156,Healthy
-Dr. Jessica Wolfe,27,Other,AB+,80.0,179,Diabetes
-Carly Cole,21,Other,O-,83.5,191,Asthma
-Monica Kim,67,Male,O-,72.3,187,Diabetes
-Kristie Jones,21,Female,A+,89.0,203,Healthy
-Danny Moreno,66,Female,A-,127.4,144,Hypertension
-Theresa Nelson,77,Other,B+,48.4,167,Hypertension
-Robert Beck,55,Male,A-,123.1,153,Diabetes
-Michael Guerra,71,Female,A+,54.7,162,Hypertension
-Frank Flores,48,Other,A-,88.5,149,None
-Sarah Monroe,62,Female,O+,56.7,165,Asthma
-Patrick Marshall,42,Male,B-,82.9,142,None
-Kirk Rodgers,79,Male,B+,44.8,194,None
-Laura Fields,45,Female,A+,82.4,176,Healthy
-Jeff Jackson,59,Other,A+,133.8,149,None
-Alyssa Pacheco,80,Male,AB+,97.6,171,Hypertension
-Benjamin Harris,77,Male,AB+,142.1,180,Hypertension
-Jacob Shah,25,Other,O-,91.3,197,Healthy
-Yesenia Stevens,19,Other,O-,66.9,184,Hypertension
-Karen Clark,20,Female,O-,124.6,200,Hypertension
-Erica Parker,32,Other,A-,146.9,165,Healthy
-Jennifer Cox,21,Male,AB-,121.9,189,Hypertension
-Linda Villa,68,Male,O-,87.7,203,Healthy
-Juan Jones,45,Male,B+,93.9,166,Healthy
-Matthew Gardner,65,Female,B+,98.6,159,Asthma
-Wendy Rogers,61,Male,AB-,93.5,171,Healthy
-James Jones,58,Other,AB-,101.4,181,Asthma
-Alexandra Owens,53,Male,O+,87.4,208,Asthma
-Dr. Denise Jackson,62,Female,A-,111.8,173,Healthy
-Brian Phillips,77,Female,AB+,76.7,151,Asthma
-Michael Allison,57,Other,A+,66.6,207,Diabetes
-Lisa Blackburn,70,Male,O-,148.6,175,Healthy
-Keith Reynolds,37,Male,O+,54.2,205,Asthma
-Corey Andrade,40,Female,O+,100.2,204,Healthy
-Kathleen Malone,37,Female,A-,78.3,190,Asthma
-Melanie Rhodes,47,Female,AB-,79.6,155,None
-Cindy Parker,43,Female,B+,105.2,191,Hypertension
-Justin Gonzalez,50,Male,A+,92.2,203,Asthma
-Elizabeth Duffy MD,20,Female,O+,98.5,192,Hypertension
-Ryan Stuart,62,Other,B+,130.8,153,Diabetes
-Nicholas Roberts,55,Female,O-,118.3,158,Hypertension
-Tammy Jones,43,Other,B+,72.0,209,Diabetes
-William Sanchez,40,Female,B-,46.0,160,Diabetes
-Richard Silva,71,Other,A-,86.1,153,Asthma
-Sarah Newman,76,Male,AB-,67.1,183,Diabetes
-Courtney Reyes,23,Other,O+,49.0,206,Hypertension
-Eric Mayo,18,Other,B+,128.7,170,Asthma
-Joshua Roberts,40,Female,A+,107.2,203,Asthma
-Michael Bowen,28,Female,A-,106.6,209,Asthma
-Patrick Crawford,76,Female,B+,77.6,204,None
-Sara Small,53,Female,A-,147.6,166,Diabetes
-Michael Cook,30,Other,AB-,69.0,171,Asthma
-John Baker,38,Male,B+,49.5,143,Asthma
-Crystal Watson,73,Female,B+,58.7,154,None
-Cassandra Cardenas,35,Other,A-,40.1,165,Hypertension
-William Lawrence,38,Other,B-,128.5,164,Healthy
-Robert Booker,53,Other,A+,127.9,143,Healthy
-April Williams,39,Other,A+,77.7,176,Asthma
-Michael Moore,72,Male,AB+,48.3,174,Hypertension
-David Anderson,19,Other,AB+,85.6,166,Hypertension
-Joshua Burke,71,Female,O-,148.4,154,Asthma
-Richard Lee,61,Other,B+,63.0,142,Hypertension
-Joseph Mcguire,54,Male,O-,120.7,205,None
-Benjamin Martin,32,Other,B+,88.2,209,None
-Francisco Carter,66,Male,B+,99.0,202,Asthma
-Anthony Horne,79,Female,B+,111.0,176,Hypertension
-Shawn Ortega,47,Other,B-,48.9,198,Healthy
-Kristina Phillips,48,Female,A+,81.0,171,Diabetes
-Lisa Martin,45,Male,A-,86.7,166,Asthma
-Jamie Moore,72,Male,B+,45.4,205,Healthy
-Valerie Edwards,25,Male,B-,142.8,192,Asthma
-Anthony Bennett,63,Female,A+,43.5,160,Diabetes
-Cynthia Mcdonald,43,Female,B-,103.2,193,Diabetes
-Eric Davis,45,Other,AB-,73.5,163,Hypertension
-Natalie Smith,70,Male,B+,71.7,177,Diabetes
-Teresa Brown,72,Other,O+,104.5,165,Healthy
-Terri Hernandez,21,Other,B+,125.7,141,Asthma
-Mr. James Martin,30,Other,AB-,53.3,141,Healthy
-Christopher Gomez,28,Female,AB+,143.9,156,None
-Ms. Carolyn Martinez,56,Male,O-,116.3,199,Hypertension
-Cindy Edwards,32,Other,AB-,93.3,204,Healthy
-Andrea Perez,51,Male,AB+,73.5,194,Diabetes
-Jennifer Daniels,19,Male,AB+,63.5,208,None
-Benjamin Holmes,59,Male,B+,127.2,196,Healthy
-Michele Delgado,51,Female,A-,84.2,207,Asthma
-Shannon Martinez,18,Other,O-,48.5,160,Healthy
-Samantha Carter,47,Other,O-,124.2,187,Hypertension
-Christian Cunningham,61,Female,A-,66.0,158,None
-Robert Ochoa,27,Male,O-,77.4,176,Healthy
-Devon Vasquez,54,Other,O+,75.2,194,Diabetes
-Stephanie Chavez,80,Other,O-,85.3,182,Healthy
-Andrew Williams,27,Other,O+,145.8,170,Hypertension
-Dillon Andrews,72,Other,AB+,68.4,155,None
-Robert Calderon,28,Male,O-,145.7,174,Asthma
-Betty Torres DVM,18,Female,AB+,51.0,192,Asthma
-Kristina Mccullough,57,Female,A+,101.8,203,Healthy
-Dr. Cody Nelson,23,Other,AB-,41.9,177,None
-Allison Webb,61,Other,AB+,96.3,179,None
-Ronald Case,58,Other,A+,130.4,178,Healthy
-Amanda Franklin,41,Other,B+,73.0,190,Asthma
-Renee Fry,49,Other,AB+,145.7,175,Asthma
-Edward Mitchell,58,Male,AB-,126.8,181,Asthma
-Steven Griffith,42,Male,B-,43.9,157,Asthma
-Laura Osborne,55,Male,B+,133.6,180,None
-Karen Morales,23,Male,B-,125.5,145,Diabetes
-Mary Cuevas,58,Female,AB-,110.6,162,None
-Andrea Ramirez,58,Female,A-,86.8,177,Hypertension
-James Silva,31,Female,AB-,48.7,165,Healthy
-Emily Smith,62,Male,AB-,107.0,155,None
-Kevin White,61,Other,B-,104.5,148,Healthy
-Craig Martinez,33,Male,O+,78.9,159,Healthy
-Katie Brown,26,Other,A-,110.6,155,Hypertension
-John Heath,79,Other,A+,132.3,161,None
-Donna Mccall,76,Male,B+,93.3,145,Diabetes
-Patrick Moore,55,Other,A+,147.3,194,None
-Christopher Nichols,62,Male,O+,52.8,154,Healthy
-Crystal Turner,26,Female,B-,52.0,205,None
-Emily Keller,71,Female,B-,51.7,186,Hypertension
-David Smith,80,Female,AB-,42.9,206,Healthy
-Ashley Grant,23,Female,O-,113.9,160,Healthy
-Cory Wallace,34,Other,B+,106.4,149,Asthma
-Anne Stephens,18,Female,AB+,86.3,170,Diabetes
-Caitlin Santiago,23,Male,AB+,144.0,190,Hypertension
-Amy Wells PhD,80,Female,A+,122.9,160,Asthma
-Jessica Gutierrez,56,Female,A-,141.0,192,Asthma
-Crystal Conley,61,Other,AB-,46.0,143,Asthma
-Charles Price,47,Other,O-,76.8,173,Asthma
-Amy Anderson,39,Other,AB-,92.8,148,None
-Logan Murray,78,Other,A+,90.6,167,Asthma
-Debra Lee,51,Female,AB+,91.2,176,Hypertension
-Mary Reid,47,Other,B-,93.7,154,None
-Timothy Johnson,56,Male,AB-,145.1,204,Healthy
-Mike Brown,62,Other,AB-,138.8,147,None
-James Harper,73,Male,A+,91.3,172,None
-Raymond Harper,39,Other,O-,82.4,169,None
-Sarah Clay,47,Female,AB-,73.7,145,Healthy
-Robert Ellison,21,Female,B+,99.3,148,Diabetes
-Jim Mendoza,28,Male,A+,81.2,207,Hypertension
-Holly Livingston,38,Other,O-,41.4,198,None
-Jonathan Erickson,48,Other,B+,43.4,193,None
-Natalie Flores,77,Male,B-,108.5,169,Healthy
-Jessica Patrick,35,Other,A-,93.9,142,Diabetes
-Michael Hill,44,Female,B-,96.5,178,Asthma
-Lee Conrad,52,Other,O-,92.2,198,Asthma
-Brittney Wu,60,Female,A-,128.6,156,None
-David Mccall,71,Female,B-,95.4,142,Asthma
-Jacob Gray,68,Male,O-,130.8,187,Hypertension
-Heather Aguilar,44,Male,O+,123.8,180,None
-Victoria Johnson,31,Other,A+,146.1,186,Diabetes
-Patricia Miller,49,Other,O-,42.9,186,None
-Danny Thompson,56,Female,A+,48.3,202,Diabetes
-Nathan Mathews,67,Other,AB+,78.5,146,Diabetes
-Katherine Clark,41,Female,A-,107.4,199,Hypertension
-David Booth,49,Other,O-,86.7,187,None
-Samantha Allen,53,Female,O+,46.8,149,Diabetes
-Nancy Price,63,Female,O+,60.9,149,Hypertension
-Kristen Lara,32,Female,A+,78.0,164,Asthma
-Jessica Perez,24,Male,A-,138.6,194,Healthy
-Tamara Schneider,70,Other,AB-,74.5,171,Healthy
-Joanna Clay,21,Male,AB-,88.4,208,Healthy
-Juan Dawson,67,Female,B-,148.2,200,Diabetes
-Matthew Murphy,46,Female,B+,60.5,184,None
-Kimberly Simon,32,Female,O-,75.1,210,Diabetes
-Rodney Tran,32,Female,AB-,82.1,209,Asthma
-Ethan Gomez,49,Male,B-,73.7,153,Healthy
-Michelle Ford,24,Female,AB-,108.7,167,Diabetes
-Linda Shaw,61,Other,A-,91.6,194,None
-David Ward,35,Female,B-,111.4,192,None
-Jeremy Gomez,22,Female,B-,146.7,169,None
-Daniel Williams,61,Male,B-,59.7,158,Asthma
-Todd Quinn,26,Male,A-,99.4,154,Asthma
-Linda Patrick,48,Female,A-,87.8,203,Asthma
-Antonio Gutierrez,56,Male,AB+,137.8,159,Diabetes
-Jorge Branch,76,Female,B-,124.9,165,Asthma
-Corey Beasley,37,Other,B+,134.4,198,Asthma
-James Anderson,25,Male,AB+,129.9,159,Diabetes
-Nicholas Phillips,73,Male,B+,64.3,203,Healthy
-John Wright MD,32,Male,O+,63.3,158,Healthy
-James Schultz,30,Other,B-,110.5,193,Hypertension
-Steven Cox,33,Female,O+,120.6,155,Healthy
-Lisa Fuller,53,Other,AB-,60.3,150,Asthma
-Travis Rodriguez,77,Male,AB-,55.3,177,Healthy
-Randy Cox,31,Female,B-,72.3,170,None
-Glen Bass,53,Female,B-,69.4,158,Diabetes
-Jenna Daniel,62,Female,B+,44.2,157,Asthma
-Erica Clarke,37,Other,B+,58.9,167,Asthma
-Jamie Gill,71,Male,B+,54.3,167,Diabetes
-Phillip Medina,42,Female,O-,87.7,180,Healthy
-Laura Wright,47,Other,O+,52.1,158,None
-David Miller,56,Female,O+,139.5,182,Asthma
-Katie Prince,48,Female,A+,147.2,188,Asthma
-Joshua Martinez,60,Female,B+,148.2,162,Hypertension
-Sharon Christensen,64,Male,A-,88.5,156,Hypertension
-Randall Bonilla,48,Male,AB-,48.0,187,Healthy
-Vanessa Greene,24,Male,A+,64.4,166,Diabetes
-Marissa Mahoney,71,Male,B+,68.2,183,Healthy
-Tracy Woods,41,Other,O-,101.0,205,Healthy
-Casey Gregory,43,Other,B-,53.5,149,Healthy
-Heather Meyer PhD,24,Male,B-,133.7,178,Hypertension
-John Garcia,34,Male,B+,101.4,165,Healthy
-Larry Lopez,70,Male,O+,109.0,195,Diabetes
-Aaron Johnson,39,Female,O-,93.7,199,Hypertension
-Ashley Berry,72,Other,A+,105.4,144,None
-Christopher Jones,39,Female,AB+,113.0,160,Hypertension
-Scott House MD,72,Male,B+,72.2,198,Asthma
-Amber Gonzalez,20,Other,AB-,88.6,160,Asthma
-Stephen Clark,61,Male,A+,65.5,152,Hypertension
-Susan Tate,42,Male,AB+,80.8,206,Hypertension
-Susan Harris,41,Male,O+,47.2,156,Diabetes
-Dana Moreno,33,Female,O-,117.5,186,Diabetes
-Andrew Robinson,22,Male,A-,113.6,163,Asthma
-Phyllis Greer,71,Other,A-,115.1,145,Hypertension
-Joshua Roth,18,Other,AB+,137.5,178,Hypertension
-Jessica White,26,Other,AB-,107.5,145,None
-Jorge Lara MD,59,Male,A+,89.9,166,Asthma
-Andrew Rice,46,Female,AB+,122.4,165,Asthma
-Todd Rodriguez,62,Other,A+,48.1,169,None
-Keith Ramirez,41,Other,B-,52.0,180,Healthy
-Anthony Colon,42,Other,O+,98.1,204,Healthy
-Kelly Ashley,51,Male,AB+,62.6,174,None
-Shane Jones,25,Other,A-,117.3,158,Diabetes
-Bethany Smith,54,Male,O-,133.2,143,None
-Kaitlyn Newman,46,Male,A-,40.3,172,Hypertension
-Kimberly Lee,64,Female,A-,56.8,151,None
-Deborah Wright,28,Female,A-,92.4,195,Asthma
-Randy Daniels,59,Male,AB+,40.1,182,Hypertension
-Dawn Adkins,34,Male,A+,130.3,144,Hypertension
-Benjamin Copeland,20,Female,A+,118.1,151,Hypertension
-Shawn Rose,22,Male,AB+,149.5,145,Hypertension
-Hector Rogers,32,Other,O+,54.3,172,Diabetes
-Carla Parker MD,19,Female,O+,98.3,178,Healthy
-Mark Boyle,48,Male,B+,119.9,174,None
-Donald Andrews,60,Male,B-,138.3,196,Healthy
-Carla Turner,46,Other,AB+,99.4,163,Asthma
-William Day,51,Female,O-,115.4,168,Diabetes
-Samuel Brown,54,Other,O-,131.8,210,Hypertension
-Kristen Osborne,20,Male,A-,134.6,174,None
-Jessica Frank,37,Male,B-,103.8,158,Diabetes
-Richard Long,29,Female,A+,51.7,143,Diabetes
-Timothy Jackson,67,Female,AB-,138.6,150,Healthy
-Steven Norman,28,Male,B+,83.4,199,None
-Erik Calderon,28,Other,O-,89.8,186,None
-Nicole Mack,32,Male,A+,63.6,148,Hypertension
-Marc Jarvis,29,Other,AB+,48.6,149,Hypertension
-James Rodriguez II,80,Other,AB+,54.8,143,Diabetes
-Scott Mcconnell,59,Male,AB+,44.7,158,Diabetes
-Andrew Koch,35,Female,A-,53.8,197,Hypertension
-Trevor Garrett,52,Female,AB-,145.4,206,Diabetes
-Hannah Stevens,26,Female,B-,43.2,160,Diabetes
-Michele Garza,42,Other,AB-,50.7,203,Diabetes
-Ryan Lopez,41,Male,AB+,127.5,208,Healthy
-Lindsey Clayton,58,Male,A+,61.5,206,Diabetes
-Kristen Sanchez,42,Male,A-,77.8,167,Asthma
-Tamara Bonilla,33,Female,A-,124.2,200,Asthma
-George Gomez,18,Female,B-,77.6,162,Asthma
-Joseph Larson,20,Female,AB-,98.1,192,None
-Stephanie Davis,21,Other,B-,103.2,152,None
-Debra Anderson,26,Female,B+,121.6,201,Hypertension
-Jamie Garcia,71,Other,O-,45.0,168,Healthy
-Ruben Preston,29,Female,B-,143.7,156,Diabetes
-Melissa Bush,26,Male,AB-,134.7,159,Asthma
-Heather Gomez,59,Female,O+,59.7,151,Asthma
-Johnathan Huynh,36,Male,B-,88.8,154,Hypertension
-Daniel Black,71,Other,B+,116.2,191,Diabetes
-Mark Hendrix,18,Female,AB-,45.4,209,Healthy
-Sue King,36,Male,B+,79.0,175,None
-Samuel Jackson,40,Other,B+,101.5,147,Hypertension
-Michael Stephens,31,Male,AB-,85.7,179,Healthy
-Dr. Nicole Frederick DVM,25,Female,AB+,133.1,149,Healthy
-Karen Hernandez,67,Female,AB-,52.3,161,Diabetes
-Linda Bailey,68,Other,AB-,119.0,198,None
-Robert Marquez,61,Female,AB+,89.8,174,Hypertension
-Edward Perez,78,Other,O+,101.3,186,Diabetes
-Randy Douglas,22,Male,O-,139.2,171,Diabetes
-Emily Rios,62,Female,A-,121.7,183,Diabetes
-Kiara Luna,18,Female,B-,67.6,178,Healthy
-Robin Smith,22,Other,AB+,50.8,163,Diabetes
-Kayla Leon,76,Female,O+,93.6,165,Diabetes
-Anna Nichols,73,Other,O-,104.6,203,Hypertension
-Jennifer Parks,31,Male,O-,125.3,158,Healthy
-Melinda Taylor,56,Female,O-,135.3,193,Diabetes
-Daniel Pratt,51,Other,O+,148.0,143,Asthma
-John Suarez,33,Female,A-,79.2,204,Hypertension
-Samuel Jones,40,Male,A+,64.4,200,Hypertension
-Paul Olsen,62,Male,AB-,81.6,191,Healthy
-Willie Walsh,72,Other,A-,124.4,154,Healthy
-Steven Williams,56,Other,AB+,91.9,164,Asthma
-Jessica Gomez,62,Male,O+,116.7,171,Healthy
-Raymond Cruz,73,Other,A-,145.6,169,Healthy
-Maria Hayes,49,Male,O-,63.5,182,Healthy
-Heather Black,41,Male,O+,46.8,165,Asthma
-Michael Frye,60,Male,A+,46.6,163,Diabetes
-Heather Taylor,70,Other,A-,42.5,161,Healthy
-Richard White,46,Female,B-,91.2,144,Asthma
-Jade Ramirez,62,Other,AB-,108.2,178,Asthma
-Colleen Valenzuela,70,Male,A-,133.6,173,None
-Dennis Smith,27,Other,A-,116.0,140,Diabetes
-Jennifer Rogers,48,Other,AB-,115.7,209,Asthma
-Matthew Moore,77,Other,AB+,83.8,181,Healthy
-Douglas Johnson,57,Other,B+,44.5,144,None
-Kenneth Keller,80,Other,A-,81.3,174,Healthy
-Taylor Mcdonald,46,Female,AB+,135.4,174,Diabetes
-William Mckay,43,Other,O+,90.8,161,Asthma
-Dr. Nicole King,45,Female,B+,112.4,201,Hypertension
-Seth Watson,67,Female,O+,104.1,164,Asthma
-Jose Washington,28,Female,AB-,120.3,175,None
-Thomas Phillips,59,Female,A+,83.7,181,None
-Gabriel Woodward,66,Female,B-,50.2,198,Healthy
-Susan Barron,71,Female,B-,53.6,155,Asthma
-Joanna Garrett,39,Male,A+,125.3,169,Asthma
-Mario Hall,60,Female,A-,83.3,177,None
-Mark Thomas,69,Female,O+,143.3,145,Healthy
-Tammy King,61,Male,AB-,45.7,200,Asthma
-Jesse Gonzalez,25,Male,O+,141.5,179,Diabetes
-Michael Rogers,44,Other,AB+,77.3,172,Asthma
-William Waters,56,Other,O-,70.6,166,Asthma
-Bruce Reeves,71,Other,O+,122.2,148,Hypertension
-Joseph Beck,59,Female,O-,46.8,149,Healthy
-Alexandria Bell,28,Male,O-,97.6,162,Healthy
-Ethan Hays,71,Other,AB-,134.2,167,Hypertension
-Gabriel Daniels,78,Male,AB-,119.5,147,None
-Mrs. Hannah Bullock,32,Male,O+,148.1,177,None
-John Page,40,Female,O+,79.9,141,Asthma
-Marissa Little,25,Other,O+,119.6,182,None
-Tammy Wilson,71,Female,AB-,56.5,179,Asthma
-Nancy Vasquez,32,Male,AB-,127.6,163,Healthy
-Michael Bryant,35,Female,B-,101.5,204,Diabetes
-Erica Wilson,32,Male,A-,137.4,187,None
-Stephanie Hill,30,Male,A+,136.5,181,Diabetes
-James Gould,68,Other,A-,147.3,149,Asthma
-Dawn Carter,23,Other,O+,123.7,147,Hypertension
-Steven Marshall,64,Other,O+,55.3,154,Asthma
-Jessica Webster,53,Female,O+,139.4,205,None
-Chad Torres,54,Female,O-,106.9,167,Diabetes
-Hannah Collins,64,Female,AB-,49.3,160,Asthma
-Michelle Hill,33,Other,B-,112.4,164,None
-Linda Phillips,18,Female,O+,85.7,175,Hypertension
-Randall Hoffman,74,Other,A-,91.3,159,Healthy
-Jackie Bowman,64,Female,B+,93.8,191,Hypertension
-Ashley Miller,18,Female,B-,117.7,199,None
-Kristen Ford,28,Male,B-,144.9,167,Healthy
-Paul Glenn,77,Other,AB+,117.7,184,Diabetes
-Barbara Phillips,78,Female,A-,44.6,188,Asthma
-Bryan Horton,80,Female,O-,94.7,182,Healthy
-Morgan Miller,70,Other,B-,132.9,189,None
-Eric Knapp,60,Other,AB+,108.7,152,Healthy
-Michael Massey,79,Male,B-,51.5,205,Healthy
-Brandon Estrada,40,Female,A+,115.1,198,None
-Rhonda Meyers,47,Female,O-,63.6,183,Asthma
-Holly Hayes,24,Other,AB+,96.3,152,Asthma
-Robert Walker,66,Female,O-,58.9,202,Healthy
-Theodore Ramirez,56,Female,A-,114.0,170,Healthy
-Connor Anderson,37,Male,AB-,50.9,206,Hypertension
-Sierra Baker,62,Male,B+,114.0,203,Diabetes
-Stephen Cohen,26,Male,O+,120.2,179,Hypertension
-Dawn Cameron,42,Other,O+,93.2,209,None
-Kelly Davis,68,Female,AB+,139.7,167,Diabetes
-Troy Torres,18,Male,O+,147.1,207,Hypertension
-Kiara Waller,26,Male,O+,140.3,171,Hypertension
-Melanie Richardson,54,Other,B-,144.7,193,Hypertension
-Margaret Armstrong,18,Female,O+,59.2,158,None
-Elizabeth Robertson,54,Male,A-,114.2,162,None
-Alexis Patton,59,Other,O+,131.2,187,Diabetes
-Marissa Wolfe MD,41,Other,B-,98.8,173,Hypertension
-Jennifer Robinson,27,Female,B-,135.4,147,Healthy
-Louis Richardson,33,Other,B-,140.9,154,Asthma
-Phillip Dunn,23,Male,A-,76.7,150,Asthma
-Erin Jones,34,Other,B-,87.5,180,Hypertension
-Jennifer Bryant,54,Female,O-,78.6,188,None
-Courtney Cooper,68,Other,AB-,85.7,207,None
-Brittney Rosario,75,Male,AB-,70.2,196,Asthma
-Steven Miller,26,Other,B-,92.2,160,Healthy
-Alexa Willis,53,Other,AB-,126.5,158,Healthy
-Megan Hale,37,Male,AB-,40.3,186,Diabetes
-Kelsey Ibarra,32,Other,O-,49.8,164,None
-Melissa Dixon,42,Male,AB-,85.7,142,Diabetes
-Joseph Mcintyre,49,Other,A-,89.8,209,Diabetes
-Christopher Foley,74,Female,A+,64.8,167,Asthma
-Joshua Wright,31,Female,AB+,118.3,166,Asthma
-Victor Acosta,59,Male,B+,135.1,140,Hypertension
-Glen Calderon,23,Male,AB+,45.6,174,Healthy
-John Thompson,64,Female,O+,143.7,172,Hypertension
-Jason Smith,23,Other,O-,64.6,172,Diabetes
-Robert Crawford,78,Male,A-,105.1,207,None
-Herbert Webster,78,Female,B-,42.7,158,Asthma
-Charlene Beck,52,Male,AB-,86.4,154,Hypertension
-Susan Cain,25,Male,AB+,139.1,192,Asthma
-John Sanchez,60,Male,AB-,79.4,183,Asthma
-Daniel Bailey,71,Female,B-,132.1,159,Healthy
-Mary Thomas MD,49,Male,B-,103.9,210,Hypertension
-Alicia Nelson,26,Female,A-,78.9,170,None
-Andrew Lawson,46,Female,O-,81.1,170,Diabetes
-Amanda Simmons,52,Female,A+,89.4,141,Hypertension
-Jason Bailey,79,Male,A-,61.6,192,Healthy
-Matthew Wood,33,Other,O+,84.5,190,Diabetes
-Richard Perry,40,Female,AB-,110.8,181,None
-Jacob Stevenson,44,Female,B+,46.0,199,Diabetes
-David Rodriguez,69,Male,A-,137.4,183,Healthy
-Anthony Bradford,46,Other,O+,91.2,164,Asthma
-Kara Burch,23,Female,AB+,41.0,154,Hypertension
-Mr. Mark Coleman,66,Female,O+,64.7,140,Hypertension
-Julie Thompson,61,Other,O-,48.0,142,Healthy
-Tammy Solomon,24,Female,A-,111.6,150,Healthy
-Amber Ware,23,Other,B-,60.9,182,Diabetes
-Katie Schroeder,68,Female,A+,145.4,178,Asthma
-Colleen Nelson,36,Male,A+,122.3,190,Hypertension
-Mr. Joseph Acosta Jr.,24,Other,B-,112.5,208,Asthma
-Joshua Holt,43,Female,B-,94.6,190,Hypertension
-Melanie Sanchez,51,Other,AB+,98.7,171,Diabetes
-Tony Fuller,72,Other,B-,40.7,182,None
-Michael Warren,50,Other,AB+,57.0,190,None
-Tamara Welch,50,Other,A-,78.5,178,Asthma
-Patrick Wallace,39,Female,B-,103.5,142,None
-Ashley Gilbert,68,Male,AB+,48.3,147,Hypertension
-Robin Perkins,41,Female,A-,140.9,176,Diabetes
-Alexis Horton,64,Female,AB-,111.4,173,Hypertension
-Lisa Benitez,63,Male,O+,119.8,210,None
-Edward Davila,77,Other,B+,127.9,159,Asthma
-Joseph Lee,39,Female,O+,91.3,204,Asthma
-Katelyn Smith,37,Male,AB-,67.9,166,None
-Deborah Perez,23,Male,A-,130.0,186,Asthma
-Maria Peck MD,56,Male,B-,81.9,144,Asthma
-Russell Swanson,33,Male,AB-,80.5,171,Diabetes
-Jeremy Rodriguez,49,Other,O+,56.6,151,Hypertension
-Robert Wilson,68,Male,B-,110.6,200,Asthma
-Sara Phillips,63,Female,B-,116.0,179,Healthy
-Joanna Acosta,23,Female,A-,105.2,165,Asthma
-Tyler Turner,78,Male,A+,52.5,198,Diabetes
-Jonathan Hernandez,33,Male,A-,138.7,186,Diabetes
-Jeremy Schultz,36,Male,O-,60.5,198,Hypertension
-Lance Martinez,52,Female,AB+,137.5,194,Hypertension
-Sheila Cole,64,Male,AB-,51.6,141,Asthma
-Anna Yu,78,Female,B-,61.8,157,Hypertension
-Katelyn Villa,25,Female,B-,93.8,154,None
-William Mckay,63,Male,A+,95.7,210,Healthy
-Jennifer Morris,62,Other,A-,96.1,176,Diabetes
-Michael Anthony,53,Female,O+,90.4,157,Asthma
-Ricardo Weeks,61,Male,B-,46.7,205,Diabetes
-Jacob Hoffman,55,Male,O-,66.4,189,Diabetes
-Ms. Heather Johnson,75,Female,AB+,139.3,169,Healthy
-Cheryl Kane,30,Other,AB+,55.8,172,Diabetes
-Rebecca Aguilar,56,Female,B-,54.9,146,Healthy
-Danielle Johnson,64,Male,AB-,137.3,185,None
-Benjamin Wagner,50,Male,B+,81.9,186,Healthy
-Christine Crawford,26,Other,B+,40.5,205,None
-Steven Mcintyre,20,Female,AB+,79.6,172,None
-Ashley Cox,41,Male,O-,125.7,173,None
-Zachary Dennis,79,Male,O-,148.2,164,Healthy
-Vincent Jimenez,55,Male,B-,98.6,207,Healthy
-Tyler Williams,63,Other,O-,91.1,171,None
-Susan Allen,50,Other,AB-,128.0,176,None
-Leslie Patterson,19,Other,AB+,77.5,153,Asthma
-Kristin Turner,74,Other,AB-,105.7,176,Diabetes
-William Pierce,21,Male,AB-,69.0,151,Hypertension
+Name,Age,Gender,Blood Type,Weight (kg),Height (cm),Parkinson's Subtype,Blood Pressure,Exercise Habits,Recent Medical Procedure,Mental Health,BMI
+Jason Crawford,38,Other,O+,122.8,198,Postural Instability,114 / 109 mmHg,Daily,Image answer structure lose.,Fair,30.83
+Michael Zavala,67,Male,AB-,61.8,190,Late-Onset Parkinson's Disease,158 / 64 mmHg,Rarely,Institution skill senior TV simply visit stuff.,Good,37.64
+Richard Martin,39,Female,B+,141.2,166,Vascular Parkinsonism,108 / 60 mmHg,None,Travel every eye anyone share hope.,Good,21.29
+Stanley Walker,46,Other,B-,108.7,148,Genetic Parkinson's Disease,104 / 62 mmHg,Daily,Firm nation money relationship born American lose.,Good,36.86
+Victoria Mcdaniel,39,Other,O-,114.8,145,Drug-Induced Parkinsonism,165 / 68 mmHg,Rarely,Next turn break.,Fair,29.03
+Robert Adams,23,Other,AB-,88.1,198,Postural Instability,127 / 86 mmHg,Rarely,Receive generation morning rate hospital.,Fair,37.98
+Adam Ortiz Jr.,67,Female,AB+,77.0,140,Atypical Parkinsonism,103 / 76 mmHg,Rarely,Song yet response color.,Good,24.82
+Maria Gray,73,Female,A-,143.1,150,Hereditary Parkinsonism,113 / 90 mmHg,Rarely,Almost plan letter true.,Fair,27.5
+Richard White,29,Male,A+,139.6,194,Late-Onset Parkinson's Disease,107 / 62 mmHg,Daily,Alone book all point book area their.,Poor,36.78
+Steven Moyer,77,Other,A+,61.2,176,Idiopathic Parkinson's Disease,140 / 91 mmHg,None,Matter option loss trip watch.,Fair,35.67
+Dorothy Bender,55,Female,B+,100.2,150,Late-Onset Parkinson's Disease,90 / 111 mmHg,None,Address debate environmental candidate condition drive factor.,Fair,28.08
+Kimberly Smith,28,Other,B-,65.1,144,Parkinsonism-plus syndromes,115 / 92 mmHg,Daily,Behind detail support crime attack ground hit indeed.,Good,16.06
+Jonathan Cooper,45,Other,B+,99.5,140,Vascular Parkinsonism,118 / 110 mmHg,Daily,Into suggest seat vote market play.,Good,22.38
+Vanessa Stephens,44,Male,A+,148.7,177,Gait Disorder,124 / 104 mmHg,Daily,Real evening figure do stand guess.,Good,33.34
+Mr. Edward Joseph,28,Male,B+,148.8,209,Idiopathic Parkinson's Disease,143 / 94 mmHg,Weekly,Return respond party member value.,Fair,16.47
+Jesse Garcia,65,Female,B-,124.1,158,Idiopathic Parkinson's Disease,146 / 79 mmHg,Rarely,New security happen near understand campaign as practice.,Poor,28.42
+Ashley Lawrence,45,Female,O-,103.3,210,Young-Onset Parkinson's Disease,100 / 82 mmHg,Rarely,Audience ask create agency.,Fair,18.77
+Angela Brown,57,Other,B+,148.6,161,Postural Instability,142 / 111 mmHg,Daily,Stuff hair machine risk our thus rule.,Fair,32.43
+John Freeman,36,Female,B+,133.4,190,Gait Disorder,126 / 80 mmHg,None,Trial minute hard billion including company strong community.,Good,30.12
+Joe Evans,74,Female,B+,59.0,180,Atypical Parkinsonism,172 / 101 mmHg,Daily,Deep reach first newspaper reason military.,Good,28.88
+Hayden Thomas,51,Other,B-,104.9,198,Postural Instability,92 / 106 mmHg,None,Difficult need type although behind.,Fair,21.56
+Tina Jones,40,Other,O+,143.4,176,Genetic Parkinson's Disease,112 / 100 mmHg,None,Meeting total plant ready woman.,Fair,21.41
+Kathleen Atkins,36,Male,B+,107.7,197,Idiopathic Parkinson's Disease,132 / 116 mmHg,Daily,Ever force coach soldier wonder get financial.,Fair,38.89
+Christopher Benitez,38,Other,B+,77.8,149,Postural Instability,92 / 71 mmHg,Weekly,Some arm drive near record start budget person.,Fair,34.09
+Chris Rose,60,Male,AB-,134.0,154,Young-Onset Parkinson's Disease,107 / 88 mmHg,Daily,People newspaper miss country.,Good,17.64
+Jeffrey Mills,75,Male,O-,120.6,200,Idiopathic Parkinson's Disease,113 / 86 mmHg,Weekly,Economy have suddenly here pay medical.,Fair,36.7
+Teresa Weaver,59,Male,A+,146.4,207,Drug-Induced Parkinsonism,94 / 70 mmHg,Weekly,Institution lead not little.,Fair,32.34
+Daniel Sanchez,30,Male,B-,51.5,208,Drug-Induced Parkinsonism,121 / 100 mmHg,Rarely,Dog son what six central.,Fair,27.51
+Justin Nicholson,44,Female,B+,77.8,147,Drug-Induced Parkinsonism,111 / 106 mmHg,Weekly,Pattern school ahead by inside team past.,Good,26.29
+Katherine Rice,32,Other,A-,55.7,144,Postural Instability,139 / 63 mmHg,Daily,Expert must model matter you better.,Good,24.91
+James Glass,44,Female,AB-,146.7,159,Parkinsonism-plus syndromes,148 / 64 mmHg,Daily,Major couple protect avoid matter how ever.,Poor,15.1
+James Rios,58,Other,A-,130.8,159,Gait Disorder,141 / 107 mmHg,Weekly,Bar mean reach central entire.,Fair,32.71
+Elizabeth Martinez,78,Female,A-,110.0,155,Young-Onset Parkinson's Disease,164 / 104 mmHg,Rarely,Take decision laugh lead.,Fair,24.59
+Renee Thompson,77,Other,AB+,124.1,177,Drug-Induced Parkinsonism,118 / 93 mmHg,Weekly,Nor ball time much.,Good,29.3
+Maria Adams,76,Other,B-,134.2,141,Atypical Parkinsonism,164 / 82 mmHg,None,Surface toward meeting green team lose head.,Good,24.57
+Theresa Garcia DDS,21,Other,A-,75.6,188,Secondary Parkinsonism,121 / 104 mmHg,None,Concern party firm soon.,Good,32.39
+Gregory Dalton,54,Female,B+,64.8,182,Young-Onset Parkinson's Disease,161 / 72 mmHg,Rarely,Between look beautiful place study through finish.,Fair,24.97
+Heather Burnett,76,Male,AB+,143.1,150,Parkinsonism-plus syndromes,119 / 105 mmHg,Rarely,Ten director customer nice.,Poor,34.58
+Nathan Estes,38,Female,O-,87.6,164,Idiopathic Parkinson's Disease,149 / 63 mmHg,Daily,Movie must authority him course.,Poor,19.95
+Carla Wood,32,Other,A+,68.2,194,Secondary Parkinsonism,121 / 110 mmHg,Daily,Within plan education science whom how quickly.,Good,34.44
+Alexis Harris,37,Female,O-,143.4,159,Postural Instability,114 / 85 mmHg,None,Step kid continue when pattern mind campaign.,Poor,17.12
+Jeremy Stephens,44,Female,B+,149.2,154,Postural Instability,91 / 95 mmHg,Rarely,Inside quality PM on fund early sell many.,Good,30.45
+William Turner,42,Female,O+,147.8,177,Drug-Induced Parkinsonism,138 / 65 mmHg,None,Poor message professor hot.,Good,30.39
+Melanie Weaver,56,Other,A-,75.9,153,Idiopathic Parkinson's Disease,141 / 99 mmHg,Daily,Should trial series run nice worry.,Poor,39.25
+David Flynn,37,Other,B+,49.0,160,Secondary Parkinsonism,175 / 60 mmHg,None,Mention of seek.,Good,32.37
+Joe Harris,28,Male,AB-,145.0,194,Secondary Parkinsonism,153 / 112 mmHg,None,Piece relate effect ten approach car side.,Fair,22.73
+Michele Lopez,77,Male,A+,61.3,169,Late-Onset Parkinson's Disease,130 / 113 mmHg,Rarely,Any hear few more.,Fair,23.98
+Whitney Bell,79,Female,O-,145.7,156,Atypical Parkinsonism,110 / 79 mmHg,Daily,Rest three without military anything majority without rise.,Poor,28.62
+Matthew Rodgers Jr.,33,Other,A-,79.4,182,Secondary Parkinsonism,171 / 90 mmHg,Rarely,Physical hot benefit manage key enjoy.,Fair,23.67
+Brooke Sexton,49,Other,A-,81.1,207,Genetic Parkinson's Disease,136 / 87 mmHg,None,Through pay listen.,Good,24.14
+Tanya Johnston,72,Female,O-,89.6,200,Secondary Parkinsonism,161 / 66 mmHg,Rarely,Word need just.,Poor,31.8
+Caleb Ewing,58,Other,B+,54.2,197,Atypical Parkinsonism,136 / 96 mmHg,Daily,Go loss stay catch.,Fair,17.74
+Ashley Gates,66,Female,AB-,80.7,157,Atypical Parkinsonism,158 / 83 mmHg,Weekly,Smile firm together approach too authority.,Poor,27.34
+Kathy Pena,19,Male,O-,140.7,153,Atypical Parkinsonism,140 / 76 mmHg,None,Prepare make part hospital yourself.,Fair,29.55
+Kristen Walsh,52,Other,A+,89.8,150,Parkinsonism-plus syndromes,158 / 120 mmHg,Rarely,Cause nice through outside.,Fair,37.86
+Peter Wood,75,Other,B-,79.4,185,Young-Onset Parkinson's Disease,164 / 88 mmHg,Weekly,Consider billion field range.,Poor,22.55
+Brandi Chavez,72,Other,A+,149.4,144,Secondary Parkinsonism,165 / 88 mmHg,None,Green understand no they address type position.,Good,26.35
+Michael Chavez,45,Male,AB+,71.2,209,Parkinsonism-plus syndromes,170 / 76 mmHg,Rarely,Early future ability charge mention.,Fair,30.95
+Vanessa Harris,32,Other,A+,146.1,145,Hereditary Parkinsonism,131 / 100 mmHg,Rarely,Maybe school low become couple.,Good,25.6
+Kristen Hernandez DVM,49,Female,O-,56.2,196,Postural Instability,106 / 86 mmHg,Weekly,Always side direction draw writer effect whatever.,Good,35.63
+Ann Harris,76,Male,AB-,48.9,165,Late-Onset Parkinson's Disease,179 / 69 mmHg,Rarely,Act never better instead official break.,Good,22.05
+Douglas Sanchez,51,Female,O-,59.4,201,Secondary Parkinsonism,143 / 69 mmHg,Rarely,Cup place owner might law past.,Poor,34.2
+Christian Turner,38,Male,B-,122.8,141,Hereditary Parkinsonism,112 / 88 mmHg,None,Seek get realize leave decision simply human everybody.,Good,29.63
+Janet Mayo,63,Other,O+,82.1,146,Parkinsonism-plus syndromes,116 / 95 mmHg,None,Return alone account dinner best upon example.,Poor,37.24
+Drew Fuller,36,Other,A+,59.0,199,Genetic Parkinson's Disease,130 / 95 mmHg,Weekly,Word surface process drive next near summer.,Poor,17.7
+Danielle Thomas,27,Female,B-,82.3,157,Postural Instability,166 / 115 mmHg,None,Ago green window soldier account edge.,Fair,18.05
+Mr. Sean Sanchez,79,Other,B-,77.1,142,Vascular Parkinsonism,162 / 104 mmHg,Rarely,Skin save world rather do explain share.,Poor,28.19
+Brett Ward,78,Other,A+,98.3,169,Atypical Parkinsonism,93 / 82 mmHg,Rarely,Later thank admit medical season how purpose.,Fair,30.45
+Tonya Hayes,42,Other,B-,142.1,144,Gait Disorder,129 / 80 mmHg,None,Growth article forward other after film gun.,Good,24.33
+Melissa Key,18,Male,A+,129.2,146,Drug-Induced Parkinsonism,134 / 80 mmHg,Daily,Physical though wide college leg.,Good,35.6
+Amy Kim,28,Male,O+,78.0,187,Drug-Induced Parkinsonism,171 / 120 mmHg,Weekly,Traditional never drive drive reach anything maintain black.,Good,39.18
+Todd Wright,60,Other,AB-,135.6,187,Drug-Induced Parkinsonism,135 / 116 mmHg,Weekly,Suddenly politics individual treat economy rise set yet.,Good,25.76
+Melissa Leonard,74,Female,AB+,149.2,184,Postural Instability,176 / 104 mmHg,Rarely,Truth huge ask money gas top.,Poor,24.82
+Gabriel Brown,74,Female,AB+,134.3,161,Drug-Induced Parkinsonism,99 / 72 mmHg,Weekly,Space expect policy three time treat buy.,Good,28.42
+Jade Davis,71,Male,B+,130.0,149,Gait Disorder,131 / 88 mmHg,Weekly,Mean gas watch this.,Fair,15.1
+Nicole Campbell,36,Other,AB-,92.7,200,Secondary Parkinsonism,131 / 85 mmHg,Daily,Teach begin lot his outside president between.,Good,33.45
+Shannon Garcia,27,Male,B+,112.5,193,Atypical Parkinsonism,145 / 69 mmHg,None,Education fact front push.,Fair,17.95
+James Johnson,64,Female,B-,71.3,154,Young-Onset Parkinson's Disease,174 / 95 mmHg,Weekly,Fish short summer car security.,Good,28.99
+Kimberly Jones,49,Male,B+,46.0,191,Hereditary Parkinsonism,139 / 63 mmHg,None,Cold almost boy want.,Fair,16.37
+David Jacobs,29,Female,AB+,101.7,155,Gait Disorder,120 / 93 mmHg,Daily,Inside ahead scene contain brother.,Poor,24.93
+Cassandra Rodriguez,51,Male,B-,59.2,174,Atypical Parkinsonism,103 / 81 mmHg,Rarely,Appear suffer value be list organization.,Poor,38.45
+Michael Chase,73,Other,B-,66.4,178,Late-Onset Parkinson's Disease,118 / 82 mmHg,Weekly,From reflect performance well perform particular.,Good,27.68
+Fred Hughes,67,Male,B+,142.2,174,Idiopathic Parkinson's Disease,156 / 119 mmHg,Daily,Into consider point.,Fair,26.68
+Tammy Rodriguez,67,Male,A-,125.3,190,Gait Disorder,170 / 110 mmHg,Rarely,By sit set agree quickly.,Fair,37.18
+Sherry Harris,35,Other,AB-,52.9,166,Vascular Parkinsonism,117 / 81 mmHg,Rarely,Foot leg yet.,Fair,22.95
+Robert Holder,48,Female,B-,112.2,193,Hereditary Parkinsonism,135 / 97 mmHg,Rarely,Hit month so best.,Poor,15.88
+Brenda Solis,34,Female,O+,106.8,152,Atypical Parkinsonism,170 / 108 mmHg,None,Region your country fish involve computer happen dog.,Poor,32.46
+Kyle Gonzales,44,Other,O-,106.1,166,Drug-Induced Parkinsonism,118 / 86 mmHg,None,Significant make task trouble heart any true.,Good,35.77
+Lindsey Nguyen,34,Female,AB-,139.8,147,Secondary Parkinsonism,134 / 112 mmHg,Rarely,Standard employee language must.,Poor,38.93
+Mary Waters,49,Male,B+,45.0,205,Drug-Induced Parkinsonism,178 / 65 mmHg,Rarely,While voice rise.,Poor,25.84
+Jacqueline Bowman,74,Other,AB+,51.4,200,Vascular Parkinsonism,130 / 115 mmHg,Weekly,Crime although involve card learn who.,Poor,33.96
+April Smith,79,Female,AB+,143.5,159,Late-Onset Parkinson's Disease,94 / 101 mmHg,Weekly,Radio able fall newspaper some away seven.,Poor,20.42
+Edward Morales,53,Male,B+,102.4,149,Drug-Induced Parkinsonism,114 / 110 mmHg,None,Degree race with source.,Fair,32.99
+Janet Baker,70,Male,O+,47.6,199,Genetic Parkinson's Disease,122 / 95 mmHg,Weekly,Hotel city special.,Good,30.02
+Austin Stewart,60,Female,B+,130.8,156,Gait Disorder,114 / 86 mmHg,Rarely,Dog past increase condition add life particular behavior.,Poor,17.22
+Christina Nichols,76,Other,A+,128.1,193,Postural Instability,120 / 112 mmHg,None,Protect lot live ability.,Good,28.15
+Sarah Adams,37,Female,B-,46.5,162,Gait Disorder,169 / 82 mmHg,Weekly,Lawyer capital crime computer owner size sense.,Poor,16.21
+Jo Herrera,70,Other,A-,78.8,163,Genetic Parkinson's Disease,117 / 97 mmHg,Daily,My some cup cause.,Good,22.51
+Shelby Carey,23,Female,B+,78.5,196,Drug-Induced Parkinsonism,161 / 88 mmHg,Rarely,Part cost politics for drug.,Good,25.2
+Ashley Wright,40,Other,O-,81.6,176,Atypical Parkinsonism,171 / 108 mmHg,Rarely,Our responsibility seat child challenge inside card.,Good,16.06
+Diana Turner,53,Female,AB+,113.1,185,Young-Onset Parkinson's Disease,134 / 87 mmHg,None,First gas station thousand old red.,Fair,36.93
+Micheal Thomas,79,Female,A+,122.9,189,Postural Instability,180 / 71 mmHg,Rarely,Guess during fact loss health plan here different.,Fair,36.09
+Cory Phillips,27,Female,O-,121.2,142,Postural Instability,102 / 74 mmHg,None,Color focus treatment available draw explain avoid cut.,Fair,17.37
+Darius Huynh,65,Male,A-,126.6,152,Atypical Parkinsonism,102 / 91 mmHg,Daily,Quickly share during clear.,Poor,36.99
+Melissa Sullivan,71,Female,B+,70.2,143,Genetic Parkinson's Disease,105 / 82 mmHg,Daily,Five body lose drop senior myself adult.,Fair,33.31
+Joseph Terry,76,Female,A+,127.7,153,Secondary Parkinsonism,105 / 68 mmHg,Weekly,Case until again during mother group Congress.,Fair,29.98
+Mark Goodwin,48,Male,B+,41.8,158,Vascular Parkinsonism,156 / 63 mmHg,Weekly,Allow air nice loss cell side.,Poor,32.85
+Joshua Jones,20,Male,A-,88.5,155,Atypical Parkinsonism,157 / 106 mmHg,Rarely,Expect check sell gas.,Fair,29.7
+Terry Lewis,68,Male,B+,120.6,145,Postural Instability,111 / 84 mmHg,Rarely,Blue sit watch same agent piece teach.,Fair,36.69
+John Jefferson,22,Other,AB+,138.3,162,Parkinsonism-plus syndromes,121 / 64 mmHg,Rarely,Woman often somebody.,Good,39.07
+Robin Brown,49,Male,B-,125.0,148,Vascular Parkinsonism,168 / 81 mmHg,None,Wrong writer environment age decade ball.,Poor,22.22
+Nathan Harrison,67,Female,A+,100.7,149,Hereditary Parkinsonism,100 / 104 mmHg,Rarely,Often if phone southern hundred.,Poor,37.38
+Adrienne Erickson,43,Male,O+,76.0,189,Drug-Induced Parkinsonism,160 / 115 mmHg,Daily,Benefit cultural southern.,Fair,33.5
+Carolyn Medina,60,Female,A-,101.7,156,Postural Instability,143 / 89 mmHg,Daily,Push house hard manage.,Fair,38.38
+Jennifer Smith,26,Female,A-,135.8,154,Young-Onset Parkinson's Disease,98 / 115 mmHg,Weekly,Class cup training ahead unit alone energy.,Good,15.51
+Tina Gay,46,Other,B-,64.3,209,Postural Instability,166 / 82 mmHg,Daily,Discussion loss from none.,Good,39.95
+John Diaz,33,Female,O+,146.5,164,Hereditary Parkinsonism,103 / 94 mmHg,Weekly,Region young consumer direction.,Fair,27.89
+Angela Boyle,32,Other,O-,93.1,188,Atypical Parkinsonism,118 / 67 mmHg,Weekly,Leg suffer wide responsibility safe nature.,Poor,31.73
+Jennifer York,68,Other,A+,103.8,159,Genetic Parkinson's Disease,175 / 104 mmHg,Daily,Let oil share human teach eye science response.,Good,30.41
+Caroline Dougherty,46,Male,O-,125.6,170,Hereditary Parkinsonism,96 / 97 mmHg,Rarely,Half increase series owner science process two.,Poor,38.36
+Katrina Parrish,54,Female,O+,78.4,192,Late-Onset Parkinson's Disease,147 / 100 mmHg,Rarely,Time easy among.,Poor,17.2
+Roger May,37,Other,A-,106.9,150,Postural Instability,141 / 63 mmHg,Daily,Both adult and throughout treat receive.,Fair,17.53
+James Jones,56,Female,O-,88.2,209,Atypical Parkinsonism,121 / 85 mmHg,Daily,Report player him interesting relationship.,Poor,21.97
+Anita Walker,66,Other,O+,50.2,141,Late-Onset Parkinson's Disease,139 / 94 mmHg,None,Successful property response those along such red.,Fair,23.06
+Jordan Decker,62,Female,A-,94.2,149,Late-Onset Parkinson's Disease,129 / 81 mmHg,Weekly,Reduce history card explain allow leg court.,Poor,21.47
+Sarah Anderson,45,Female,O-,119.1,148,Young-Onset Parkinson's Disease,158 / 91 mmHg,Rarely,Wrong alone itself surface.,Good,19.9
+Bradley Tate,80,Other,O+,50.1,209,Atypical Parkinsonism,134 / 99 mmHg,Daily,Decide out prove end light benefit.,Good,37.97
+Charles Gonzalez,69,Other,A-,109.5,193,Postural Instability,109 / 60 mmHg,Rarely,Compare return pull.,Poor,24.66
+Dylan Smith,20,Other,B-,85.8,194,Drug-Induced Parkinsonism,98 / 118 mmHg,Rarely,Road doctor husband.,Poor,36.07
+Zachary Meyers,51,Male,B-,125.8,205,Gait Disorder,152 / 100 mmHg,None,Feeling reality human everything big population.,Poor,33.9
+Brian Jordan,20,Female,O-,110.8,154,Young-Onset Parkinson's Disease,178 / 66 mmHg,None,Kind reason let cost idea bag.,Poor,25.15
+Carl Anderson,29,Female,AB+,121.9,174,Parkinsonism-plus syndromes,108 / 105 mmHg,Rarely,Throw fact effect month eight.,Poor,27.39
+Sharon Adams,80,Other,AB+,120.7,186,Postural Instability,101 / 63 mmHg,Rarely,Write sit lot bit military.,Poor,30.73
+Wendy Chen,25,Female,AB-,94.3,183,Postural Instability,167 / 94 mmHg,Daily,Two buy yet unit must since.,Poor,28.17
+Heather Colon,74,Male,B-,107.5,193,Drug-Induced Parkinsonism,137 / 60 mmHg,None,Action weight race.,Good,32.01
+Ann Lopez,31,Other,O-,65.8,203,Parkinsonism-plus syndromes,120 / 64 mmHg,Weekly,Science recent sport job.,Poor,34.68
+Susan Terry,45,Female,AB+,56.4,172,Late-Onset Parkinson's Disease,106 / 103 mmHg,Rarely,Toward environment series still few will.,Poor,34.47
+Rebecca Gregory,46,Other,B-,52.6,186,Vascular Parkinsonism,127 / 75 mmHg,None,Mission size how Democrat increase mother attorney.,Poor,15.3
+Thomas Lewis,75,Other,A-,69.7,153,Genetic Parkinson's Disease,132 / 64 mmHg,Rarely,Heart accept black control create ask second.,Fair,23.13
+Felicia Chavez,19,Other,B+,59.7,207,Late-Onset Parkinson's Disease,134 / 109 mmHg,None,Write national know apply put consumer.,Poor,27.02
+Anita Johnson,61,Female,O-,61.1,205,Young-Onset Parkinson's Disease,106 / 108 mmHg,Weekly,Real home which good year dark executive.,Poor,40.0
+Sandra Wilson,33,Female,O+,110.0,177,Postural Instability,104 / 67 mmHg,Daily,Full test either recent party.,Poor,19.17
+Angela Brown,21,Other,A-,110.5,205,Late-Onset Parkinson's Disease,123 / 69 mmHg,None,Woman none position media family employee.,Good,25.03
+Matthew Pierce,65,Other,AB-,102.5,197,Atypical Parkinsonism,170 / 106 mmHg,Weekly,Address should best dark machine plan real best.,Poor,30.85
+Jennifer Jennings,50,Female,AB-,53.0,209,Secondary Parkinsonism,98 / 74 mmHg,Rarely,Tonight law sign us a ok worker.,Poor,29.32
+Brittany Rodgers,66,Male,AB+,76.4,169,Postural Instability,110 / 120 mmHg,Rarely,Ok about audience its a management.,Good,37.44
+Johnny Harris,44,Other,B-,102.7,142,Hereditary Parkinsonism,108 / 107 mmHg,Daily,Throughout crime note store as.,Poor,21.92
+Alicia Thompson,40,Female,B-,42.3,199,Gait Disorder,136 / 115 mmHg,Rarely,Between material term class.,Poor,35.46
+Yvette Lopez,36,Female,A+,62.7,158,Vascular Parkinsonism,179 / 89 mmHg,None,Star there admit his over research become.,Good,22.24
+Christopher Ferrell,29,Other,O+,47.5,145,Hereditary Parkinsonism,112 / 102 mmHg,None,Me truth garden stay might sister goal.,Fair,38.82
+Chelsea Roberson,71,Male,AB-,76.8,168,Young-Onset Parkinson's Disease,177 / 113 mmHg,Daily,Coach Republican determine understand available herself.,Fair,36.43
+Natalie Pugh,60,Other,AB-,139.6,197,Genetic Parkinson's Disease,101 / 62 mmHg,None,Single choose next property say.,Good,35.83
+Christopher Kelly,71,Other,A-,82.2,183,Late-Onset Parkinson's Disease,137 / 120 mmHg,Weekly,Case compare seven less drop.,Poor,33.94
+Laura Olson,76,Other,O-,144.2,170,Gait Disorder,160 / 103 mmHg,None,Thought society especially chance wonder.,Fair,24.04
+Kenneth Payne,30,Other,B-,49.7,166,Hereditary Parkinsonism,94 / 61 mmHg,Rarely,Both whose poor not no.,Good,17.83
+Jackie Brown,50,Female,O+,41.1,157,Late-Onset Parkinson's Disease,139 / 93 mmHg,Daily,Modern performance sister town near federal.,Fair,25.8
+Dennis Thompson,71,Male,O+,139.7,175,Genetic Parkinson's Disease,179 / 67 mmHg,Weekly,Happy sing teacher PM cultural popular.,Good,26.06
+David Parker,50,Other,B-,126.3,152,Parkinsonism-plus syndromes,124 / 101 mmHg,Rarely,Improve onto plant none data here.,Fair,19.67
+Michael Hampton,72,Male,B+,94.8,206,Hereditary Parkinsonism,119 / 90 mmHg,Rarely,Kind stage sing relate blood today million.,Fair,32.42
+Judith Harris,34,Other,A-,100.9,193,Drug-Induced Parkinsonism,121 / 74 mmHg,Daily,Fund defense a could him teach.,Good,39.19
+Linda Cole,19,Other,AB+,76.3,179,Parkinsonism-plus syndromes,98 / 86 mmHg,Rarely,Fund situation billion player enjoy.,Poor,36.8
+John Hull,18,Male,A+,120.3,146,Young-Onset Parkinson's Disease,144 / 107 mmHg,None,Book society huge public director sound.,Fair,17.81
+Ronald Dunlap,61,Other,O-,71.4,167,Atypical Parkinsonism,133 / 103 mmHg,None,Stand behind after meeting consider top author.,Good,25.09
+Laura White,24,Male,AB+,91.1,167,Drug-Induced Parkinsonism,115 / 61 mmHg,None,Leg history herself collection answer.,Poor,33.26
+Jeremiah Matthews,24,Other,B+,68.6,147,Gait Disorder,124 / 75 mmHg,Weekly,Similar front follow another day.,Fair,25.94
+Chelsea Riley,51,Other,AB+,81.9,208,Late-Onset Parkinson's Disease,134 / 102 mmHg,Rarely,Again method high impact study throughout nor.,Good,27.44
+Mary Stuart,68,Other,AB-,138.9,145,Idiopathic Parkinson's Disease,157 / 102 mmHg,Daily,Fight social smile.,Good,24.07
+Nicole Tran,44,Other,O+,77.5,185,Young-Onset Parkinson's Disease,130 / 66 mmHg,Daily,Source investment push much throughout their.,Fair,35.13
+Gregory Spencer,25,Female,A+,126.2,155,Parkinsonism-plus syndromes,119 / 60 mmHg,Weekly,Law information we less process might me.,Fair,28.65
+Emma Hernandez,64,Other,AB+,40.7,160,Gait Disorder,172 / 100 mmHg,Rarely,All heavy watch adult information under.,Fair,16.03
+Jesse Wallace,45,Female,O-,141.6,153,Secondary Parkinsonism,139 / 91 mmHg,None,Amount car stage eat expert go know center.,Good,27.83
+Selena Gentry,44,Female,A+,89.8,193,Young-Onset Parkinson's Disease,104 / 76 mmHg,None,Hold population outside training other appear impact.,Good,26.5
+Katrina Hernandez,30,Male,AB-,43.0,171,Secondary Parkinsonism,103 / 96 mmHg,Rarely,Water treatment result certain third important.,Fair,36.3
+Michelle Thompson,36,Female,A-,65.1,164,Late-Onset Parkinson's Disease,149 / 88 mmHg,Daily,Painting teach gun war available fish husband.,Good,28.96
+Katherine Johnson,52,Male,B+,57.7,207,Gait Disorder,176 / 67 mmHg,None,Why pull despite situation.,Fair,16.56
+Amy Perez,35,Female,A-,101.7,193,Late-Onset Parkinson's Disease,90 / 117 mmHg,Rarely,Firm policy various billion always nearly write.,Fair,17.39
+Lindsay Coffey,74,Male,A-,83.4,156,Secondary Parkinsonism,142 / 103 mmHg,Daily,Share power radio per opportunity.,Poor,21.96
+Anna Mejia,55,Male,O-,59.9,141,Genetic Parkinson's Disease,101 / 74 mmHg,None,Ago item determine cut provide large.,Fair,18.71
+Karen Watson,44,Female,B+,82.3,202,Gait Disorder,96 / 103 mmHg,Daily,Support far help strategy.,Good,38.71
+Valerie Francis MD,60,Female,B-,103.3,185,Gait Disorder,117 / 85 mmHg,Daily,Discussion this education property body PM magazine.,Fair,27.21
+Kathryn Hamilton,34,Female,A-,88.6,166,Gait Disorder,139 / 99 mmHg,Weekly,Sell military kitchen.,Good,33.24
+Laura Williams,72,Female,A+,62.0,179,Genetic Parkinson's Disease,152 / 99 mmHg,Weekly,Capital senior possible cup crime.,Poor,26.33
+Tammy Miller,70,Female,B+,124.8,159,Postural Instability,95 / 104 mmHg,Weekly,Fine while training sit movie religious until.,Good,35.22
+Courtney Nguyen,20,Male,A+,146.6,145,Postural Instability,101 / 93 mmHg,Weekly,Station nothing share large behind win.,Good,38.37
+Kathleen Gray MD,35,Male,B+,124.2,182,Vascular Parkinsonism,153 / 86 mmHg,Daily,Raise difference middle be own begin care recent.,Fair,16.44
+Victoria Pitts,18,Male,O-,128.3,206,Young-Onset Parkinson's Disease,107 / 69 mmHg,Weekly,Close money picture full however address way walk.,Poor,17.11
+Bonnie Cain,75,Male,B-,59.2,141,Drug-Induced Parkinsonism,119 / 83 mmHg,Weekly,Finally that none goal design minute answer.,Good,36.12
+Kayla Walker,19,Male,AB+,139.9,183,Parkinsonism-plus syndromes,105 / 108 mmHg,Rarely,Type light remain official we.,Good,25.74
+Christopher Berry,35,Male,B-,63.4,149,Atypical Parkinsonism,166 / 93 mmHg,Weekly,Member child best into.,Good,38.68
+Jeremy Diaz,38,Other,O-,49.5,195,Vascular Parkinsonism,119 / 94 mmHg,None,Reduce at case country of ok.,Poor,23.88
+Erica Roy,45,Female,O-,125.7,209,Atypical Parkinsonism,119 / 72 mmHg,Rarely,Daughter spend investment section others.,Fair,19.55
+Jason Brown III,68,Female,A+,66.0,186,Gait Disorder,102 / 101 mmHg,Daily,Lay man other inside position coach side.,Poor,37.21
+Dawn Salazar,71,Female,B+,91.0,142,Drug-Induced Parkinsonism,142 / 98 mmHg,Daily,Accept language man the role stage amount.,Good,26.67
+Sherri Todd,64,Female,AB-,115.7,164,Postural Instability,113 / 83 mmHg,None,Expert community energy seven.,Good,38.12
+James Johnston,78,Male,O-,148.4,153,Young-Onset Parkinson's Disease,150 / 80 mmHg,Weekly,Follow reach watch never exist else.,Poor,31.46
+Hunter Perez,23,Male,A-,99.6,141,Secondary Parkinsonism,122 / 91 mmHg,None,Newspaper yet year give win worry ground.,Fair,21.9
+Jennifer Snyder,28,Other,A-,128.2,198,Postural Instability,109 / 85 mmHg,Daily,Simply might mean college make.,Poor,25.66
+Jill Cervantes,49,Female,A+,78.1,169,Idiopathic Parkinson's Disease,173 / 70 mmHg,Weekly,Health hundred role chair have its.,Good,39.44
+Michael Warren,68,Other,B-,121.4,199,Idiopathic Parkinson's Disease,123 / 78 mmHg,None,Team agency field treat after two senior cover.,Poor,19.6
+Victoria Evans,28,Other,AB+,78.3,166,Vascular Parkinsonism,92 / 118 mmHg,Weekly,Control rather likely coach cover compare.,Good,39.87
+Miss Kimberly Morrison,60,Female,B+,53.5,143,Secondary Parkinsonism,96 / 60 mmHg,Rarely,With property agree behavior more consider might.,Good,25.89
+Pamela Wagner,73,Male,B+,95.1,163,Gait Disorder,148 / 118 mmHg,None,Eye know important.,Poor,17.31
+Chelsey Smith,35,Male,A-,147.8,197,Secondary Parkinsonism,144 / 72 mmHg,None,Alone table physical staff a spend speak.,Poor,19.25
+Michelle Finley,68,Female,A-,118.4,142,Gait Disorder,169 / 105 mmHg,Rarely,Off board test draw.,Poor,33.46
+Terry Eaton,55,Male,B-,40.3,148,Drug-Induced Parkinsonism,97 / 66 mmHg,Weekly,Game listen money hand.,Good,22.6
+Pamela Green,75,Female,O+,112.7,146,Parkinsonism-plus syndromes,170 / 78 mmHg,None,Write poor travel eye.,Poor,27.92
+Jeremy Olson,21,Female,B+,112.9,155,Postural Instability,144 / 69 mmHg,None,Economic keep movement reduce behavior.,Poor,34.49
+Joshua Mckay,63,Female,AB-,115.7,190,Genetic Parkinson's Disease,140 / 115 mmHg,Daily,Amount dream day base.,Good,30.42
+John Miller,60,Male,O-,80.1,200,Genetic Parkinson's Disease,122 / 118 mmHg,Weekly,Financial range reach interest.,Good,34.75
+Janet David,32,Other,A-,124.8,140,Parkinsonism-plus syndromes,104 / 72 mmHg,Daily,Effort local purpose thought writer.,Good,25.77
+Tracy Reynolds,55,Male,A+,83.9,162,Idiopathic Parkinson's Disease,171 / 116 mmHg,Weekly,Early perform develop yard suffer.,Good,24.34
+Shannon Nelson,67,Female,O+,140.4,172,Young-Onset Parkinson's Disease,170 / 84 mmHg,Rarely,Instead finally forward old.,Good,38.39
+Jesse Guerrero,52,Female,A+,121.1,205,Young-Onset Parkinson's Disease,126 / 65 mmHg,None,Ahead race either TV affect per.,Good,20.24
+Ashley Turner,60,Male,B-,121.1,188,Vascular Parkinsonism,121 / 93 mmHg,None,Similar final for wall former deep indeed.,Fair,15.88
+Belinda Ramirez,28,Female,A+,112.4,180,Hereditary Parkinsonism,146 / 105 mmHg,Daily,Use more end level rich walk ready speech.,Poor,16.2
+Tammy Clark,43,Female,B-,102.9,196,Secondary Parkinsonism,150 / 60 mmHg,Daily,Door information city drop three million.,Fair,38.28
+Jodi York,19,Male,B+,132.8,196,Atypical Parkinsonism,150 / 106 mmHg,Weekly,Sell commercial physical husband across reality.,Fair,37.86
+Mark Walker,21,Other,A+,50.3,145,Idiopathic Parkinson's Disease,113 / 103 mmHg,Rarely,Understand well approach.,Fair,28.5
+Joshua Lopez,53,Other,O+,47.6,208,Vascular Parkinsonism,93 / 106 mmHg,None,Drug full base professor audience pressure himself.,Poor,29.38
+Dawn Odom,20,Male,AB+,91.4,179,Vascular Parkinsonism,139 / 66 mmHg,Rarely,Use southern hundred consider affect dark itself.,Fair,32.31
+Andrew Pugh,75,Other,O+,137.6,189,Secondary Parkinsonism,153 / 116 mmHg,Daily,Answer memory black happen effort.,Good,31.17
+Anthony Edwards,37,Other,O-,94.8,173,Parkinsonism-plus syndromes,170 / 89 mmHg,Rarely,You through capital car.,Fair,24.98
+Robert Johnson,42,Male,AB+,96.6,184,Gait Disorder,93 / 70 mmHg,Daily,Manage health party owner green.,Fair,37.96
+Elizabeth Gregory,18,Female,B+,107.0,204,Postural Instability,167 / 108 mmHg,Weekly,Her wish quickly religious.,Fair,32.99
+Melinda Whitney,44,Male,O+,71.1,185,Postural Instability,175 / 106 mmHg,Rarely,Foot should participant appear necessary least.,Fair,33.49
+Mary Sutton,59,Female,A+,85.0,169,Idiopathic Parkinson's Disease,133 / 106 mmHg,Daily,Size gun lay along.,Fair,16.79
+Kevin Simmons,28,Male,AB+,95.2,187,Drug-Induced Parkinsonism,142 / 102 mmHg,None,Little check five response hot again.,Good,21.62
+Sherri Day,40,Other,A+,99.1,202,Idiopathic Parkinson's Disease,101 / 107 mmHg,None,Able wear several material available.,Good,28.88
+Joseph Blackburn,28,Female,O-,128.2,202,Atypical Parkinsonism,173 / 105 mmHg,None,Stop tonight economy course amount do rule wife.,Fair,37.77
+Marc Hall,40,Male,A+,63.1,198,Secondary Parkinsonism,176 / 74 mmHg,Daily,Brother eat bed foreign country interesting degree.,Good,26.71
+Tara Nolan,64,Female,AB-,123.3,208,Idiopathic Parkinson's Disease,90 / 116 mmHg,Rarely,Worker part health grow indeed true baby.,Poor,28.03
+Larry Reed,56,Male,B-,41.5,147,Late-Onset Parkinson's Disease,95 / 98 mmHg,Weekly,Care tend detail imagine likely.,Fair,26.55
+Tiffany Bailey,55,Male,AB-,96.4,166,Hereditary Parkinsonism,180 / 62 mmHg,None,Forward direction chair commercial animal edge blood.,Fair,37.79
+Tiffany Smith,23,Female,A-,109.6,209,Postural Instability,147 / 96 mmHg,Daily,Forward thing world name stuff full drive.,Good,15.55
+Brooke Young MD,31,Other,A-,70.0,144,Gait Disorder,121 / 99 mmHg,Weekly,Fly base why a.,Poor,24.44
+Rodney Johnson,23,Male,A-,141.4,195,Idiopathic Parkinson's Disease,114 / 63 mmHg,Weekly,Budget probably maybe anything amount.,Fair,31.91
+James Garcia,32,Other,A-,132.1,167,Drug-Induced Parkinsonism,155 / 66 mmHg,None,Speech style hit according worker suddenly.,Good,18.97
+Kayla Braun,72,Other,A-,72.1,166,Postural Instability,113 / 67 mmHg,Daily,Defense money number allow take air modern sit.,Fair,25.78
+Ann Nicholson,79,Other,O+,108.0,209,Vascular Parkinsonism,96 / 60 mmHg,Weekly,Player significant remain drop personal buy.,Good,23.87
+Victoria Martinez,52,Male,AB-,52.6,195,Idiopathic Parkinson's Disease,159 / 96 mmHg,Weekly,Left hospital hit action.,Good,16.76
+Eric Foster,30,Female,AB+,58.0,140,Postural Instability,162 / 105 mmHg,None,Suddenly across box employee newspaper any key also.,Good,36.27
+Jeffrey Jones,18,Male,AB+,97.6,157,Vascular Parkinsonism,137 / 94 mmHg,Weekly,Reality school win white case above conference.,Fair,38.67
+Patrick Johnson,78,Female,A+,92.9,197,Vascular Parkinsonism,123 / 107 mmHg,Daily,Story within win ready senior of.,Poor,39.88
+Tracey Ruiz,33,Female,B-,103.8,153,Idiopathic Parkinson's Disease,120 / 66 mmHg,Daily,Majority almost direction by charge official.,Poor,30.5
+Brandy Cohen,68,Male,O-,110.5,198,Parkinsonism-plus syndromes,164 / 106 mmHg,None,Guy traditional look close.,Good,29.81
+Mrs. Joanna Brown DVM,33,Male,B-,40.6,164,Gait Disorder,120 / 87 mmHg,None,Claim condition never listen suddenly away gas.,Good,33.48
+Marie Thomas,75,Male,B+,132.2,151,Drug-Induced Parkinsonism,115 / 118 mmHg,None,Enter ten life recently citizen building style.,Poor,21.08
+Amber Morales,52,Female,A+,87.2,193,Hereditary Parkinsonism,146 / 95 mmHg,None,Attention understand order whom should.,Good,38.89
+Fernando Wilkins,78,Male,O-,107.4,178,Parkinsonism-plus syndromes,145 / 84 mmHg,None,Popular receive free capital trouble real include.,Good,37.31
+Cody Rogers,64,Male,O-,80.3,176,Young-Onset Parkinson's Disease,101 / 113 mmHg,Rarely,Find fly treatment us resource air.,Poor,19.47
+Zachary Long,24,Other,A+,118.6,205,Vascular Parkinsonism,101 / 111 mmHg,Weekly,Life discover professor brother need animal use front.,Poor,31.99
+Teresa Johnson,54,Male,AB-,49.7,182,Late-Onset Parkinson's Disease,131 / 84 mmHg,Rarely,Space performance campaign team region hotel.,Good,30.73
+Mrs. Sarah Reynolds,70,Female,B+,44.3,202,Postural Instability,127 / 66 mmHg,Daily,Others relationship join type few learn parent.,Poor,36.16
+Brian Barrett,75,Female,B+,146.5,163,Young-Onset Parkinson's Disease,145 / 74 mmHg,None,Others night chair ten night our.,Poor,26.32
+Daniel Harrison Jr.,52,Other,A-,148.6,204,Genetic Parkinson's Disease,129 / 66 mmHg,Rarely,Book radio response individual me age series.,Poor,16.33
+Victoria Turner,72,Male,AB-,78.7,170,Idiopathic Parkinson's Disease,92 / 61 mmHg,Daily,Sell own about consumer beat everything.,Fair,16.61
+Kathryn Davis,37,Male,A-,147.6,163,Hereditary Parkinsonism,169 / 98 mmHg,Daily,Open carry federal reduce stock thought.,Good,17.58
+Pamela Boone,36,Female,A-,95.9,179,Vascular Parkinsonism,140 / 71 mmHg,None,Ground law hundred week point letter.,Good,24.17
+Jimmy Mccullough,34,Male,B-,149.5,202,Atypical Parkinsonism,108 / 94 mmHg,Daily,Recently together whole race run ability.,Fair,20.27
+Steven Rose,22,Male,O+,139.9,154,Late-Onset Parkinson's Disease,136 / 100 mmHg,Weekly,Address American trip standard doctor born no.,Good,30.74
+Ariel Garrett,65,Female,AB+,73.3,140,Postural Instability,97 / 90 mmHg,None,War performance probably itself tend night.,Good,22.53
+Brian Cooper,20,Other,O-,66.9,186,Young-Onset Parkinson's Disease,162 / 80 mmHg,Rarely,Thank minute miss water assume clearly.,Poor,20.53
+Benjamin Vargas,47,Other,A+,75.8,209,Postural Instability,104 / 77 mmHg,Rarely,Meet game certain next.,Good,35.58
+Jamie Jones,27,Other,A-,109.1,189,Gait Disorder,159 / 84 mmHg,Rarely,Discuss ever them without far.,Good,23.05
+Charles Ramos,25,Female,B-,133.4,163,Atypical Parkinsonism,155 / 97 mmHg,Rarely,Someone behavior easy final material night quality treat.,Poor,25.39
+Bobby Perez,65,Female,A-,73.0,202,Hereditary Parkinsonism,173 / 111 mmHg,Weekly,Last station now agency skill many state.,Good,38.87
+Gregory Mcguire,80,Other,A-,87.0,191,Secondary Parkinsonism,122 / 113 mmHg,None,Less something image.,Good,32.58
+Dylan Harper,51,Male,AB+,75.5,179,Drug-Induced Parkinsonism,124 / 106 mmHg,Rarely,Both right technology cultural edge size.,Good,34.99
+Carol Cooley,65,Other,O+,119.9,205,Gait Disorder,150 / 76 mmHg,None,Enough compare such threat.,Good,18.28
+Mr. Ricky Gonzalez,40,Male,A-,112.7,186,Young-Onset Parkinson's Disease,109 / 61 mmHg,Rarely,World world yeah.,Fair,28.13
+Ashley Rogers,65,Female,O-,118.5,183,Late-Onset Parkinson's Disease,133 / 120 mmHg,Daily,Majority thank couple partner generation nation.,Good,39.88
+Audrey Green,37,Male,B-,101.3,182,Postural Instability,96 / 102 mmHg,Daily,Work song vote family.,Poor,26.96
+Cynthia Vincent,60,Male,AB-,121.0,209,Secondary Parkinsonism,162 / 118 mmHg,Daily,He understand space prove last bit policy.,Poor,19.67
+Andrew Holloway,79,Other,A-,44.6,150,Hereditary Parkinsonism,165 / 70 mmHg,Weekly,In girl specific physical.,Poor,28.57
+Kimberly Douglas,44,Male,AB+,125.9,168,Vascular Parkinsonism,90 / 93 mmHg,None,Hot set professional paper item probably style car.,Fair,16.81
+Alexandra Stevens,70,Female,B+,133.8,162,Parkinsonism-plus syndromes,105 / 103 mmHg,Daily,Serious trouble serious sometimes unit cultural shoulder.,Good,16.55
+William Barajas,43,Female,AB+,118.3,201,Drug-Induced Parkinsonism,130 / 68 mmHg,Rarely,First evening forward article run.,Poor,19.94
+Terry Watson,21,Male,B+,60.2,200,Gait Disorder,104 / 113 mmHg,None,Second resource world sign type among statement him.,Good,19.98
+Olivia Price,44,Female,O+,59.6,174,Atypical Parkinsonism,150 / 105 mmHg,None,Brother a organization school.,Good,29.6
+Susan Hobbs,34,Other,B-,125.2,191,Gait Disorder,129 / 115 mmHg,Weekly,Democratic herself happy this modern movie almost strategy.,Poor,21.44
+Terry Long,34,Male,AB+,98.4,148,Parkinsonism-plus syndromes,108 / 106 mmHg,Weekly,Name always only medical woman.,Fair,26.27
+Adam Ramsey,29,Male,O-,72.1,173,Genetic Parkinson's Disease,155 / 115 mmHg,Rarely,Population full build economic.,Good,38.47
+Jeremy Johnson,27,Male,O+,145.8,143,Genetic Parkinson's Disease,177 / 65 mmHg,Weekly,Surface red pull prove human a help information.,Poor,33.87
+Sonia White,57,Female,O+,56.0,159,Parkinsonism-plus syndromes,157 / 79 mmHg,Weekly,Number with whatever nor.,Fair,23.65
+Jennifer Brown,38,Other,B-,96.4,208,Parkinsonism-plus syndromes,116 / 62 mmHg,None,Simply change life either agent.,Poor,26.23
+Robert Rodriguez,76,Other,B+,47.2,168,Parkinsonism-plus syndromes,149 / 99 mmHg,Weekly,Send nation chance southern know nation.,Poor,34.87
+Shawn Bradley,74,Female,AB+,81.1,183,Young-Onset Parkinson's Disease,136 / 82 mmHg,Daily,Safe military process.,Good,31.02
+Leah Perkins,19,Male,B+,134.6,145,Late-Onset Parkinson's Disease,149 / 110 mmHg,None,Time become place scientist cause by north.,Poor,15.16
+Thomas Martinez,44,Male,O+,59.2,169,Genetic Parkinson's Disease,97 / 112 mmHg,None,Note skill fund quite different.,Fair,38.6
+Christine Carlson,66,Other,O+,146.1,193,Idiopathic Parkinson's Disease,180 / 115 mmHg,Rarely,All understand factor along tell first Mr.,Fair,16.99
+George Clements,73,Female,B-,117.2,157,Gait Disorder,153 / 110 mmHg,Weekly,Arm dog nor good travel leave.,Fair,21.0
+Patricia Logan,36,Other,AB+,53.2,140,Drug-Induced Parkinsonism,117 / 72 mmHg,Weekly,Yeah away drop especially.,Poor,19.63
+April Blake,71,Other,B+,48.1,183,Idiopathic Parkinson's Disease,123 / 104 mmHg,Daily,Its them loss enjoy.,Good,23.44
+Mary Brown,51,Other,A-,86.6,162,Young-Onset Parkinson's Disease,132 / 74 mmHg,Rarely,Baby approach site ahead.,Poor,27.95
+Nicholas Craig,77,Female,A-,130.7,180,Young-Onset Parkinson's Disease,125 / 110 mmHg,Weekly,Individual behind exist campaign.,Fair,22.16
+Walter Miranda,65,Female,B-,98.9,176,Gait Disorder,97 / 114 mmHg,Daily,Either me than discuss.,Fair,35.15
+Brian Vaughn,21,Male,AB+,112.9,199,Drug-Induced Parkinsonism,150 / 110 mmHg,Rarely,Sit worker thing information game teach man.,Fair,18.88
+Sara Smith,25,Male,O+,121.9,165,Secondary Parkinsonism,124 / 119 mmHg,Weekly,Kid reason writer risk leader really.,Good,23.28
+Bridget Smith,30,Female,A-,96.4,202,Secondary Parkinsonism,148 / 89 mmHg,Weekly,Almost prepare nor hour kitchen serious.,Good,32.19
+Mary Fuller,67,Other,B-,104.4,168,Idiopathic Parkinson's Disease,110 / 81 mmHg,None,Magazine certainly standard news level.,Fair,17.71
+Jessica Collins,51,Other,O-,103.1,209,Idiopathic Parkinson's Disease,98 / 119 mmHg,Weekly,Term law field standard which market father.,Poor,38.81
+Michael Weaver,63,Female,B+,106.7,190,Idiopathic Parkinson's Disease,151 / 108 mmHg,Daily,Attorney nor street just drug black hard bed.,Fair,16.69
+Justin Ruiz,37,Female,B-,94.0,166,Drug-Induced Parkinsonism,164 / 109 mmHg,Rarely,Enter moment interesting debate push even trial.,Fair,24.01
+Kevin Leach,77,Female,A-,136.2,209,Secondary Parkinsonism,118 / 67 mmHg,Weekly,Win strong individual study write end.,Fair,20.3
+Lindsey Wood,49,Male,AB-,53.4,207,Parkinsonism-plus syndromes,143 / 60 mmHg,Daily,Ten suffer commercial mission down than whose enjoy.,Good,29.62
+Jason Brandt,32,Female,A+,64.9,172,Drug-Induced Parkinsonism,90 / 84 mmHg,None,Power training edge however.,Good,23.48
+Alex Bennett,32,Other,B+,83.4,202,Secondary Parkinsonism,154 / 69 mmHg,Weekly,Able goal guy factor word cultural.,Poor,39.72
+Thomas Middleton,30,Female,AB-,87.3,146,Genetic Parkinson's Disease,148 / 97 mmHg,Daily,Forward short rest recent reveal.,Good,22.18
+Alyssa Paul,58,Male,O+,42.6,148,Genetic Parkinson's Disease,165 / 84 mmHg,Weekly,Meeting five personal network nor white.,Good,29.26
+Dana Thomas,37,Other,O-,79.4,209,Postural Instability,126 / 112 mmHg,Rarely,Experience Congress gun city see.,Fair,34.74
+Matthew Hampton,56,Female,A+,137.2,197,Gait Disorder,126 / 89 mmHg,Weekly,Service more term east order compare common.,Poor,22.08
+Andrea Terry,70,Male,AB+,126.9,208,Parkinsonism-plus syndromes,157 / 66 mmHg,Rarely,Second woman two leg government.,Fair,23.08
+William Ibarra,19,Female,B-,137.5,141,Parkinsonism-plus syndromes,135 / 85 mmHg,Weekly,Fill from week western.,Poor,26.72
+Nicholas Moore,63,Male,A+,98.4,199,Genetic Parkinson's Disease,108 / 110 mmHg,None,Begin season collection tend off memory model.,Fair,15.08
+Deborah Horne,30,Other,O+,67.1,167,Late-Onset Parkinson's Disease,179 / 78 mmHg,Daily,Notice character some candidate peace knowledge catch.,Fair,23.91
+Rebecca Jordan,49,Other,O+,128.6,145,Parkinsonism-plus syndromes,175 / 66 mmHg,Weekly,Deal game special hundred factor or.,Fair,17.16
+Fred Poole,30,Male,A-,102.0,152,Secondary Parkinsonism,95 / 70 mmHg,None,Relationship move including yourself week.,Good,22.36
+Michelle Evans,78,Female,A-,89.7,184,Genetic Parkinson's Disease,153 / 93 mmHg,Rarely,Central likely year growth world.,Good,16.39
+Terry Olson,39,Other,AB-,114.2,205,Parkinsonism-plus syndromes,130 / 74 mmHg,Daily,Water agree understand exactly.,Good,31.61
+Marcus Bernard,75,Male,A-,84.1,142,Atypical Parkinsonism,173 / 64 mmHg,Rarely,Concern executive green card great later.,Poor,36.9
+Robert Taylor,68,Female,O-,63.3,147,Hereditary Parkinsonism,107 / 71 mmHg,Weekly,Administration require by health major.,Fair,24.7
+Kevin Miranda,66,Other,B-,88.3,179,Postural Instability,132 / 67 mmHg,None,Responsibility ago positive body future threat.,Fair,16.05
+Heather Johnson,22,Male,O+,68.1,203,Vascular Parkinsonism,98 / 97 mmHg,Rarely,Every for indicate option lose team.,Fair,25.76
+Randy Taylor,76,Male,A-,131.9,187,Drug-Induced Parkinsonism,162 / 112 mmHg,Weekly,Respond remain must.,Fair,22.33
+Vincent Berry,45,Male,O-,84.8,170,Genetic Parkinson's Disease,100 / 83 mmHg,Daily,Could already happy just air likely stand.,Poor,26.89
+Emily Lawrence,70,Male,O-,59.6,186,Drug-Induced Parkinsonism,98 / 107 mmHg,Weekly,Building control throughout explain trouble state wonder.,Fair,20.16
+Kenneth Perez,53,Other,A+,137.4,150,Drug-Induced Parkinsonism,100 / 61 mmHg,None,Democrat surface with discussion effect history together.,Poor,19.01
+Lisa Jensen,52,Male,B+,85.2,203,Postural Instability,91 / 84 mmHg,Daily,Voice away history local condition difference yard six.,Poor,18.5
+Benjamin Blevins,40,Other,AB+,147.9,182,Secondary Parkinsonism,175 / 94 mmHg,None,Sure hold imagine mention itself yes.,Good,26.24
+Brian Bennett,41,Male,AB-,91.0,190,Late-Onset Parkinson's Disease,159 / 76 mmHg,Rarely,Service never along situation.,Fair,28.07
+Sara Davis,71,Male,O-,91.3,164,Young-Onset Parkinson's Disease,151 / 89 mmHg,Weekly,Ready almost hand happen effort.,Poor,32.23
+Eric Miller,19,Female,B+,47.3,196,Vascular Parkinsonism,144 / 116 mmHg,Weekly,Draw tree question model sell situation.,Good,19.65
+Julie Garcia,45,Other,O-,129.7,195,Idiopathic Parkinson's Disease,164 / 101 mmHg,Rarely,Sport task expert from pay.,Poor,16.33
+David Ho,68,Female,O+,73.8,193,Postural Instability,130 / 89 mmHg,Weekly,Road leader anyone success big others.,Good,32.09
+Jacob Grimes,74,Female,O-,94.4,199,Atypical Parkinsonism,172 / 80 mmHg,Weekly,Financial establish on to.,Fair,37.66
+Ashley Watkins,55,Other,AB-,45.7,167,Idiopathic Parkinson's Disease,113 / 116 mmHg,Daily,Identify surface off strong.,Fair,35.23
+Phillip Lee,29,Female,B+,95.1,162,Atypical Parkinsonism,117 / 64 mmHg,Daily,Teach rise capital area time Democrat.,Poor,22.43
+Ashley Dorsey,34,Female,B-,58.1,191,Drug-Induced Parkinsonism,103 / 80 mmHg,Daily,Travel law argue approach wait.,Poor,35.97
+Erica Williams,69,Other,B-,79.3,207,Genetic Parkinson's Disease,91 / 103 mmHg,Rarely,Officer spend hope morning.,Good,21.07
+Melissa Lopez,48,Male,A-,118.5,209,Gait Disorder,92 / 89 mmHg,Weekly,Rich face perhaps sell.,Good,15.1
+Robert Ochoa,32,Male,O+,146.5,171,Parkinsonism-plus syndromes,146 / 87 mmHg,Weekly,Born successful stock someone but watch wind thing.,Good,36.35
+Erik Hayes,64,Female,B-,54.3,197,Vascular Parkinsonism,137 / 61 mmHg,Rarely,Where buy yeah score line safe.,Poor,28.97
+Jon Carroll,56,Other,A-,56.6,156,Late-Onset Parkinson's Disease,141 / 106 mmHg,None,Involve people improve speak player yes address.,Fair,39.51
+Jamie Davis,46,Female,A+,112.1,155,Hereditary Parkinsonism,102 / 70 mmHg,Rarely,Trip health employee.,Good,39.52
+Cynthia Sanford,38,Female,O+,134.8,165,Idiopathic Parkinson's Disease,98 / 97 mmHg,None,Method American threat.,Fair,31.23
+Matthew Hinton,27,Other,AB-,133.5,167,Gait Disorder,123 / 85 mmHg,Daily,Apply film discover scene off very.,Good,35.22
+Kimberly Juarez,75,Male,AB+,80.0,156,Genetic Parkinson's Disease,128 / 92 mmHg,None,Low democratic he reveal trip him.,Fair,22.2
+Victoria Nguyen,69,Female,AB-,74.3,197,Atypical Parkinsonism,109 / 93 mmHg,Weekly,Spring serious clearly tonight child miss usually.,Good,32.9
+Sheila Vasquez,42,Male,O+,125.3,166,Late-Onset Parkinson's Disease,122 / 73 mmHg,Weekly,And much policy vote.,Good,39.25
+Robert Watts,37,Male,O+,113.4,205,Idiopathic Parkinson's Disease,102 / 81 mmHg,Daily,Across usually tonight check.,Fair,38.3
+Catherine Baker,67,Other,B-,137.1,163,Late-Onset Parkinson's Disease,137 / 99 mmHg,None,Evening change visit keep.,Poor,35.43
+Heather Thompson,50,Female,AB+,124.7,197,Genetic Parkinson's Disease,137 / 117 mmHg,None,Story responsibility great first will chair there method.,Poor,37.82
+Scott Riggs,79,Male,B-,103.8,179,Postural Instability,140 / 108 mmHg,Daily,Community cost ahead memory pick majority.,Fair,20.72
+Angela Pena,34,Other,A+,124.9,189,Secondary Parkinsonism,159 / 98 mmHg,Weekly,Reveal heavy whole medical Democrat level middle.,Fair,38.64
+Zachary Mata,75,Male,O+,90.7,163,Vascular Parkinsonism,132 / 95 mmHg,Daily,Third teach body PM ground operation trial.,Fair,39.06
+Kevin Williams,36,Male,A-,114.0,187,Drug-Induced Parkinsonism,97 / 85 mmHg,Rarely,Agency full environmental anyone maintain accept wear.,Good,23.76
+Leah Gill,28,Female,B-,69.9,164,Young-Onset Parkinson's Disease,114 / 107 mmHg,Weekly,Relate direction baby brother difficult teach step.,Fair,28.89
+Justin Rowland,34,Female,A-,100.4,184,Late-Onset Parkinson's Disease,105 / 87 mmHg,Weekly,Reach will movement idea.,Poor,35.31
+Luis Anderson,41,Other,B+,104.1,160,Late-Onset Parkinson's Disease,148 / 62 mmHg,Daily,Girl fast about.,Good,17.55
+Brandi Cole,70,Other,AB+,138.0,209,Gait Disorder,146 / 69 mmHg,Rarely,Book reflect owner note figure trade represent.,Good,26.45
+Timothy Watson,64,Female,AB-,43.0,210,Atypical Parkinsonism,160 / 73 mmHg,Weekly,Free possible Mrs same soldier hour.,Poor,37.39
+Bryan Camacho,52,Male,O+,110.5,179,Hereditary Parkinsonism,138 / 82 mmHg,None,Baby music similar building itself.,Poor,32.02
+Melinda Alvarado,38,Other,O-,40.5,173,Atypical Parkinsonism,111 / 80 mmHg,Daily,Truth apply building moment occur alone.,Fair,28.29
+Suzanne Higgins,62,Male,O-,57.7,177,Genetic Parkinson's Disease,165 / 120 mmHg,None,Behind radio certainly law like.,Poor,18.65
+Brenda Price,58,Female,B+,51.8,188,Postural Instability,123 / 108 mmHg,Weekly,Much during raise land nor my.,Good,38.97
+Katherine Fritz,69,Male,O-,132.6,207,Gait Disorder,94 / 77 mmHg,None,Whom language without key force.,Good,36.48
+Jay Miller,52,Other,O+,59.1,202,Late-Onset Parkinson's Disease,135 / 111 mmHg,Daily,Term remember place government small significant.,Good,37.92
+Elizabeth Hartman,62,Female,O+,149.2,181,Postural Instability,165 / 80 mmHg,Rarely,Form remain sing get produce.,Fair,30.85
+Timothy Carter,66,Other,A+,78.1,142,Secondary Parkinsonism,109 / 67 mmHg,Daily,Democrat project media interesting defense thus.,Fair,20.15
+Rachel Knapp,18,Male,O-,94.6,145,Atypical Parkinsonism,123 / 105 mmHg,Daily,Would their after during have woman paper.,Good,16.3
+Stephanie Franco,70,Female,AB-,112.2,168,Late-Onset Parkinson's Disease,109 / 105 mmHg,Weekly,Its plan piece nature cover.,Poor,34.96
+Madison Hall,35,Female,AB+,74.6,164,Parkinsonism-plus syndromes,168 / 89 mmHg,Daily,Room international benefit relate.,Fair,35.27
+Anthony Bishop,69,Female,AB+,97.8,170,Gait Disorder,168 / 93 mmHg,Weekly,Think nor method class yeah.,Good,22.6
+Charles Chaney,26,Male,O-,114.4,184,Secondary Parkinsonism,138 / 79 mmHg,Rarely,Account generation positive.,Fair,20.0
+Diana Bridges,32,Other,B+,69.4,201,Young-Onset Parkinson's Disease,178 / 93 mmHg,Daily,Away another always gas.,Good,17.78
+Shane Mcmahon,80,Male,A-,74.7,147,Late-Onset Parkinson's Disease,108 / 110 mmHg,Rarely,All eight tend.,Fair,31.52
+Aaron Herring,26,Other,B-,145.3,186,Gait Disorder,133 / 101 mmHg,Rarely,Spend sound executive possible.,Good,37.6
+Lisa Colon,51,Male,A-,123.2,208,Vascular Parkinsonism,90 / 103 mmHg,Rarely,Seem court form.,Fair,29.71
+Deborah Gaines,70,Other,B+,70.6,203,Drug-Induced Parkinsonism,132 / 111 mmHg,Weekly,Attack over itself beautiful.,Fair,30.47
+Robert Green,52,Other,A-,143.2,198,Drug-Induced Parkinsonism,161 / 69 mmHg,Rarely,Speak hard thank compare because minute.,Fair,34.94
+Dr. Kyle Chavez,69,Male,B-,104.5,182,Atypical Parkinsonism,170 / 113 mmHg,None,Several economy federal party law wish.,Good,24.76
+Kevin Morris,74,Other,O+,101.5,210,Hereditary Parkinsonism,152 / 64 mmHg,Weekly,Administration seem soon bag owner teach apply.,Good,22.6
+Charles Fuller,80,Male,A-,89.8,205,Postural Instability,90 / 109 mmHg,None,Everyone would when man.,Fair,36.24
+Vanessa Singh,34,Male,AB+,69.1,200,Idiopathic Parkinson's Disease,179 / 120 mmHg,Daily,Official because American mind.,Poor,30.72
+Eric White,67,Female,B-,141.1,169,Genetic Parkinson's Disease,111 / 114 mmHg,None,Many teach with visit every project commercial.,Good,15.96
+Holly Hanson,25,Female,A+,92.2,182,Drug-Induced Parkinsonism,143 / 103 mmHg,Daily,Meet relate police hotel once himself citizen.,Fair,30.83
+Mary Gill,53,Male,A-,113.9,162,Genetic Parkinson's Disease,103 / 109 mmHg,None,Black perhaps activity prepare factor system somebody.,Fair,37.52
+Roger Jacobs,43,Other,O-,42.3,156,Secondary Parkinsonism,116 / 68 mmHg,Daily,Professional face note exactly.,Good,29.97
+Kenneth Ramos,32,Male,A-,67.6,179,Late-Onset Parkinson's Disease,120 / 92 mmHg,Rarely,If stock international series chance thousand.,Good,28.79
+Katherine Pacheco,64,Other,A-,59.7,167,Late-Onset Parkinson's Disease,167 / 101 mmHg,None,Show quickly hold yard.,Poor,37.83
+Danielle Silva,28,Other,A-,49.4,145,Genetic Parkinson's Disease,104 / 119 mmHg,Weekly,During kitchen movement appear production.,Fair,17.26
+Patrick Boyd,40,Female,B-,105.5,159,Idiopathic Parkinson's Disease,95 / 98 mmHg,Rarely,Education measure work magazine.,Good,15.75
+Julia Wilson,22,Female,AB+,57.9,190,Late-Onset Parkinson's Disease,108 / 91 mmHg,Daily,Within role significant future always various have.,Poor,16.14
+Kelly Andrade,45,Female,A-,86.3,202,Hereditary Parkinsonism,124 / 87 mmHg,Daily,Wife result subject answer.,Good,39.52
+Christopher Barnes,63,Other,AB+,97.7,183,Secondary Parkinsonism,122 / 97 mmHg,Weekly,Short stuff face two.,Good,27.53
+Amy Martin,19,Other,A-,102.9,175,Idiopathic Parkinson's Disease,118 / 116 mmHg,None,Past stop husband sign production country.,Poor,35.03
+Ariel Frye,31,Female,B-,132.0,167,Hereditary Parkinsonism,106 / 111 mmHg,None,Them half light cover.,Fair,32.45
+Anne Osborn,45,Female,B+,142.5,202,Hereditary Parkinsonism,176 / 117 mmHg,None,Good write after age.,Good,29.39
+Crystal Chapman,20,Male,O+,149.8,158,Atypical Parkinsonism,103 / 101 mmHg,None,Teacher organization yard amount list fine economy.,Good,24.85
+Fred Rocha,62,Female,AB-,148.8,176,Vascular Parkinsonism,115 / 98 mmHg,None,Road kid water.,Poor,20.84
+Max Villarreal,59,Male,AB+,135.7,183,Secondary Parkinsonism,95 / 60 mmHg,Weekly,Blue they music anyone recent dream TV.,Poor,31.29
+Kaitlyn Cherry,57,Female,O-,105.1,208,Drug-Induced Parkinsonism,113 / 84 mmHg,Daily,I seem support address power thus tree.,Fair,24.15
+Dave Hardin,48,Male,B-,63.9,142,Idiopathic Parkinson's Disease,132 / 107 mmHg,Rarely,Point item consumer PM.,Good,36.14
+Eric Howe,32,Other,B+,83.2,144,Secondary Parkinsonism,96 / 82 mmHg,Weekly,Now boy site direction space kind cup.,Poor,32.83
+Chelsea Davidson,40,Other,AB-,65.3,166,Hereditary Parkinsonism,102 / 88 mmHg,Daily,Education bill movie executive seven.,Poor,34.91
+Mark Alvarez,63,Male,B-,67.3,187,Hereditary Parkinsonism,151 / 74 mmHg,None,Bar performance when president.,Good,19.16
+Pam Burns,45,Male,AB-,140.6,182,Gait Disorder,178 / 71 mmHg,Rarely,Bit from consumer record coach send.,Poor,26.18
+Randall Campbell,44,Female,O-,55.9,145,Secondary Parkinsonism,167 / 79 mmHg,Weekly,Lawyer art under rest move miss more car.,Fair,33.9
+Dawn Ross,31,Female,B+,74.9,151,Parkinsonism-plus syndromes,169 / 86 mmHg,Rarely,Guy popular glass per beautiful.,Good,25.97
+Kim Fleming,61,Female,A-,97.0,189,Atypical Parkinsonism,164 / 69 mmHg,None,Part executive energy page boy coach.,Poor,31.74
+Lisa Harper,28,Male,A+,68.2,143,Vascular Parkinsonism,133 / 66 mmHg,Weekly,Professor brother dream yard.,Good,21.99
+Leah Rivera DDS,40,Other,O+,75.4,152,Secondary Parkinsonism,133 / 100 mmHg,Rarely,Return easy listen arrive possible performance but.,Good,27.38
+Stephanie Mccall,40,Other,AB+,124.8,190,Idiopathic Parkinson's Disease,169 / 98 mmHg,Daily,Whose system provide production kind.,Good,16.24
+Vincent Olson,70,Female,A-,140.3,210,Idiopathic Parkinson's Disease,120 / 84 mmHg,None,Every eat anything future world common.,Good,15.81
+Dylan Flores,21,Female,B-,117.6,159,Young-Onset Parkinson's Disease,133 / 60 mmHg,Rarely,Draw gas baby.,Fair,31.22
+Melissa Gutierrez,69,Female,B-,41.9,154,Hereditary Parkinsonism,172 / 60 mmHg,Weekly,Network environmental unit arrive also employee.,Poor,37.9
+Bobby Hines,64,Female,O-,76.1,144,Drug-Induced Parkinsonism,159 / 115 mmHg,None,Example candidate space simple where management team type.,Poor,35.59
+Heather Bennett,71,Female,AB-,108.5,154,Drug-Induced Parkinsonism,167 / 88 mmHg,Weekly,Then sense same drug possible.,Poor,30.7
+Maria Brown,52,Male,A+,66.0,188,Drug-Induced Parkinsonism,91 / 116 mmHg,Weekly,Simple conference we huge.,Poor,16.2
+Ashley Castillo,35,Other,B+,132.7,155,Genetic Parkinson's Disease,92 / 105 mmHg,Daily,Possible agent under likely end.,Good,15.58
+Christopher Taylor,63,Female,B-,69.7,158,Secondary Parkinsonism,95 / 103 mmHg,Rarely,Prove at appear thousand.,Good,37.33
+Patrick Dunn,61,Other,O+,46.7,157,Gait Disorder,95 / 112 mmHg,None,How policy record exist charge onto.,Fair,27.24
+Eduardo Hernandez,37,Male,O-,63.4,204,Parkinsonism-plus syndromes,93 / 118 mmHg,Weekly,Finish serve experience hold raise perhaps.,Poor,23.49
+Jennifer Wong,21,Male,AB+,93.8,175,Postural Instability,151 / 73 mmHg,Daily,Image raise page send.,Good,24.82
+Jessica Fowler,32,Other,O+,140.4,145,Parkinsonism-plus syndromes,168 / 70 mmHg,Rarely,Sometimes bar none necessary small whole machine.,Fair,32.6
+Gabriel Reed,62,Male,A+,113.4,187,Postural Instability,150 / 100 mmHg,Daily,Cultural deep poor left bit.,Fair,22.89
+Anita Smith,31,Female,AB-,113.8,197,Idiopathic Parkinson's Disease,159 / 73 mmHg,Daily,Help own draw they either student they.,Poor,34.74
+Jason Baker,40,Male,B-,87.6,183,Late-Onset Parkinson's Disease,178 / 115 mmHg,None,Green pressure evidence significant not care nor.,Fair,32.94
+Gabriela Parker,35,Other,O+,111.7,198,Young-Onset Parkinson's Disease,112 / 118 mmHg,Rarely,Stage cup send guy discuss.,Good,28.57
+Andrew Tate,19,Male,A-,136.1,204,Secondary Parkinsonism,100 / 72 mmHg,Daily,None business main fly table others agent.,Poor,30.25
+Stacie Nash,57,Male,B-,133.7,140,Gait Disorder,139 / 67 mmHg,Daily,Seem half class term time argue.,Fair,27.65
+Cheyenne Chandler,24,Male,B+,106.2,173,Late-Onset Parkinson's Disease,112 / 105 mmHg,None,So civil the room.,Poor,25.76
+Jeffrey Jones DVM,78,Female,A-,56.0,144,Vascular Parkinsonism,178 / 83 mmHg,Weekly,Worker nature during key car let scientist.,Fair,15.31
+Thomas Gonzalez,45,Male,B+,66.8,161,Hereditary Parkinsonism,100 / 110 mmHg,Rarely,International worry avoid president well name bring.,Good,26.01
+Nicholas Cox,25,Other,A+,121.6,160,Secondary Parkinsonism,103 / 64 mmHg,Daily,Raise time just family deep by new.,Fair,18.05
+James Lee,44,Other,O+,107.6,170,Late-Onset Parkinson's Disease,158 / 119 mmHg,Rarely,Defense whatever method likely mention reflect sing.,Fair,39.71
+Sherry Colon,46,Other,B-,91.5,143,Parkinsonism-plus syndromes,109 / 88 mmHg,None,Again trouble experience lead suggest expert.,Good,27.03
+Jack Chan,51,Male,O-,76.2,157,Young-Onset Parkinson's Disease,141 / 75 mmHg,None,Suddenly population energy expert company.,Fair,37.92
+Sheila Jacobs,72,Other,AB-,101.7,204,Gait Disorder,135 / 80 mmHg,Daily,Impact impact player paper.,Poor,23.52
+Charles Black,43,Other,AB+,49.9,151,Postural Instability,102 / 88 mmHg,Weekly,Dark else yet hundred that trade although.,Poor,37.08
+Laurie Roberts,25,Other,B-,107.0,172,Gait Disorder,135 / 66 mmHg,Weekly,Employee policy set care nature agreement order.,Fair,31.14
+Jamie Sanders,33,Other,A+,137.4,165,Drug-Induced Parkinsonism,128 / 91 mmHg,Daily,Model enter participant traditional owner toward.,Poor,22.08
+Joshua Clements,60,Other,B+,130.7,177,Vascular Parkinsonism,164 / 118 mmHg,Rarely,Say place soon instead feeling seat close.,Good,28.45
+Kimberly Galvan,44,Other,B+,94.3,193,Gait Disorder,94 / 83 mmHg,None,Us allow rather give around.,Fair,18.23
+Caitlin Mendoza,76,Male,A+,109.6,159,Idiopathic Parkinson's Disease,141 / 71 mmHg,None,Plant middle even risk feel because.,Fair,16.68
+Aaron Johnson,71,Other,O+,114.2,209,Postural Instability,102 / 72 mmHg,Weekly,Parent today film cold teach then.,Fair,28.25
+Sarah Moore,44,Female,B-,40.9,176,Hereditary Parkinsonism,163 / 100 mmHg,Weekly,Choice include control think.,Fair,21.52
+Taylor Taylor,30,Female,B-,110.4,170,Drug-Induced Parkinsonism,169 / 94 mmHg,Daily,Kitchen structure three give hundred citizen.,Fair,22.06
+Jay Ballard,75,Male,B-,98.8,190,Young-Onset Parkinson's Disease,98 / 101 mmHg,None,Mother pressure turn return member.,Good,34.93
+Alexander Lawrence,35,Male,B-,126.8,170,Postural Instability,135 / 60 mmHg,Weekly,None culture southern next interview painting that.,Fair,38.18
+Samantha Lester,28,Other,A+,80.7,160,Hereditary Parkinsonism,119 / 73 mmHg,Daily,Personal southern dream.,Poor,39.63
+Heather Collins,76,Male,A-,111.5,141,Young-Onset Parkinson's Disease,102 / 115 mmHg,Weekly,Daughter somebody cup its.,Poor,18.12
+Joseph Phillips,75,Female,B+,127.5,166,Drug-Induced Parkinsonism,113 / 92 mmHg,Rarely,Any sing onto enter firm.,Fair,29.6
+Ellen Warner,31,Other,AB-,74.7,207,Vascular Parkinsonism,126 / 113 mmHg,Rarely,Huge significant mind hard low.,Good,35.5
+John Cooper,33,Male,B+,77.5,189,Idiopathic Parkinson's Disease,163 / 105 mmHg,Rarely,There life worry world manager successful.,Fair,39.18
+Brittany Arnold,53,Other,O-,70.5,194,Hereditary Parkinsonism,130 / 60 mmHg,Rarely,Where identify their window choice stand station.,Poor,24.46
+James Woods,22,Female,O-,53.1,164,Idiopathic Parkinson's Disease,115 / 104 mmHg,Weekly,Price Mr away.,Fair,28.2
+Andre Bailey,58,Female,A-,97.7,162,Atypical Parkinsonism,121 / 120 mmHg,None,Class head simple relate.,Fair,29.71
+Jessica Murphy,29,Female,O+,104.6,197,Atypical Parkinsonism,116 / 81 mmHg,Daily,Girl business lot.,Good,20.6
+Jose Lynch,65,Male,A-,80.3,199,Gait Disorder,126 / 115 mmHg,Daily,Coach technology hard indeed support.,Good,26.7
+Jessica Phillips,67,Male,B-,121.2,157,Late-Onset Parkinson's Disease,138 / 109 mmHg,Daily,Operation everyone why customer.,Poor,27.54
+John Horn,52,Female,AB+,114.6,178,Secondary Parkinsonism,137 / 81 mmHg,Daily,Own popular cut strategy feeling speak.,Poor,39.89
+Lee Doyle,42,Female,O-,114.5,202,Gait Disorder,176 / 105 mmHg,Weekly,Group perform prove all.,Poor,20.91
+Robert Webb,71,Male,B+,118.2,171,Secondary Parkinsonism,105 / 96 mmHg,Daily,Major particularly use practice foot our.,Fair,21.75
+Laura Torres,45,Other,AB-,103.7,207,Young-Onset Parkinson's Disease,109 / 90 mmHg,Weekly,Manage serve sport clearly relationship new hundred.,Fair,29.05
+Nathan Carrillo,71,Female,B+,94.4,165,Secondary Parkinsonism,159 / 98 mmHg,Daily,When course wife film.,Good,36.77
+Vincent Perez,50,Female,AB-,115.8,191,Late-Onset Parkinson's Disease,148 / 100 mmHg,Weekly,Thought wonder significant fall eye.,Good,20.9
+Timothy Turner,37,Male,O+,69.8,150,Postural Instability,165 / 102 mmHg,Daily,Ready act study your government news.,Fair,28.65
+Jonathan Martin,75,Female,AB-,95.2,174,Hereditary Parkinsonism,157 / 71 mmHg,Rarely,Magazine few pattern lawyer.,Poor,22.11
+Ryan Sanchez,70,Other,AB-,64.2,174,Secondary Parkinsonism,126 / 62 mmHg,Daily,Measure material civil ever resource life.,Poor,31.69
+Jorge Jones,52,Other,A+,79.3,154,Late-Onset Parkinson's Disease,177 / 99 mmHg,Weekly,Eat first range director store know risk door.,Fair,16.28
+Angela Howard,68,Male,O+,48.8,172,Drug-Induced Parkinsonism,119 / 106 mmHg,Rarely,Economy question name meeting treat least.,Poor,32.58
+Emily Oneal,66,Female,O-,114.2,181,Late-Onset Parkinson's Disease,100 / 73 mmHg,Daily,Car modern trouble its than once.,Poor,21.81
+Tara Barrett,65,Male,B-,89.9,146,Drug-Induced Parkinsonism,147 / 105 mmHg,Weekly,Economy herself not.,Good,31.67
+James Lambert,51,Female,O-,106.3,154,Drug-Induced Parkinsonism,99 / 89 mmHg,None,Training relate plant bag spring dog.,Fair,25.24
+Frank Bauer,42,Male,AB+,40.5,186,Gait Disorder,125 / 112 mmHg,Weekly,Case together mouth three.,Good,15.18
+Daniel Bennett,24,Female,B+,46.8,187,Vascular Parkinsonism,139 / 74 mmHg,Weekly,Language sing ball teach manage recognize.,Fair,18.41
+Linda Clark,38,Other,A+,63.1,164,Gait Disorder,121 / 77 mmHg,Weekly,Laugh court book response paper hair himself.,Good,30.38
+Danny Flores,32,Male,A+,56.3,143,Secondary Parkinsonism,132 / 107 mmHg,Daily,Fine fly under apply team.,Poor,38.92
+Katelyn Grant,72,Other,O-,140.0,155,Genetic Parkinson's Disease,94 / 78 mmHg,Weekly,Need best above analysis need.,Fair,28.35
+Deborah Thompson,21,Other,AB-,71.4,159,Postural Instability,93 / 115 mmHg,Daily,Whatever represent wife idea their.,Poor,22.61
+Jeanette Collins,53,Male,B-,127.6,192,Postural Instability,132 / 64 mmHg,Rarely,Into season not by.,Fair,36.11
+Toni Moore,20,Female,O-,55.3,193,Idiopathic Parkinson's Disease,99 / 86 mmHg,Rarely,Every standard my water agree.,Fair,33.36
+Stacey Hurst,42,Other,AB+,126.3,186,Young-Onset Parkinson's Disease,105 / 98 mmHg,Weekly,American dark tax art participant beat.,Poor,31.98
+Shirley Fowler,21,Male,A-,102.1,161,Secondary Parkinsonism,112 / 83 mmHg,None,Appear life trip environment doctor.,Good,21.05
+Stephen Ellis,77,Female,O+,75.4,187,Atypical Parkinsonism,166 / 113 mmHg,Daily,More speak future stage.,Poor,28.44
+Lori Williams,40,Female,B-,41.1,164,Secondary Parkinsonism,177 / 120 mmHg,Rarely,Participant teacher officer much difficult again size.,Fair,20.55
+Jeffrey Brown,44,Other,A-,75.5,200,Atypical Parkinsonism,90 / 90 mmHg,Weekly,Day business trade.,Poor,38.46
+Mariah Tran,56,Female,A-,113.5,149,Young-Onset Parkinson's Disease,113 / 69 mmHg,Daily,Bag where speech amount property nature he.,Good,21.93
+Sonya Blair,18,Male,A+,110.4,190,Atypical Parkinsonism,126 / 63 mmHg,Daily,Military pattern write everybody most.,Poor,35.42
+Brian Spence,72,Other,B+,124.1,194,Hereditary Parkinsonism,105 / 75 mmHg,Rarely,Family turn view of quality paper a American.,Fair,26.15
+Valerie Delgado,40,Male,A-,107.0,206,Atypical Parkinsonism,110 / 62 mmHg,Rarely,Sea phone hair especially marriage vote down data.,Good,22.43
+Heather Banks,68,Other,A-,53.5,154,Gait Disorder,179 / 91 mmHg,Weekly,Program step test trade.,Fair,36.46
+Ashley Coleman,46,Male,AB-,52.5,190,Idiopathic Parkinson's Disease,119 / 119 mmHg,Rarely,Including discover little why yes forward Mrs.,Fair,39.54
+Evelyn Dodson,18,Male,A-,131.7,200,Vascular Parkinsonism,113 / 103 mmHg,Weekly,Can PM avoid main long then.,Fair,39.87
+Alec Williams,22,Other,O-,46.4,145,Vascular Parkinsonism,162 / 118 mmHg,Daily,Take describe nor six culture college executive.,Fair,29.74
+David Dorsey,72,Male,AB-,105.5,189,Parkinsonism-plus syndromes,134 / 95 mmHg,Daily,Matter produce keep entire.,Good,16.3
+Teresa Smith,70,Male,AB+,58.8,153,Idiopathic Parkinson's Disease,100 / 95 mmHg,Weekly,Term writer whose he film hour.,Good,31.99
+Shelly Donovan,48,Male,B+,78.3,195,Gait Disorder,160 / 66 mmHg,Rarely,Positive employee worry offer lay.,Poor,28.3
+Laura Lee,23,Female,B+,108.9,207,Parkinsonism-plus syndromes,166 / 109 mmHg,None,They hospital special under she.,Fair,22.17
+Laura Castillo,20,Male,B+,84.5,174,Vascular Parkinsonism,144 / 80 mmHg,Weekly,Firm necessary argue natural top.,Poor,15.84
+James Watson,75,Female,AB-,127.7,183,Parkinsonism-plus syndromes,120 / 119 mmHg,None,Require half investment.,Fair,30.05
+Adrian Edwards,35,Male,O-,91.3,144,Drug-Induced Parkinsonism,106 / 104 mmHg,Rarely,Leave possible quickly air sort financial.,Fair,33.39
+Anthony Brown,20,Other,AB+,65.5,186,Idiopathic Parkinson's Disease,153 / 96 mmHg,Daily,Good your record PM tell have view operation.,Good,21.39
+Christopher Payne,80,Female,AB+,116.5,196,Late-Onset Parkinson's Disease,115 / 72 mmHg,Daily,Evening get current risk.,Fair,33.29
+Mrs. Amber Johnson,28,Female,O-,148.1,148,Gait Disorder,146 / 71 mmHg,None,Under market personal over.,Good,17.74
+Cassandra Dodson,60,Male,B+,89.3,150,Young-Onset Parkinson's Disease,137 / 110 mmHg,None,Key thing everybody try president.,Poor,15.95
+Joseph Marshall,69,Female,A+,76.0,163,Postural Instability,117 / 91 mmHg,Rarely,Reflect cover film alone mouth.,Fair,31.64
+Julia Molina,65,Male,AB+,81.0,185,Idiopathic Parkinson's Disease,148 / 111 mmHg,Weekly,My individual technology leave.,Poor,18.59
+Dustin Valdez,37,Female,AB-,143.0,163,Secondary Parkinsonism,156 / 105 mmHg,None,Take price indicate something quickly official.,Poor,21.68
+Brandon Garcia,51,Male,B-,57.5,158,Secondary Parkinsonism,176 / 75 mmHg,Rarely,Ever TV recent finally last color form.,Fair,29.72
+Marc Flores,50,Other,B-,67.3,190,Postural Instability,101 / 72 mmHg,Rarely,Discover improve plan face around five consumer.,Good,27.37
+Angelica Johnson,74,Male,O-,133.3,185,Late-Onset Parkinson's Disease,100 / 86 mmHg,Daily,Them fire form reach offer.,Good,22.68
+Sean Simmons,43,Male,O+,67.7,167,Hereditary Parkinsonism,164 / 97 mmHg,None,Bed analysis game figure team former.,Poor,38.95
+Christopher Sanchez,30,Other,AB+,108.9,185,Young-Onset Parkinson's Disease,150 / 63 mmHg,None,Direction happen population stock.,Poor,22.0
+Laura King,80,Other,O-,94.2,193,Idiopathic Parkinson's Disease,135 / 60 mmHg,None,White situation piece my all wish draw.,Poor,33.65
+Troy Smith,59,Female,B+,99.9,152,Postural Instability,100 / 62 mmHg,None,Action food effort during factor.,Fair,38.07
+James Silva,32,Female,AB+,78.5,159,Idiopathic Parkinson's Disease,125 / 74 mmHg,Weekly,Send within special people together either bed control.,Poor,16.17
+Richard Gonzalez,69,Female,AB+,119.7,191,Genetic Parkinson's Disease,116 / 61 mmHg,Daily,Author factor detail toward fear.,Poor,22.95
+Michelle Sanchez,54,Female,AB+,85.5,144,Parkinsonism-plus syndromes,167 / 104 mmHg,None,Offer cold because support against anyone hospital.,Fair,34.16
+Sandy Miller,70,Other,B-,49.3,186,Late-Onset Parkinson's Disease,123 / 69 mmHg,None,Fall much else debate middle improve box property.,Good,39.9
+Kimberly Williams,43,Female,O+,117.7,196,Hereditary Parkinsonism,114 / 82 mmHg,Rarely,Bank actually door owner.,Poor,29.53
+Hannah Hunter,77,Female,O+,124.4,188,Drug-Induced Parkinsonism,105 / 85 mmHg,Weekly,Total large figure shake nation forget.,Poor,15.43
+Jamie Chavez,48,Other,O-,143.1,173,Idiopathic Parkinson's Disease,158 / 74 mmHg,Daily,Explain design great travel.,Good,23.1
+April Bell,20,Male,B-,120.2,157,Parkinsonism-plus syndromes,174 / 96 mmHg,Weekly,Unit theory job yourself memory glass.,Fair,24.28
+Katie Wall,19,Other,B-,79.9,172,Secondary Parkinsonism,137 / 80 mmHg,Rarely,Human west feel.,Fair,32.66
+Carlos Reed,26,Other,B-,71.8,149,Postural Instability,98 / 92 mmHg,None,Including either dog name road your.,Good,31.82
+Jon Gentry,37,Female,B+,123.1,176,Hereditary Parkinsonism,135 / 116 mmHg,Daily,Attack create shoulder fact.,Fair,18.5
+Kathryn Peters,61,Female,A+,60.9,207,Secondary Parkinsonism,124 / 97 mmHg,Daily,Hear century let method teacher different represent.,Good,37.22
+Christine Walsh,70,Male,A-,45.9,185,Parkinsonism-plus syndromes,132 / 120 mmHg,Rarely,Soldier as assume various.,Poor,30.39
+Nicole Reilly,74,Female,AB-,95.0,191,Postural Instability,171 / 90 mmHg,Rarely,Return throw eight new learn summer enjoy.,Fair,24.48
+Nancy Marks,67,Other,A-,120.6,194,Late-Onset Parkinson's Disease,133 / 91 mmHg,None,Record sing line woman describe yard approach.,Fair,15.18
+Dr. Charles Perez DDS,34,Female,A-,66.2,180,Gait Disorder,90 / 113 mmHg,None,Prevent high information how owner.,Good,23.04
+Craig Walters,60,Other,A-,105.4,158,Gait Disorder,174 / 109 mmHg,Rarely,Pattern already almost development.,Poor,29.29
+Alexis Velasquez,42,Female,AB+,107.2,168,Atypical Parkinsonism,167 / 107 mmHg,Rarely,Keep such article medical.,Good,27.42
+Zachary Thompson,34,Male,AB+,81.0,181,Vascular Parkinsonism,95 / 119 mmHg,Rarely,Growth another rich ability learn project.,Good,38.34
+Alejandra Reeves,26,Female,B+,142.9,203,Genetic Parkinson's Disease,164 / 76 mmHg,Weekly,Control serve fill instead.,Fair,34.66
+Cory Munoz PhD,20,Other,A+,75.9,141,Gait Disorder,103 / 71 mmHg,Weekly,Compare PM dark.,Fair,24.68
+Michael Johnson,59,Male,A+,46.1,155,Secondary Parkinsonism,98 / 86 mmHg,Weekly,Child person sell nature.,Good,17.02
+Brian Tyler,64,Other,AB+,89.7,145,Secondary Parkinsonism,91 / 93 mmHg,Daily,Baby another sit matter hotel vote sell.,Poor,34.88
+Tasha Schmidt,53,Female,AB+,91.0,191,Secondary Parkinsonism,135 / 85 mmHg,None,Last never heart environment.,Poor,23.94
+Richard Lee,37,Male,AB+,59.4,197,Parkinsonism-plus syndromes,102 / 117 mmHg,Weekly,Study few garden through.,Good,24.82
+Annette Carter,40,Other,B-,118.1,160,Secondary Parkinsonism,141 / 96 mmHg,Weekly,Join behavior wait else.,Fair,35.8
+Tina Collins,26,Female,AB+,45.2,193,Atypical Parkinsonism,101 / 61 mmHg,None,Treatment poor that outside beyond American.,Fair,22.36
+Cynthia Olson,28,Female,AB+,147.5,179,Idiopathic Parkinson's Disease,123 / 78 mmHg,None,Meet investment interesting worker concern pull.,Fair,23.18
+Stacey Gonzalez,78,Male,B-,96.7,201,Late-Onset Parkinson's Disease,177 / 113 mmHg,Weekly,If ten upon security everyone yourself.,Poor,18.93
+Sean Reeves,67,Male,O-,48.0,193,Hereditary Parkinsonism,104 / 107 mmHg,Daily,Claim guy really.,Good,34.62
+Christopher Perez,18,Other,AB-,98.2,168,Postural Instability,155 / 67 mmHg,Rarely,Community throughout read wind wonder worker marriage.,Good,26.6
+Robert Oliver,62,Other,A-,109.0,166,Hereditary Parkinsonism,105 / 109 mmHg,Rarely,Because likely raise common left.,Good,24.27
+Andrew Cervantes,49,Female,A-,72.7,171,Late-Onset Parkinson's Disease,105 / 86 mmHg,None,Husband region three they how company.,Poor,28.46
+Emma Rivera,52,Male,AB-,134.7,170,Late-Onset Parkinson's Disease,102 / 104 mmHg,None,Whether available various board consumer grow music.,Good,39.3
+Justin Clay,56,Male,AB-,83.2,186,Vascular Parkinsonism,179 / 110 mmHg,Daily,If under continue challenge take.,Good,34.47
+Nicole Mclaughlin,80,Male,A+,88.1,182,Hereditary Parkinsonism,92 / 94 mmHg,None,South car reason general himself walk politics operation.,Fair,29.46
+Matthew Peters,64,Female,A-,117.9,166,Secondary Parkinsonism,132 / 120 mmHg,Weekly,Argue soon collection in like small key.,Poor,22.33
+Diane Reese MD,26,Other,B-,85.0,187,Drug-Induced Parkinsonism,147 / 95 mmHg,Rarely,National not white lay test nor program.,Poor,33.86
+Brian Walker,45,Other,A+,122.6,198,Vascular Parkinsonism,111 / 118 mmHg,Daily,Over natural employee many.,Good,31.0
+Dylan Turner,41,Female,AB-,131.4,209,Atypical Parkinsonism,137 / 106 mmHg,None,Use executive trade foreign.,Poor,38.46
+Justin Schroeder,72,Other,AB-,41.3,191,Secondary Parkinsonism,175 / 92 mmHg,Daily,Prevent base between.,Poor,35.68
+Andrea Brown,53,Other,AB-,72.4,183,Postural Instability,158 / 71 mmHg,None,Left crime under under serious.,Poor,27.79
+Cynthia Olson,74,Male,AB-,96.5,177,Postural Instability,122 / 79 mmHg,Weekly,Suddenly something happy best.,Good,33.21
+Suzanne Lopez,35,Male,AB+,73.0,184,Genetic Parkinson's Disease,119 / 85 mmHg,Daily,Language catch small blue song do purpose cover.,Good,23.23
+Jennifer Church,21,Male,O-,122.6,210,Idiopathic Parkinson's Disease,101 / 75 mmHg,None,Station onto could section his rise.,Fair,27.45
+Jacob Hicks,27,Male,B-,68.8,171,Young-Onset Parkinson's Disease,154 / 68 mmHg,Daily,Time fast cause glass prove.,Good,23.01
+Sean Barr,69,Female,A+,102.5,154,Postural Instability,116 / 74 mmHg,Rarely,Control right number military.,Good,24.15
+Sarah King,51,Other,B-,71.1,185,Postural Instability,148 / 105 mmHg,Weekly,Reach money majority song with international room newspaper.,Poor,37.28
+Kelsey Roberts,76,Other,B+,75.2,181,Parkinsonism-plus syndromes,117 / 67 mmHg,Rarely,Instead population theory nothing former against.,Good,26.93
+Matthew Lucas,43,Other,O+,110.6,184,Genetic Parkinson's Disease,152 / 88 mmHg,Weekly,Together suffer among eat.,Good,15.29
+Michael Jones,61,Other,B+,76.4,189,Young-Onset Parkinson's Disease,93 / 74 mmHg,None,Visit foreign stay.,Fair,31.28
+Susan Scott,26,Other,A+,139.4,185,Young-Onset Parkinson's Disease,155 / 116 mmHg,Rarely,Group good this among.,Fair,39.84
+James Hopkins,57,Other,B-,134.9,146,Vascular Parkinsonism,100 / 107 mmHg,None,Mrs form million resource sit.,Poor,22.93
+Joseph Smith,40,Female,AB-,95.3,186,Late-Onset Parkinson's Disease,93 / 116 mmHg,Rarely,Set standard easy heart free audience him.,Good,37.39
+Kyle Snow,40,Other,AB-,42.5,150,Genetic Parkinson's Disease,147 / 100 mmHg,None,Power citizen wall fine.,Poor,30.13
+Mia Meyer PhD,58,Female,O+,96.2,176,Parkinsonism-plus syndromes,177 / 77 mmHg,Weekly,Reduce suggest do other people expert.,Fair,26.54
+Joshua Campbell,22,Male,O+,44.0,173,Late-Onset Parkinson's Disease,132 / 83 mmHg,Weekly,Truth position own actually cultural.,Poor,20.53
+Michele Garcia,61,Female,O-,93.1,203,Young-Onset Parkinson's Disease,115 / 70 mmHg,Rarely,Involve style will operation one.,Poor,33.01
+Christopher Brown,46,Female,A+,144.3,186,Drug-Induced Parkinsonism,105 / 90 mmHg,Rarely,Way never interview economic finish member program.,Fair,38.35
+Mrs. Nicole Cohen,64,Other,A-,126.8,140,Late-Onset Parkinson's Disease,127 / 64 mmHg,Rarely,Other perhaps certainly arrive dream across beat money.,Fair,20.34
+Amanda Howard,76,Female,B+,72.0,196,Genetic Parkinson's Disease,129 / 73 mmHg,None,Bring produce available manage.,Fair,34.85
+Ashley Ramos,57,Other,A+,67.5,186,Postural Instability,106 / 98 mmHg,Rarely,Sound group child thing significant main.,Good,36.95
+Christina Herrera,23,Male,AB-,59.2,206,Parkinsonism-plus syndromes,174 / 115 mmHg,None,Practice whose debate employee.,Fair,25.99
+Spencer Carlson,51,Male,A-,148.9,150,Parkinsonism-plus syndromes,165 / 108 mmHg,Rarely,Make spend color institution half.,Good,36.13
+Brandon Morrow,77,Other,AB+,140.0,166,Young-Onset Parkinson's Disease,141 / 77 mmHg,Weekly,White call simple civil leave others cultural.,Good,37.75
+Thomas Irwin,25,Male,B-,137.5,203,Genetic Parkinson's Disease,112 / 79 mmHg,Daily,Artist behind kind three ball drop water.,Good,29.23
+Jasmine Adams,63,Other,O+,76.5,190,Late-Onset Parkinson's Disease,169 / 115 mmHg,Weekly,Effect share everyone behavior be lose.,Fair,37.88
+Richard Miller,18,Female,B+,99.2,193,Young-Onset Parkinson's Disease,99 / 80 mmHg,Weekly,Partner current guy knowledge carry game case.,Fair,15.68
+Angela Brown,47,Female,O-,116.0,170,Hereditary Parkinsonism,96 / 64 mmHg,Daily,Five area message life increase two have.,Poor,18.03
+Jodi Buchanan,77,Male,B+,68.2,179,Postural Instability,100 / 96 mmHg,None,Eat pick service blue true.,Poor,31.27
+Linda Washington,78,Other,O-,68.5,147,Atypical Parkinsonism,111 / 90 mmHg,Daily,Four month magazine join special fire about.,Poor,20.59
+Maria Bryant,37,Female,A+,47.2,166,Parkinsonism-plus syndromes,120 / 86 mmHg,None,Learn politics city arrive analysis great late.,Poor,37.22
+Robert Hickman,68,Male,B+,78.1,155,Idiopathic Parkinson's Disease,107 / 100 mmHg,Daily,Out health blue represent.,Good,33.98
+Richard Burns,77,Female,B+,64.6,187,Idiopathic Parkinson's Disease,102 / 89 mmHg,Weekly,Want recognize pick factor away follow such.,Fair,22.71
+Alexandra Simmons,18,Female,O+,114.8,208,Secondary Parkinsonism,106 / 94 mmHg,Rarely,More measure never make question small quite.,Fair,25.14
+Ronald Wright,76,Female,O-,74.6,197,Genetic Parkinson's Disease,162 / 119 mmHg,None,Institution huge interesting left.,Good,31.74
+Brandon Coleman,39,Other,A+,106.6,144,Parkinsonism-plus syndromes,107 / 119 mmHg,Rarely,Too chance air feel.,Good,19.19
+Robin Padilla,69,Other,AB-,111.8,194,Vascular Parkinsonism,154 / 60 mmHg,Weekly,Early rise close federal draw.,Fair,29.66
+Timothy Green,67,Male,A-,90.2,144,Gait Disorder,180 / 101 mmHg,None,Point raise human need gas ten not maintain.,Good,29.98
+Tony Reynolds,51,Other,B-,148.0,207,Young-Onset Parkinson's Disease,162 / 105 mmHg,Weekly,Me present increase single history natural eat.,Fair,32.75
+Paige Lee,22,Male,A+,74.6,187,Vascular Parkinsonism,126 / 64 mmHg,Weekly,Tax training receive fill himself treatment.,Fair,32.67
+Julie Wilson,38,Male,A+,85.2,168,Drug-Induced Parkinsonism,136 / 66 mmHg,Rarely,Hard room serve.,Fair,15.37
+Kenneth Thompson,38,Other,A+,112.7,199,Secondary Parkinsonism,117 / 110 mmHg,Daily,Chair force sit human discover cover discussion.,Fair,22.45
+Christian Ortiz,52,Male,B+,43.4,161,Postural Instability,160 / 91 mmHg,Weekly,Mind whole five.,Good,24.17
+Christopher Burke,32,Male,B-,121.6,196,Hereditary Parkinsonism,129 / 108 mmHg,Rarely,Impact land skin popular people station international media.,Poor,23.37
+Michael Lopez,18,Female,O+,113.4,162,Gait Disorder,148 / 108 mmHg,Weekly,Level song once enter stay skill.,Poor,22.99
+Thomas Ellis,37,Male,O+,67.8,202,Gait Disorder,179 / 81 mmHg,Weekly,Write best college Congress.,Poor,26.0
+Haley Watkins,21,Other,AB+,122.2,168,Gait Disorder,113 / 111 mmHg,None,Around receive it money light.,Poor,28.01
+Paul Weber,73,Other,AB-,68.8,154,Vascular Parkinsonism,124 / 96 mmHg,Weekly,Listen he property where century.,Fair,36.89
+Brandy Barnes,80,Other,O+,91.4,150,Young-Onset Parkinson's Disease,129 / 63 mmHg,Weekly,Thought back court.,Fair,23.31
+Gregory Mcdonald,33,Male,AB+,94.6,151,Gait Disorder,90 / 72 mmHg,Weekly,Indeed religious produce range lay.,Good,20.87
+Emily Adams,31,Other,A+,55.9,205,Atypical Parkinsonism,131 / 106 mmHg,None,Truth south early natural area.,Poor,28.0
+Sharon Ortiz,64,Female,O-,114.1,159,Postural Instability,180 / 113 mmHg,None,Down could see before stage.,Poor,26.96
+Jamie Powell,47,Other,O-,143.8,168,Genetic Parkinson's Disease,148 / 106 mmHg,Weekly,Statement student artist society see put.,Fair,25.92
+Jessica Smith,60,Female,AB-,101.4,163,Late-Onset Parkinson's Disease,137 / 110 mmHg,Rarely,Ball benefit lay end hot.,Good,36.06
+Mary Ferguson,65,Other,AB+,47.3,209,Genetic Parkinson's Disease,132 / 66 mmHg,Daily,Old ago place.,Fair,30.86
+Eric Ochoa,32,Male,O+,50.2,156,Hereditary Parkinsonism,101 / 119 mmHg,None,Total yeah toward good.,Fair,32.68
+Thomas Porter,52,Male,B-,77.6,168,Drug-Induced Parkinsonism,107 / 118 mmHg,None,Speech child herself realize response hot now heart.,Poor,29.27
+Rebecca Farley,43,Female,B-,83.7,186,Postural Instability,176 / 67 mmHg,Weekly,Whose audience gun drive environmental through.,Poor,38.49
+William Bolton,49,Male,B-,75.2,189,Postural Instability,114 / 97 mmHg,Rarely,Because message country show officer.,Good,19.94
+Marcus Edwards,42,Female,AB+,66.8,188,Late-Onset Parkinson's Disease,153 / 90 mmHg,Rarely,Mean design business out want military.,Good,18.3
+Sharon Jones,38,Female,B-,61.5,190,Drug-Induced Parkinsonism,132 / 96 mmHg,None,Safe already arrive author answer key perhaps.,Fair,20.35
+Erica Lewis,65,Other,A+,95.8,189,Atypical Parkinsonism,146 / 60 mmHg,Daily,Dark ahead science vote bad Congress pick.,Fair,29.93
+Robert Nichols,33,Female,O+,94.3,140,Atypical Parkinsonism,167 / 117 mmHg,Daily,Significant process event second large.,Poor,22.36
+Michele Horne,55,Female,B-,134.6,155,Hereditary Parkinsonism,125 / 86 mmHg,Rarely,Difficult recognize what site decision effort effect.,Poor,33.21
+Megan Eaton,65,Female,AB+,121.3,205,Atypical Parkinsonism,96 / 102 mmHg,Weekly,Lot unit run itself place leave.,Poor,33.99
+Alison Golden,49,Female,AB+,98.5,141,Postural Instability,131 / 106 mmHg,Rarely,Drop perform better movie manage authority specific less.,Fair,22.26
+Joseph Vance,60,Other,A-,98.8,168,Late-Onset Parkinson's Disease,165 / 99 mmHg,Daily,Early draw foot Mrs accept special.,Good,39.85
+Jared Ortiz,47,Female,O-,138.7,208,Parkinsonism-plus syndromes,149 / 92 mmHg,Weekly,Use sense doctor whatever difference for.,Fair,31.1
+Charles Black,41,Other,O-,138.0,166,Atypical Parkinsonism,177 / 74 mmHg,Daily,Far name answer might firm again.,Poor,34.95
+Dr. Vickie Roberson,59,Female,O+,85.6,179,Vascular Parkinsonism,102 / 84 mmHg,Daily,Figure without present reach though.,Fair,23.33
+Bryan Jones,67,Female,A+,59.7,150,Postural Instability,121 / 69 mmHg,Weekly,Involve war something back during draw sport.,Poor,19.71
+Brian Lane,26,Female,O-,147.9,175,Postural Instability,93 / 65 mmHg,Daily,Hope station option energy four our capital.,Fair,38.88
+Mary Burnett,39,Male,AB-,79.8,193,Gait Disorder,158 / 118 mmHg,Rarely,Also area huge carry.,Good,30.23
+Katie Bennett,70,Male,O-,114.2,182,Parkinsonism-plus syndromes,140 / 114 mmHg,Weekly,Game role idea shoulder sea.,Poor,26.26
+Jeanne Rodriguez,38,Male,O+,105.7,184,Young-Onset Parkinson's Disease,104 / 118 mmHg,Weekly,Party both project doctor want.,Fair,28.07
+Tyler Henry,52,Other,O+,72.4,198,Postural Instability,149 / 96 mmHg,Weekly,Hand house tend south wish happen another help.,Good,39.08
+Mark Reynolds,33,Female,O-,98.9,173,Gait Disorder,93 / 101 mmHg,None,Relate head value watch law others.,Fair,39.97
+Aaron Buchanan,50,Female,AB+,68.7,177,Atypical Parkinsonism,159 / 73 mmHg,Rarely,History chair worker pressure drug.,Poor,16.58
+Paul Macdonald,80,Female,AB+,146.4,196,Parkinsonism-plus syndromes,132 / 84 mmHg,Weekly,Voice right picture.,Poor,23.34
+William Thomas,20,Male,B+,132.8,163,Postural Instability,152 / 78 mmHg,Daily,Realize visit back born improve.,Fair,37.28
+Linda Blair,61,Male,A+,56.5,146,Drug-Induced Parkinsonism,146 / 64 mmHg,None,Third prevent four bar top.,Good,21.75
+Anthony Mason,64,Male,B+,98.6,153,Parkinsonism-plus syndromes,92 / 104 mmHg,Weekly,Physical wish level both brother family program.,Poor,15.6
+Thomas Valentine,35,Other,O+,57.1,176,Idiopathic Parkinson's Disease,174 / 115 mmHg,None,Key control eat thing short body.,Poor,33.8
+Morgan Moore,41,Male,AB-,85.7,194,Vascular Parkinsonism,97 / 85 mmHg,Daily,Response you could speech ask.,Fair,38.77
+Paul Johnson,40,Male,O-,66.4,199,Gait Disorder,155 / 71 mmHg,Daily,Thought fire sometimes new both choose.,Fair,15.26
+Bradley Fox,63,Female,B-,146.4,203,Young-Onset Parkinson's Disease,177 / 64 mmHg,Rarely,Same operation cover himself.,Fair,20.63
+Cheryl Medina,74,Other,O+,50.4,167,Atypical Parkinsonism,150 / 73 mmHg,None,Consumer green its present teach movie.,Good,20.45
+Brenda Munoz,37,Female,B-,110.6,189,Parkinsonism-plus syndromes,165 / 80 mmHg,None,Site ever Mr.,Good,25.27
+Mckenzie Harris,75,Female,A+,50.4,198,Postural Instability,138 / 73 mmHg,Rarely,Heavy necessary consumer magazine talk.,Good,24.71
+Lisa Ayala,31,Other,O-,109.3,170,Genetic Parkinson's Disease,169 / 109 mmHg,Daily,Pick beautiful artist candidate show.,Good,29.09
+Tamara Foster,63,Male,AB-,50.7,140,Postural Instability,114 / 77 mmHg,Daily,Most successful first indicate plant.,Good,19.01
+James Herrera,20,Female,A-,115.7,193,Vascular Parkinsonism,145 / 104 mmHg,Daily,Mean room out eat win skill.,Good,30.66
+Michele George,49,Other,B-,42.5,191,Gait Disorder,157 / 87 mmHg,Daily,Fill why mention partner relationship move.,Poor,26.62
+Mindy Figueroa,35,Male,B-,61.8,203,Idiopathic Parkinson's Disease,141 / 70 mmHg,None,North suddenly film term sure.,Fair,24.51
+Patricia Miller,60,Female,AB+,67.8,193,Young-Onset Parkinson's Disease,124 / 113 mmHg,Daily,Sea recent nature seek home word community man.,Fair,33.01
+Alyssa Watson,19,Female,A-,131.6,167,Genetic Parkinson's Disease,121 / 110 mmHg,Weekly,Care song no great risk.,Poor,21.77
+Kristina Williams,78,Male,O-,84.9,183,Young-Onset Parkinson's Disease,139 / 116 mmHg,Daily,Day loss one site final.,Good,32.23
+Nicholas Dunn,48,Male,AB+,58.9,146,Parkinsonism-plus syndromes,166 / 110 mmHg,None,Prevent age smile garden race speak management.,Poor,24.45
+Julie Harris,58,Other,A+,129.7,207,Idiopathic Parkinson's Disease,156 / 65 mmHg,Weekly,Pretty ever available source better.,Poor,38.08
+Bianca Kelley,77,Female,O+,109.1,206,Atypical Parkinsonism,149 / 106 mmHg,Daily,Protect perform enjoy century.,Good,27.11
+Jordan Mcdowell,76,Female,B-,79.1,151,Gait Disorder,178 / 73 mmHg,Daily,Amount indeed project drug them choose.,Poor,38.23
+Travis Bowen,51,Other,O-,68.3,148,Parkinsonism-plus syndromes,134 / 89 mmHg,Daily,Strong themselves meet skill.,Fair,30.1
+Kyle Stevens,32,Male,O-,54.2,167,Hereditary Parkinsonism,179 / 76 mmHg,Weekly,Floor draw west explain doctor appear.,Good,16.65
+Barbara King,24,Male,B+,62.0,179,Postural Instability,155 / 98 mmHg,Rarely,Feeling her image director service decide entire.,Good,19.42
+Elizabeth White,72,Other,O-,90.0,171,Atypical Parkinsonism,154 / 70 mmHg,Weekly,Message fly forward top very.,Good,27.98
+Gerald Gonzalez,64,Female,O-,58.7,206,Gait Disorder,171 / 95 mmHg,Rarely,Others method simply major.,Good,35.41
+Charles Goodwin,43,Other,AB+,136.1,196,Genetic Parkinson's Disease,160 / 81 mmHg,Daily,Me speech everything behavior.,Good,29.68
+Amy Kennedy,60,Female,B+,92.2,202,Hereditary Parkinsonism,124 / 100 mmHg,Rarely,Nor picture stuff sister letter yourself.,Fair,18.07
+Jack Bray,42,Female,AB-,74.7,183,Vascular Parkinsonism,102 / 89 mmHg,Weekly,American discover fall pick.,Poor,24.37
+Gregory Hodge,29,Other,A+,78.6,154,Vascular Parkinsonism,129 / 67 mmHg,Rarely,Despite stay agent remember.,Fair,23.4
+Keith Lee,45,Female,AB+,134.9,188,Idiopathic Parkinson's Disease,178 / 96 mmHg,None,Above argue spring program firm receive lawyer.,Poor,15.1
+Jacob Goodwin,31,Male,B+,68.8,155,Idiopathic Parkinson's Disease,137 / 91 mmHg,Daily,Research threat type begin why physical.,Poor,19.72
+Charles Jacobson,66,Other,A+,98.1,165,Hereditary Parkinsonism,130 / 63 mmHg,Daily,Brother become most responsibility here.,Poor,22.35
+Candace Russell,65,Other,A-,45.8,155,Atypical Parkinsonism,107 / 118 mmHg,Daily,Whether at work explain tonight.,Poor,22.27
+Kimberly Prince,31,Other,O+,130.9,165,Postural Instability,153 / 111 mmHg,Weekly,Strategy offer with laugh.,Poor,27.21
+Alan Glenn,75,Female,O-,118.0,207,Hereditary Parkinsonism,171 / 100 mmHg,Weekly,Support and friend apply fact candidate.,Poor,18.5
+Matthew Ramirez,30,Other,B-,107.8,200,Gait Disorder,116 / 118 mmHg,Rarely,Employee around sense country past cover agency.,Poor,35.01
+Marisa Russo,50,Other,AB-,122.3,188,Drug-Induced Parkinsonism,148 / 89 mmHg,None,Tonight there health.,Fair,30.42
+Dawn Lindsey,74,Male,A+,76.0,205,Drug-Induced Parkinsonism,146 / 107 mmHg,Daily,Benefit cut boy war around card.,Fair,23.31
+Angela Clark,33,Male,B-,106.8,201,Idiopathic Parkinson's Disease,110 / 69 mmHg,Rarely,Consider lot music.,Fair,29.8
+Nancy Kramer,63,Male,AB+,100.1,209,Late-Onset Parkinson's Disease,103 / 62 mmHg,Rarely,Guy himself hit crime.,Poor,36.15
+Thomas Bray,45,Female,A+,135.3,153,Idiopathic Parkinson's Disease,174 / 106 mmHg,Rarely,Also consider manager example admit inside something writer.,Fair,25.39
+Joshua Aguilar,51,Male,AB-,60.6,174,Genetic Parkinson's Disease,165 / 110 mmHg,None,Fly decade tend rather fill.,Good,35.46
+Bruce Butler,20,Female,A+,92.8,192,Atypical Parkinsonism,91 / 96 mmHg,Weekly,Fish leader game several effort pressure human.,Poor,27.89
+Andre Kramer,71,Male,B+,107.5,163,Parkinsonism-plus syndromes,153 / 93 mmHg,Daily,Space lead maintain remember.,Good,30.5
+Jasmine Mcfarland,20,Female,A+,98.4,200,Genetic Parkinson's Disease,109 / 119 mmHg,Daily,Might in person next age radio.,Poor,34.91
+Stacey Coleman,49,Other,AB+,75.1,206,Postural Instability,122 / 67 mmHg,Daily,All author air door record street recognize.,Poor,39.69
+Geoffrey Martinez,21,Male,O-,45.6,169,Parkinsonism-plus syndromes,103 / 111 mmHg,Daily,Degree someone film life serious still teach time.,Fair,21.9
+Dennis Kelly,80,Female,B-,145.9,207,Postural Instability,139 / 74 mmHg,Rarely,Indeed in detail.,Fair,25.08
+Brian Burke,74,Male,A+,112.5,198,Idiopathic Parkinson's Disease,156 / 67 mmHg,Daily,Happen effort major upon drop hope.,Good,27.9
+Travis Bradford,59,Other,A-,77.6,205,Atypical Parkinsonism,167 / 80 mmHg,Daily,Ahead though significant plant near economy.,Fair,39.74
+Lindsay Wright,44,Male,AB+,129.7,162,Late-Onset Parkinson's Disease,168 / 82 mmHg,Rarely,Together security media interesting.,Fair,35.93
+Danielle Huber,45,Female,AB-,58.5,141,Parkinsonism-plus syndromes,111 / 88 mmHg,Rarely,Go that campaign season leg as gas.,Fair,17.37
+Carla Flynn,38,Female,B+,112.1,173,Late-Onset Parkinson's Disease,178 / 112 mmHg,Rarely,Teacher try entire moment grow choice.,Good,22.82
+Victoria Barnes,70,Female,AB+,113.3,149,Young-Onset Parkinson's Disease,173 / 104 mmHg,None,Street girl option agency.,Good,23.8
+Mary Woods,40,Male,A-,40.3,165,Drug-Induced Parkinsonism,158 / 97 mmHg,Daily,Any pattern garden degree fight up course.,Poor,23.73
+Deborah Russell,30,Male,A+,102.8,209,Atypical Parkinsonism,100 / 81 mmHg,Daily,Already himself executive believe public itself agree.,Fair,25.58
+Jennifer Frederick,61,Other,O+,49.6,204,Drug-Induced Parkinsonism,126 / 92 mmHg,None,Lawyer focus Congress collection.,Good,15.07
+Daniel Newman,42,Male,O-,118.3,161,Young-Onset Parkinson's Disease,116 / 63 mmHg,Weekly,Around last lay term enter avoid ok.,Poor,15.38
+Kathy Brown,71,Male,B+,104.0,191,Vascular Parkinsonism,166 / 64 mmHg,Rarely,Arrive television scene treat last.,Poor,38.22
+Rick Nelson,75,Female,O+,76.3,147,Atypical Parkinsonism,167 / 92 mmHg,Rarely,Certainly defense coach along subject statement.,Fair,31.34
+Tina Taylor,52,Male,B-,133.9,171,Drug-Induced Parkinsonism,133 / 65 mmHg,Rarely,Without worker east degree room.,Poor,19.17
+Bonnie Combs,42,Other,AB-,109.8,157,Drug-Induced Parkinsonism,133 / 63 mmHg,Weekly,Such response fire program radio air type job.,Poor,27.8
+Brandon Stewart,39,Other,A-,59.6,203,Young-Onset Parkinson's Disease,145 / 101 mmHg,None,Similar watch off.,Poor,23.54
+Carla Pope,51,Female,O-,77.0,185,Atypical Parkinsonism,129 / 69 mmHg,Rarely,Organization specific prove heavy doctor.,Fair,28.6
+Christopher Garza,35,Male,B-,121.5,161,Young-Onset Parkinson's Disease,160 / 103 mmHg,None,Key institution court none remain into.,Poor,25.11
+Joseph Barr,66,Other,O-,133.6,209,Parkinsonism-plus syndromes,130 / 61 mmHg,Weekly,Notice organization theory team low especially control.,Poor,22.89
+Anna Bailey,30,Male,O+,101.8,165,Late-Onset Parkinson's Disease,128 / 87 mmHg,Weekly,Candidate age interesting song remember staff fast.,Fair,28.57
+Thomas Richardson,43,Female,A+,60.0,141,Young-Onset Parkinson's Disease,168 / 71 mmHg,Daily,Size such own.,Poor,19.5
+Holly Dickerson,36,Female,O+,95.5,191,Gait Disorder,112 / 71 mmHg,Rarely,Develop research alone or hospital less she.,Fair,27.45
+Larry Dean,32,Other,B-,115.6,141,Atypical Parkinsonism,163 / 76 mmHg,Rarely,Democratic better notice on show will worry project.,Poor,24.64
+Jean Campbell,80,Male,B-,51.5,193,Genetic Parkinson's Disease,110 / 112 mmHg,Rarely,Bit him hold.,Good,24.82
+Melissa Hall,52,Other,A-,68.3,182,Secondary Parkinsonism,142 / 103 mmHg,Rarely,Certainly art center cultural area.,Fair,39.78
+Jonathan Rivera,78,Male,AB+,115.7,176,Secondary Parkinsonism,119 / 112 mmHg,Rarely,Finally themselves physical daughter lead.,Poor,36.02
+Daniel Swanson,58,Other,O+,95.0,177,Young-Onset Parkinson's Disease,145 / 95 mmHg,Rarely,Writer analysis director region sure information above identify.,Good,31.52
+Bruce Jones,69,Male,AB-,128.9,144,Drug-Induced Parkinsonism,154 / 112 mmHg,None,Large be enjoy get up training try.,Fair,38.5
+Joseph Diaz,49,Male,A+,41.9,174,Hereditary Parkinsonism,174 / 69 mmHg,Rarely,Book stock trial employee many.,Good,19.91
+Marcus Shelton,37,Male,A+,81.3,152,Postural Instability,92 / 110 mmHg,Daily,Staff feeling try pressure.,Good,31.03
+David Harrington,60,Male,B-,114.1,205,Drug-Induced Parkinsonism,129 / 114 mmHg,Daily,Bill create better.,Fair,23.65
+Cynthia Patterson,69,Other,AB+,83.3,157,Young-Onset Parkinson's Disease,101 / 65 mmHg,None,Protect cultural team.,Poor,32.56
+Denise Jones,28,Female,A+,75.1,176,Idiopathic Parkinson's Disease,173 / 74 mmHg,None,Result source data drug stage yard fish standard.,Good,36.96
+Kari Jones,73,Male,B+,47.3,166,Drug-Induced Parkinsonism,97 / 95 mmHg,Weekly,Well newspaper simply money exist million.,Poor,26.15
+John Smith,64,Female,O-,40.6,206,Late-Onset Parkinson's Disease,154 / 104 mmHg,Daily,Student southern partner floor his now cup.,Fair,28.05
+Margaret Wade,72,Other,B-,128.8,209,Parkinsonism-plus syndromes,154 / 67 mmHg,Weekly,Fact capital follow result election.,Poor,37.62
+Valerie Young,44,Other,O-,106.7,156,Parkinsonism-plus syndromes,99 / 72 mmHg,Weekly,Parent store stock forward support drug measure.,Fair,37.66
+Pamela Whitney,25,Female,AB-,84.7,193,Postural Instability,97 / 104 mmHg,Rarely,Gun economy drop pull wrong ever president left.,Good,28.1
+Emily Zamora,46,Female,A-,91.1,200,Postural Instability,95 / 97 mmHg,None,Herself power finish career issue recently look particularly.,Fair,34.09
+Vincent Boone,54,Other,O+,70.2,209,Atypical Parkinsonism,106 / 108 mmHg,Daily,Move debate red group.,Good,26.21
+Maria Warren,31,Male,AB+,105.9,193,Drug-Induced Parkinsonism,152 / 119 mmHg,Weekly,Military so seek perform father.,Fair,15.61
+Diane Carrillo,22,Other,B-,67.4,161,Parkinsonism-plus syndromes,168 / 104 mmHg,None,Their analysis doctor sell system.,Fair,25.66
+Keith Green,80,Other,AB-,106.8,167,Idiopathic Parkinson's Disease,113 / 110 mmHg,None,Fine talk probably morning choose offer.,Good,21.97
+Janice Fox,32,Other,B-,96.2,175,Hereditary Parkinsonism,151 / 85 mmHg,Rarely,Whether sure such sea expert professional return.,Good,35.28
+Alisha Moore,73,Male,O-,118.0,189,Late-Onset Parkinson's Disease,127 / 114 mmHg,Rarely,Meet however instead bar like them.,Fair,39.24
+Dawn Lee,25,Female,AB+,62.3,161,Gait Disorder,95 / 94 mmHg,Weekly,There keep mind science movie.,Fair,29.4
+Amy Mann,79,Other,A+,70.0,192,Parkinsonism-plus syndromes,176 / 62 mmHg,None,Eye them he work others wait American.,Poor,39.58
+Valerie Silva,72,Female,O-,121.3,145,Late-Onset Parkinson's Disease,161 / 97 mmHg,None,Yourself night religious minute who later song continue.,Good,16.36
+Erica Morgan,80,Male,B-,134.0,209,Late-Onset Parkinson's Disease,151 / 87 mmHg,None,Sport shoulder do site watch.,Good,36.99
+Jay Ortiz,50,Female,A+,146.8,159,Genetic Parkinson's Disease,154 / 110 mmHg,Weekly,Argue child alone relate letter show.,Poor,38.28
+Grant Lee,30,Other,AB-,109.8,143,Drug-Induced Parkinsonism,107 / 118 mmHg,None,And stand feel need rule someone.,Fair,26.95
+Anthony Steele,45,Female,A-,99.8,192,Young-Onset Parkinson's Disease,155 / 101 mmHg,Rarely,Off drive life environment.,Fair,37.76
+Susan Jackson,21,Female,O-,65.4,194,Parkinsonism-plus syndromes,101 / 83 mmHg,None,Nor way meet drive time fill professor.,Poor,15.95
+Brett Payne,77,Male,O-,137.4,170,Postural Instability,102 / 92 mmHg,Daily,Huge foreign production see keep tell.,Poor,23.75
+Michael Gregory,39,Female,AB-,48.8,177,Gait Disorder,173 / 67 mmHg,Daily,Instead eight between.,Fair,32.42
+Cheryl Beard,75,Male,AB+,134.2,157,Atypical Parkinsonism,96 / 93 mmHg,Rarely,Always ten business I above daughter executive.,Fair,17.06
+Sabrina Ayala,20,Other,AB+,97.2,180,Late-Onset Parkinson's Disease,108 / 88 mmHg,Daily,Personal writer continue protect many care little.,Good,37.88
+Katie Wright,70,Other,A+,144.7,185,Young-Onset Parkinson's Disease,159 / 72 mmHg,Weekly,Night myself speech although shoulder.,Good,15.56
+Rebecca Morrison,70,Male,AB-,131.0,142,Young-Onset Parkinson's Disease,107 / 64 mmHg,None,Fall ahead major gas physical.,Good,30.2
+Patty Simon,19,Other,A-,89.3,183,Genetic Parkinson's Disease,165 / 96 mmHg,Daily,None pattern paper.,Good,22.39
+Kelly Stuart,23,Other,A+,134.5,177,Vascular Parkinsonism,146 / 70 mmHg,None,Successful wish prepare company population.,Good,36.76
+Laurie Cook,39,Male,O-,111.7,194,Secondary Parkinsonism,111 / 94 mmHg,Daily,Successful follow writer now Democrat five animal dark.,Poor,16.76
+Duane Pope,18,Female,O+,111.2,189,Hereditary Parkinsonism,121 / 101 mmHg,Weekly,Allow all perform respond finish on.,Good,25.29
+Jessica Newman,41,Other,AB+,145.8,186,Hereditary Parkinsonism,166 / 100 mmHg,None,Campaign way help force far task.,Poor,34.42
+Keith Johnson,51,Other,O+,88.9,169,Late-Onset Parkinson's Disease,103 / 99 mmHg,Rarely,Too be increase pass.,Good,17.8
+Jerry Payne,78,Other,A+,126.3,153,Postural Instability,94 / 79 mmHg,None,Meeting job data health different.,Fair,38.56
+Gerald Mckay,34,Female,AB-,138.7,193,Secondary Parkinsonism,140 / 115 mmHg,None,Could early difficult difficult moment.,Fair,29.34
+Caleb Davis,53,Other,B-,114.9,167,Parkinsonism-plus syndromes,119 / 77 mmHg,Rarely,Southern walk page after.,Good,16.63
+Brian Rangel,43,Female,AB+,107.8,158,Vascular Parkinsonism,179 / 79 mmHg,None,Only receive natural nice floor media central.,Fair,34.31
+Steven Alvarez,41,Other,AB+,92.0,186,Late-Onset Parkinson's Disease,126 / 111 mmHg,Daily,Several keep unit although anyone shake.,Good,31.12
+Troy Hawkins,38,Female,O-,96.4,167,Secondary Parkinsonism,105 / 109 mmHg,Weekly,Ok another open.,Fair,18.41
+Katelyn Smith,24,Male,A+,81.2,154,Late-Onset Parkinson's Disease,165 / 89 mmHg,Rarely,Third personal develop before choose oil.,Poor,39.78
+Matthew Williams,23,Female,O-,45.4,187,Atypical Parkinsonism,160 / 118 mmHg,Weekly,Article right home thank term nor.,Fair,27.68
+Linda Melton,32,Male,A+,117.1,145,Postural Instability,128 / 108 mmHg,Weekly,Situation today commercial five.,Fair,38.72
+Jeffrey Martin,44,Other,A-,54.8,147,Vascular Parkinsonism,98 / 83 mmHg,Daily,Degree since choose wife magazine.,Good,29.32
+Ricky Pierce,22,Other,O+,107.0,208,Hereditary Parkinsonism,146 / 105 mmHg,Weekly,Unit compare bed job.,Good,21.53
+Mr. Mark Taylor,48,Other,B+,73.5,191,Gait Disorder,149 / 109 mmHg,Daily,Camera so movement.,Fair,23.95
+Amanda Weber,35,Male,AB+,104.4,141,Idiopathic Parkinson's Disease,167 / 116 mmHg,Weekly,Manager they heart real.,Good,25.23
+Heather Rowe,33,Other,AB+,48.9,180,Late-Onset Parkinson's Disease,170 / 111 mmHg,Weekly,Hand support knowledge might.,Fair,24.24
+Jennifer Summers,63,Other,A-,88.4,202,Young-Onset Parkinson's Disease,175 / 70 mmHg,Daily,Paper fire value wide.,Fair,17.41
+Thomas Wallace,22,Female,O-,63.5,173,Hereditary Parkinsonism,145 / 105 mmHg,Weekly,Industry final area account.,Good,33.0
+Bruce Caldwell,38,Female,O+,94.7,140,Late-Onset Parkinson's Disease,159 / 83 mmHg,None,West half and whom first.,Good,31.5
+Bobby Webb,53,Other,B+,77.3,180,Atypical Parkinsonism,170 / 84 mmHg,Daily,Relationship window bad half born.,Poor,37.89
+Tanya Davis,75,Other,AB+,44.6,204,Vascular Parkinsonism,175 / 74 mmHg,None,Carry cut word own four.,Good,39.19
+John Adams,52,Other,O+,78.8,182,Postural Instability,127 / 102 mmHg,Weekly,How husband serve threat parent see.,Fair,31.48
+John Ward,57,Female,A-,105.8,190,Drug-Induced Parkinsonism,115 / 76 mmHg,Daily,Learn yes practice region class table can.,Poor,27.25
+Jennifer Patrick,72,Female,B+,73.5,199,Young-Onset Parkinson's Disease,114 / 104 mmHg,Weekly,Almost parent down later city school it.,Poor,35.92
+Zachary Escobar,31,Female,AB-,56.9,200,Postural Instability,152 / 110 mmHg,Weekly,Newspaper true how central try economic.,Fair,17.81
+Justin Martinez,18,Other,O+,78.3,152,Drug-Induced Parkinsonism,154 / 67 mmHg,Daily,Actually treatment level many.,Fair,35.99
+Steven Oliver,39,Male,B+,91.1,209,Secondary Parkinsonism,150 / 114 mmHg,Weekly,Your find even guess challenge every happen.,Good,35.33
+Christopher Sanchez,20,Male,B+,133.9,185,Idiopathic Parkinson's Disease,161 / 107 mmHg,Weekly,Reduce soon form investment than standard.,Good,23.35
+Timothy Dean,76,Female,A-,148.6,174,Gait Disorder,108 / 69 mmHg,None,Area network popular officer.,Fair,36.56
+Jodi Castro,41,Female,AB+,118.4,163,Drug-Induced Parkinsonism,140 / 108 mmHg,None,Forward garden attorney.,Good,31.02
+Jesus Mccann,26,Male,A+,59.1,142,Vascular Parkinsonism,146 / 74 mmHg,Daily,Bad father resource table cut yet box.,Fair,31.17
+David Patrick,29,Male,O+,62.0,159,Postural Instability,120 / 99 mmHg,Rarely,Process perhaps boy successful strategy above however.,Good,39.74
+Sabrina Jones,32,Male,A-,59.2,156,Secondary Parkinsonism,107 / 101 mmHg,None,Listen magazine store member none rate mention success.,Fair,16.25
+Katie Peters,38,Other,A+,114.9,201,Hereditary Parkinsonism,139 / 92 mmHg,Rarely,General field system.,Fair,23.97
+Madison Bowman,62,Female,A+,110.8,159,Hereditary Parkinsonism,122 / 99 mmHg,Weekly,Free fill open.,Poor,15.9
+James Fowler,58,Other,B+,83.6,177,Hereditary Parkinsonism,118 / 82 mmHg,Daily,Hand play here discover try.,Poor,31.06
+Michael Weber,18,Male,B-,142.8,182,Vascular Parkinsonism,177 / 94 mmHg,Weekly,Impact us policy how.,Good,35.22
+Gary Rogers,69,Female,O+,64.5,187,Young-Onset Parkinson's Disease,112 / 120 mmHg,Weekly,Knowledge knowledge response part.,Good,17.32
+Daniel Warner,72,Other,B+,61.1,148,Hereditary Parkinsonism,169 / 62 mmHg,Weekly,Maintain current among politics probably.,Poor,38.08
+Amanda Mitchell,41,Female,O-,139.3,193,Postural Instability,142 / 81 mmHg,Weekly,Sister ten them.,Poor,25.74
+Ralph Smith,45,Female,B+,42.4,151,Atypical Parkinsonism,170 / 97 mmHg,Weekly,Almost little teach nation Congress.,Poor,18.64
+Justin Thomas,77,Male,AB+,86.9,144,Genetic Parkinson's Disease,97 / 110 mmHg,Weekly,Hotel soon money bill.,Good,35.08
+Mr. Eric Rivera,24,Male,O-,113.5,200,Gait Disorder,157 / 85 mmHg,Daily,Difference stand mouth life former account herself.,Fair,19.03
+Allison Abbott,62,Female,AB+,81.4,209,Postural Instability,156 / 90 mmHg,Daily,Soon lay him top child future end top.,Poor,38.74
+Nicholas Wang,33,Female,AB+,115.8,174,Hereditary Parkinsonism,172 / 65 mmHg,Weekly,Popular become develop decade than.,Good,32.85
+Juan Thomas,43,Male,AB-,58.3,150,Young-Onset Parkinson's Disease,104 / 69 mmHg,Rarely,Wife together man during than.,Poor,27.91
+Brooke Montoya,56,Female,B-,43.1,146,Late-Onset Parkinson's Disease,157 / 79 mmHg,Weekly,Science must let far treatment college.,Fair,29.59
+Tamara Ryan,71,Female,O+,79.0,201,Secondary Parkinsonism,135 / 105 mmHg,None,Tonight under between lay.,Poor,25.34
+Christopher Fernandez,33,Other,B-,69.3,144,Late-Onset Parkinson's Disease,171 / 61 mmHg,Weekly,Impact fear share.,Good,35.01
+James Jackson,50,Other,A+,42.0,151,Secondary Parkinsonism,160 / 114 mmHg,Rarely,Hot memory Mrs sit represent base discuss.,Poor,19.97
+Carol Bailey,46,Male,AB-,102.7,210,Secondary Parkinsonism,163 / 85 mmHg,Rarely,Certain gas so.,Good,19.12
+Joshua Welch,21,Male,AB-,104.6,180,Vascular Parkinsonism,96 / 105 mmHg,Rarely,List sound send majority when local.,Fair,29.7
+Bruce Graves,28,Female,B-,87.1,158,Vascular Parkinsonism,112 / 76 mmHg,Rarely,Management ever difficult.,Fair,31.86
+Robert Noble,19,Other,O+,143.4,170,Genetic Parkinson's Disease,117 / 60 mmHg,Weekly,Walk task sister.,Fair,36.33
+Heidi Adams,20,Male,AB-,93.4,153,Postural Instability,156 / 91 mmHg,Weekly,Whatever suffer on point imagine response away.,Good,33.94
+Matthew Moore,45,Other,A+,88.2,142,Atypical Parkinsonism,125 / 106 mmHg,Daily,Food situation experience eight also.,Fair,35.01
+Raymond Patton,36,Other,O+,134.3,160,Drug-Induced Parkinsonism,93 / 75 mmHg,None,Church election learn quite sign employee.,Good,21.03
+Miranda Mills,73,Male,B+,97.0,204,Late-Onset Parkinson's Disease,91 / 93 mmHg,Weekly,Suffer animal her give.,Good,25.36
+Brian Lopez,60,Male,B+,59.3,191,Atypical Parkinsonism,178 / 60 mmHg,Daily,Entire involve base oil.,Good,28.2
+Maria Cross,22,Male,AB-,85.3,179,Late-Onset Parkinson's Disease,157 / 69 mmHg,Daily,Guy time view court image.,Poor,35.56
+Arthur Elliott,30,Other,O-,61.4,176,Idiopathic Parkinson's Disease,119 / 85 mmHg,Daily,Piece page up seat item.,Poor,25.07
+Jim Wagner,25,Male,O-,132.4,206,Late-Onset Parkinson's Disease,174 / 106 mmHg,Weekly,Show bar increase where ability coach long.,Good,21.22
+Barbara Schneider,38,Male,A+,105.7,154,Genetic Parkinson's Disease,132 / 75 mmHg,Daily,Project whatever family leader.,Good,31.95
+Linda Marsh,57,Other,A+,134.9,202,Postural Instability,152 / 79 mmHg,Weekly,Money every join three civil few culture market.,Good,38.45
+Cory Ford,78,Female,AB-,92.3,198,Parkinsonism-plus syndromes,166 / 86 mmHg,None,Course control common defense matter memory sound.,Fair,21.86
+Wesley Taylor,64,Other,AB-,126.2,178,Gait Disorder,134 / 118 mmHg,None,Father song agency start citizen together production.,Good,26.36
+Billy Brown,38,Female,A+,134.4,152,Late-Onset Parkinson's Disease,133 / 111 mmHg,Daily,Look write large.,Good,18.21
+Jacob Townsend,49,Female,AB-,123.1,196,Parkinsonism-plus syndromes,120 / 108 mmHg,None,Clearly discussion occur garden leave.,Good,32.09
+Randy Munoz,69,Female,AB-,145.1,181,Hereditary Parkinsonism,139 / 99 mmHg,Weekly,College memory several if just.,Fair,28.2
+Brian Stephens,42,Male,AB-,149.2,201,Drug-Induced Parkinsonism,137 / 105 mmHg,Weekly,Senior do even among class thank rather.,Good,18.27
+Henry Wells,32,Male,O+,96.4,177,Drug-Induced Parkinsonism,138 / 108 mmHg,Weekly,House arrive structure piece democratic institution.,Poor,22.99
+Patricia Thompson,72,Female,AB-,98.9,160,Genetic Parkinson's Disease,123 / 64 mmHg,Rarely,This include today will.,Fair,33.42
+Ronald Anderson,22,Other,O-,123.7,160,Drug-Induced Parkinsonism,119 / 118 mmHg,Rarely,Democratic rich perhaps impact less.,Fair,39.63
+Anthony Andrews,20,Male,A-,43.3,204,Genetic Parkinson's Disease,172 / 106 mmHg,Weekly,Fire prove drive between bank party parent.,Good,31.51
+Mary Fisher,77,Female,B-,125.5,151,Genetic Parkinson's Disease,112 / 87 mmHg,Daily,Sit late might better week.,Fair,19.4
+Sergio Thompson,66,Other,AB+,62.4,201,Atypical Parkinsonism,144 / 115 mmHg,Daily,Within member already paper brother hot.,Good,22.7
+Amy Smith,72,Female,A+,72.4,140,Drug-Induced Parkinsonism,118 / 88 mmHg,None,Movement sport yeah step sell door fact.,Good,17.31
+Nicholas Knight,80,Female,B-,102.8,183,Genetic Parkinson's Disease,140 / 61 mmHg,Rarely,Need high event worker unit keep.,Fair,34.34
+Mark Jones,55,Male,B-,126.5,142,Young-Onset Parkinson's Disease,92 / 103 mmHg,None,Tough from tax social couple into.,Good,34.62
+Daniel Espinoza,39,Female,A+,128.5,185,Postural Instability,154 / 82 mmHg,Weekly,Ask performance name ground third on shake concern.,Good,32.7
+Justin Cabrera,50,Other,O+,132.5,159,Vascular Parkinsonism,169 / 62 mmHg,Daily,Into order foot which.,Poor,31.42
+Nancy Shelton,58,Female,AB-,131.8,158,Gait Disorder,121 / 88 mmHg,None,Might score almost.,Good,24.73
+Jessica Lamb,29,Other,O-,136.3,209,Atypical Parkinsonism,109 / 72 mmHg,Rarely,Wide some thank.,Poor,26.98
+Jacob Campbell,73,Other,B-,143.1,186,Postural Instability,92 / 80 mmHg,Weekly,How life example move need address their.,Good,34.26
+Christina Nguyen,54,Female,O+,119.0,149,Secondary Parkinsonism,107 / 60 mmHg,Rarely,Building article employee career program.,Good,33.0
+Michelle Lloyd,46,Female,AB-,70.3,171,Genetic Parkinson's Disease,121 / 97 mmHg,None,Scientist still service every never word design.,Good,22.81
+Loretta Marshall,35,Male,A-,133.9,162,Idiopathic Parkinson's Disease,140 / 81 mmHg,Rarely,Threat today authority including move tree half.,Fair,23.3
+Michelle Ritter,53,Male,O-,49.5,143,Hereditary Parkinsonism,133 / 76 mmHg,None,Save field song wait even receive energy.,Poor,16.28
+Teresa Murray,19,Male,B+,57.4,157,Parkinsonism-plus syndromes,139 / 77 mmHg,Rarely,Writer price same owner involve.,Good,36.07
+Bruce Hammond,64,Female,O+,121.7,146,Gait Disorder,109 / 63 mmHg,Weekly,Type space they trial worker total rise.,Good,23.68
+Ashley Jones,42,Other,AB-,105.8,193,Hereditary Parkinsonism,126 / 99 mmHg,Rarely,After resource give big fine care model.,Good,25.7
+John Burgess,78,Female,A+,84.6,142,Secondary Parkinsonism,94 / 82 mmHg,Weekly,Spring cultural that authority away.,Fair,38.77
+Tyrone Martinez,71,Other,B-,100.8,140,Genetic Parkinson's Disease,152 / 117 mmHg,Daily,Try small religious forward though individual relate.,Poor,22.64
+Julia Mendez,19,Other,A+,137.8,187,Gait Disorder,163 / 107 mmHg,Daily,Project only fly event close among attorney.,Fair,20.85
+Scott Howard,68,Other,AB-,149.1,193,Gait Disorder,128 / 103 mmHg,Daily,Word technology describe call Mrs my factor.,Good,34.32
+Natasha Rivera,18,Female,AB-,122.3,141,Late-Onset Parkinson's Disease,92 / 109 mmHg,None,Various travel wide real listen condition.,Fair,16.62
+Elizabeth Rosario,23,Other,A+,138.6,203,Vascular Parkinsonism,136 / 97 mmHg,Rarely,Popular strategy energy behavior painting none participant score.,Fair,16.33
+Matthew Gonzalez,78,Male,B+,71.7,187,Parkinsonism-plus syndromes,173 / 91 mmHg,Daily,Play despite during beyond.,Fair,28.49
+Linda Lee,74,Male,AB-,77.0,153,Young-Onset Parkinson's Disease,98 / 78 mmHg,Weekly,Movement into little paper individual dinner.,Good,21.04
+Michael Nguyen,77,Male,O+,44.5,187,Vascular Parkinsonism,162 / 83 mmHg,Rarely,Phone position effect economy vote.,Good,15.87
+Bernard Mccormick,64,Other,A-,61.7,174,Hereditary Parkinsonism,168 / 102 mmHg,Rarely,How perform technology.,Poor,33.05
+Margaret Walker,58,Other,A-,103.6,194,Secondary Parkinsonism,116 / 105 mmHg,Weekly,Source kind Mr last top marriage view doctor.,Good,29.04
+Rachel Hall,79,Male,AB-,138.6,186,Idiopathic Parkinson's Disease,115 / 90 mmHg,Rarely,Gun fly support yeah easy upon scene.,Poor,36.69
+Alicia Ali,71,Male,O+,118.0,148,Gait Disorder,159 / 90 mmHg,Rarely,Statement need knowledge level walk move.,Fair,25.96
+Grace Gibson,54,Other,B+,84.1,195,Atypical Parkinsonism,154 / 63 mmHg,None,Lawyer hair book explain glass wait able than.,Fair,37.38
+David Lindsey,18,Other,O+,96.6,181,Atypical Parkinsonism,144 / 95 mmHg,Rarely,Suffer indeed she see school.,Poor,27.59
+Lindsey Graham,64,Male,O+,98.8,145,Hereditary Parkinsonism,91 / 112 mmHg,Daily,Billion blood single significant common.,Fair,31.98
+Jennifer Jackson,61,Male,A+,145.3,154,Idiopathic Parkinson's Disease,127 / 108 mmHg,Rarely,All drop factor matter everything our.,Fair,26.42
+Robin Wilson,43,Female,B+,91.8,208,Parkinsonism-plus syndromes,130 / 97 mmHg,Daily,Cause especially animal southern.,Fair,31.14
+Stephanie Green,33,Female,O-,129.5,174,Secondary Parkinsonism,144 / 107 mmHg,None,Time anyone court sell life write.,Good,17.12
+Larry Porter,79,Male,B+,94.5,193,Young-Onset Parkinson's Disease,138 / 117 mmHg,Weekly,Give short theory public home.,Poor,33.0
+Jerry Stewart,75,Female,B+,116.3,162,Hereditary Parkinsonism,101 / 94 mmHg,Daily,Left buy large natural Mr each lot.,Fair,16.18
+Joshua Thompson,80,Other,B-,72.4,209,Genetic Parkinson's Disease,113 / 115 mmHg,None,Among say weight.,Good,31.04
+Brenda Fields,50,Male,A-,65.6,179,Hereditary Parkinsonism,161 / 85 mmHg,Daily,Exist pick feeling once nation town baby.,Fair,27.02
+Julia Vasquez,23,Male,AB+,55.5,178,Idiopathic Parkinson's Disease,128 / 103 mmHg,Rarely,Sister police first director center understand entire.,Poor,22.75
+Amy Brown,24,Male,B+,77.1,207,Atypical Parkinsonism,165 / 112 mmHg,None,Particularly enough fire bill believe back.,Fair,15.17
+Amy Reynolds,60,Other,AB+,145.7,168,Vascular Parkinsonism,161 / 77 mmHg,Rarely,Hospital can change buy.,Good,15.79
+Karen Wilson,51,Female,A+,89.7,151,Vascular Parkinsonism,164 / 74 mmHg,Daily,Cover tell century.,Good,30.09
+Dustin Lopez,72,Male,O+,41.2,177,Vascular Parkinsonism,178 / 105 mmHg,Daily,Field road whose wind.,Good,28.87
+Ruben Jordan,28,Other,B+,107.2,176,Drug-Induced Parkinsonism,132 / 65 mmHg,Weekly,Gun visit leader stock character per shoulder.,Fair,31.71
+Kendra Norton,75,Other,AB+,102.8,152,Genetic Parkinson's Disease,92 / 85 mmHg,Rarely,Arrive senior moment bill high alone.,Fair,32.18
+Jessica Perkins,21,Other,A-,90.0,208,Hereditary Parkinsonism,175 / 67 mmHg,None,Officer usually time throughout range agree.,Poor,24.92
+Jasmine Stewart,70,Female,A-,100.4,183,Idiopathic Parkinson's Disease,114 / 102 mmHg,Rarely,Sound contain full international.,Fair,15.84
+Joshua Navarro,48,Female,B-,145.8,182,Atypical Parkinsonism,140 / 114 mmHg,None,Put expert moment else dark rest than.,Good,15.47
+Evelyn Hess,76,Female,O-,149.4,179,Late-Onset Parkinson's Disease,118 / 62 mmHg,Daily,Allow kitchen enjoy five spring capital act to.,Poor,32.04
+Christopher Hammond,52,Male,AB-,54.7,150,Drug-Induced Parkinsonism,111 / 91 mmHg,None,Trade enter dog nice.,Fair,33.75
+Molly Nunez,33,Other,A-,92.1,182,Hereditary Parkinsonism,123 / 65 mmHg,Rarely,Boy apply fire reveal culture.,Fair,16.33
+Michael Maddox,48,Female,A+,127.6,156,Idiopathic Parkinson's Disease,146 / 100 mmHg,None,Music strong who.,Poor,28.06
+Daniel Cervantes,49,Female,AB+,89.8,164,Drug-Induced Parkinsonism,114 / 97 mmHg,Weekly,Finish gas opportunity realize hundred message they.,Poor,18.39
+Doris Fischer,46,Female,O+,73.5,195,Hereditary Parkinsonism,136 / 76 mmHg,None,Expect amount whole relate car project easy.,Good,39.61
+Peter Mason,45,Male,O+,149.4,204,Late-Onset Parkinson's Disease,174 / 81 mmHg,Daily,As usually factor over career.,Poor,27.12
+Janet Peck,71,Male,A+,58.5,187,Genetic Parkinson's Disease,124 / 75 mmHg,None,Strategy line laugh indicate heavy later room.,Good,23.15
+Donald Chambers,50,Other,AB-,134.2,183,Idiopathic Parkinson's Disease,105 / 70 mmHg,None,Again evidence necessary take million message.,Poor,22.95
+Robert Mcneil,72,Female,AB+,118.6,197,Late-Onset Parkinson's Disease,172 / 119 mmHg,Rarely,Seem cell system agreement space state through.,Fair,30.8
+Julia Wong,35,Other,B+,91.1,192,Young-Onset Parkinson's Disease,146 / 68 mmHg,None,Would fight pretty.,Poor,24.18
+Matthew Rodriguez,55,Other,AB-,106.5,172,Gait Disorder,103 / 113 mmHg,Weekly,Nature hit store produce executive ok bag.,Fair,28.11
+Robert Martin,29,Other,AB+,125.4,201,Gait Disorder,100 / 64 mmHg,Rarely,House stop eight staff.,Good,19.13
+Casey Bowers,38,Male,B-,62.1,143,Genetic Parkinson's Disease,167 / 81 mmHg,Weekly,Reason create allow guess field wind century.,Good,20.33
+Amber Chapman,38,Female,A+,137.9,204,Young-Onset Parkinson's Disease,149 / 83 mmHg,None,Voice sit difference authority late.,Fair,20.89
+Shawn Wright DDS,22,Male,O+,55.1,200,Young-Onset Parkinson's Disease,159 / 120 mmHg,Daily,Edge rock clearly positive yourself TV security pressure.,Fair,35.52
+Brian Ray,56,Other,AB-,139.1,204,Atypical Parkinsonism,104 / 113 mmHg,None,Two push inside right of nearly.,Fair,28.01
+Sean Black,56,Female,O+,128.4,164,Hereditary Parkinsonism,126 / 115 mmHg,Weekly,Child drive staff safe.,Good,24.7
+Kendra Bell,30,Other,B-,139.2,176,Atypical Parkinsonism,178 / 70 mmHg,None,Manage letter few mother western former.,Fair,22.06
+Brian Vega,51,Female,A-,78.5,143,Late-Onset Parkinson's Disease,120 / 115 mmHg,None,Expect under never American each drug.,Fair,30.69
+Corey Kidd,20,Other,B+,115.2,147,Genetic Parkinson's Disease,125 / 106 mmHg,None,International edge serious.,Good,38.54
+Alfred Johnson,77,Female,AB-,136.1,199,Secondary Parkinsonism,91 / 113 mmHg,None,Land expert kind do industry relationship yet.,Fair,20.33
+Carla Andrews,65,Other,O-,86.8,146,Idiopathic Parkinson's Disease,92 / 114 mmHg,Daily,Position production seek outside rise travel national.,Poor,24.08
+Matthew Gates,72,Other,AB-,113.5,195,Postural Instability,159 / 64 mmHg,None,Hold hand phone nearly business garden ago sound.,Good,32.03
+Joshua Kerr,25,Male,B-,135.7,166,Gait Disorder,103 / 109 mmHg,Rarely,No investment general paper.,Fair,26.88
+Joseph Nelson,46,Male,A+,127.2,204,Idiopathic Parkinson's Disease,117 / 66 mmHg,Daily,Drug contain agent firm.,Good,34.89
+Roger Leonard,79,Other,O-,132.1,207,Gait Disorder,103 / 83 mmHg,Weekly,Exactly enter possible event Mr son.,Fair,26.48
+Jessica Gomez,28,Male,AB-,76.4,147,Postural Instability,93 / 113 mmHg,Daily,Market drop stock understand.,Fair,18.18
+Anna Frazier,79,Female,B-,42.2,140,Hereditary Parkinsonism,93 / 74 mmHg,Daily,Cause race during talk rule field my really.,Poor,39.5
+Leslie Ferguson,46,Female,AB+,135.9,141,Parkinsonism-plus syndromes,162 / 93 mmHg,Daily,Item as herself poor.,Fair,27.31
+Jennifer Cordova,50,Female,A+,51.0,193,Parkinsonism-plus syndromes,133 / 70 mmHg,Daily,Executive movie bill network fight.,Poor,25.97
+Caroline Hammond,18,Female,O-,108.4,157,Hereditary Parkinsonism,134 / 96 mmHg,Rarely,From cold audience wear support effect.,Fair,36.36
+Amy Hernandez,18,Male,AB+,100.1,201,Vascular Parkinsonism,120 / 116 mmHg,None,Red vote stuff parent.,Poor,16.23
+Steven Pratt,36,Female,A+,79.4,161,Idiopathic Parkinson's Disease,113 / 85 mmHg,None,Eat herself force rise reason have.,Fair,21.17
+Natalie Kirby,77,Male,A+,91.3,178,Gait Disorder,124 / 64 mmHg,Rarely,Staff person resource mention know less.,Fair,38.17
+Timothy Cole,39,Male,B+,46.8,208,Drug-Induced Parkinsonism,115 / 83 mmHg,Daily,Woman professor side people stand reveal whole.,Fair,29.76
+Hannah Brown,52,Other,A+,48.8,164,Idiopathic Parkinson's Disease,127 / 63 mmHg,Rarely,Leave property art leave tree few point.,Poor,36.92
+Carl Gonzales,39,Other,O+,137.0,201,Genetic Parkinson's Disease,154 / 92 mmHg,Rarely,Quality necessary long book near.,Good,21.51
+Michael Miller,62,Other,B+,46.2,184,Young-Onset Parkinson's Disease,148 / 93 mmHg,Daily,Single trip only seat.,Good,35.69
+Christopher Young,74,Other,A+,72.5,196,Genetic Parkinson's Disease,114 / 75 mmHg,Daily,Environmental purpose wrong vote garden.,Poor,35.92
+Rebekah Freeman,53,Female,B+,128.0,196,Genetic Parkinson's Disease,94 / 77 mmHg,None,Hand ahead around hair great begin.,Fair,36.6
+Scott Torres,51,Female,B-,68.1,170,Young-Onset Parkinson's Disease,162 / 85 mmHg,Rarely,Nature heavy project floor.,Poor,30.68
+Michael Williams,45,Other,A+,129.6,209,Hereditary Parkinsonism,101 / 107 mmHg,None,Magazine research party own.,Good,38.69
+Taylor Drake,71,Male,AB-,89.0,154,Idiopathic Parkinson's Disease,152 / 111 mmHg,Weekly,Throughout attorney painting particularly plan serious police.,Poor,29.72
+Dan Ray,69,Male,A+,129.8,164,Atypical Parkinsonism,153 / 75 mmHg,None,Movie nice well final camera investment company.,Fair,38.11
+Breanna Smith,63,Female,A+,141.6,197,Genetic Parkinson's Disease,175 / 83 mmHg,Daily,Claim little foot court grow.,Good,32.01
+Adrian Soto,52,Male,AB-,97.4,145,Drug-Induced Parkinsonism,168 / 65 mmHg,Weekly,Game or threat daughter.,Good,39.71
+Ann Diaz,34,Male,B-,76.8,167,Late-Onset Parkinson's Disease,169 / 101 mmHg,None,Beyond where road design.,Fair,30.73
+Monica Rodriguez,64,Female,A+,146.9,156,Postural Instability,111 / 117 mmHg,Weekly,Book worker century skill.,Fair,23.4
+Zachary Trujillo,26,Female,AB-,88.1,154,Young-Onset Parkinson's Disease,141 / 86 mmHg,Rarely,Deal from south.,Poor,39.41
+Adam Williams,22,Female,B-,114.5,145,Drug-Induced Parkinsonism,173 / 66 mmHg,Rarely,Not city industry American professor challenge.,Good,17.01
+Roberto Harrison,48,Other,B+,53.3,174,Parkinsonism-plus syndromes,93 / 99 mmHg,Rarely,Mouth contain thousand matter wall consider strategy.,Good,27.46
+Mrs. Taylor Burns,18,Other,B+,122.5,155,Postural Instability,163 / 105 mmHg,None,Visit run physical trouble.,Poor,18.17
+Anna Hammond,32,Female,AB+,73.4,165,Gait Disorder,95 / 117 mmHg,Weekly,Himself exist series.,Fair,33.75
+Matthew King,31,Male,O+,122.2,176,Parkinsonism-plus syndromes,150 / 64 mmHg,Rarely,Series fish government game probably history.,Fair,27.83
+Anita Cox,52,Male,B-,51.3,199,Postural Instability,120 / 68 mmHg,Rarely,Woman us risk product property call particular subject.,Poor,25.45
+Amber Owens,53,Female,B-,133.6,149,Young-Onset Parkinson's Disease,150 / 70 mmHg,None,Thought item despite role pressure.,Good,27.67
+Jessica Elliott,36,Male,AB+,64.1,167,Hereditary Parkinsonism,138 / 68 mmHg,Weekly,Open record activity some responsibility information.,Poor,28.23
+George Gibson,71,Female,A+,69.8,175,Secondary Parkinsonism,108 / 91 mmHg,None,Computer kid break development spend.,Poor,25.64
+Rodney Guzman,70,Male,A-,110.2,201,Secondary Parkinsonism,99 / 88 mmHg,None,Anything list support next room.,Good,32.1
+Jessica Porter,30,Male,AB-,91.7,175,Parkinsonism-plus syndromes,152 / 70 mmHg,Rarely,Light marriage opportunity capital himself successful product.,Fair,18.64
+Kathy Lowe,73,Other,A+,80.6,203,Young-Onset Parkinson's Disease,141 / 68 mmHg,None,Center various else.,Fair,22.33
+Linda Anderson,67,Other,B+,81.0,177,Parkinsonism-plus syndromes,163 / 70 mmHg,Weekly,Affect child really wife.,Poor,36.57
+Mark Lopez,72,Other,AB-,148.9,168,Vascular Parkinsonism,132 / 98 mmHg,Daily,Image safe themselves decision air simple party would.,Good,36.68
+Ann Stevens,50,Other,O+,101.6,192,Gait Disorder,178 / 75 mmHg,Weekly,Return allow fine consider themselves find.,Fair,31.11
+Melinda Bolton,76,Female,AB-,81.0,143,Gait Disorder,153 / 110 mmHg,Weekly,Right around purpose if baby walk.,Poor,17.1
+Thomas Thomas,35,Male,O+,135.4,198,Hereditary Parkinsonism,128 / 79 mmHg,Weekly,Store why policy official type into pull poor.,Good,25.54
+Paul Fox,22,Male,O-,72.1,164,Drug-Induced Parkinsonism,146 / 67 mmHg,Weekly,Less player owner process.,Poor,17.04
+Kimberly Hines,77,Male,AB-,78.2,147,Postural Instability,119 / 120 mmHg,None,Threat loss effort when.,Poor,29.36
+Kellie Carey,38,Female,A-,74.4,204,Idiopathic Parkinson's Disease,157 / 71 mmHg,Weekly,Pass box lawyer according so next.,Fair,24.57
+Melissa Harvey,49,Female,O+,71.5,140,Hereditary Parkinsonism,176 / 120 mmHg,Rarely,Subject physical suddenly drive.,Poor,38.19
+Samuel Patterson,74,Male,O-,128.8,170,Drug-Induced Parkinsonism,122 / 95 mmHg,None,Tend night tell some.,Poor,15.99
+Jennifer West,18,Male,O+,74.2,176,Late-Onset Parkinson's Disease,157 / 94 mmHg,Rarely,Become left yard him quite team.,Poor,22.22
+Erik Wagner,50,Male,AB+,146.8,183,Atypical Parkinsonism,127 / 86 mmHg,Rarely,Region business development you should test ground.,Good,18.45
+Jose Lynch,40,Female,O+,112.2,205,Drug-Induced Parkinsonism,165 / 61 mmHg,None,Nature remain major that near be more air.,Poor,15.29
+Suzanne Herrera,49,Female,B-,148.9,140,Vascular Parkinsonism,106 / 100 mmHg,Rarely,At resource throughout sort subject cold.,Fair,28.39
+Edgar Gomez,23,Female,AB-,82.4,143,Drug-Induced Parkinsonism,97 / 77 mmHg,Daily,Positive dark night call practice.,Good,28.51
+Jose Reid,32,Other,B+,125.3,158,Secondary Parkinsonism,178 / 102 mmHg,Weekly,Effect mind open suggest consider exist.,Poor,32.33
+James Clark,46,Male,B+,55.3,198,Genetic Parkinson's Disease,162 / 65 mmHg,Rarely,Trouble before bring.,Poor,25.71
+Michelle Velazquez,22,Male,A-,114.7,175,Drug-Induced Parkinsonism,133 / 119 mmHg,Rarely,Industry hear star above firm everything important push.,Good,25.76
+Robert Hampton,69,Female,O+,137.3,197,Atypical Parkinsonism,150 / 64 mmHg,Daily,Foot already onto brother too check.,Poor,16.75
+Jeffery Hill,71,Other,AB+,71.7,209,Young-Onset Parkinson's Disease,93 / 88 mmHg,None,Eat project manage alone if strong.,Good,30.97
+Aaron Evans,78,Male,AB+,104.8,174,Postural Instability,95 / 113 mmHg,Daily,Town finally plan.,Fair,28.56
+Chad Hill,30,Other,AB+,124.1,146,Genetic Parkinson's Disease,102 / 115 mmHg,None,Yes say hand.,Poor,16.2
+Kenneth Webb,48,Other,B-,135.5,188,Drug-Induced Parkinsonism,160 / 86 mmHg,Rarely,Kind door successful international police record ever.,Good,24.23
+Melissa Taylor,60,Male,B-,67.7,189,Drug-Induced Parkinsonism,99 / 73 mmHg,Daily,Line natural social family look blue.,Good,30.02
+Katie Fletcher,44,Male,O-,101.4,208,Postural Instability,91 / 73 mmHg,Daily,Town reason very something book yes know.,Good,37.37
+Dawn Smith,37,Female,O+,140.4,163,Drug-Induced Parkinsonism,103 / 68 mmHg,Weekly,Skill consider admit need keep successful.,Good,20.61
+Jordan Garcia,64,Male,B+,76.3,208,Atypical Parkinsonism,165 / 117 mmHg,None,Appear pass few specific argue.,Good,18.4
+Edgar Meyer,19,Female,AB-,58.7,184,Vascular Parkinsonism,115 / 82 mmHg,Daily,Film young read.,Poor,23.31
+Dylan Caldwell,66,Other,O-,129.6,188,Genetic Parkinson's Disease,121 / 93 mmHg,None,Natural everyone including son meet.,Fair,28.13
+Natasha Young,59,Female,A+,123.7,150,Late-Onset Parkinson's Disease,108 / 113 mmHg,None,Rise little loss hold need surface.,Good,33.95
+Kimberly Hernandez,64,Male,O+,130.3,149,Secondary Parkinsonism,180 / 62 mmHg,Rarely,Under art case wife through concern.,Fair,20.65
+Kenneth Cabrera,45,Female,B+,48.9,158,Atypical Parkinsonism,135 / 62 mmHg,Weekly,Thing life account suggest.,Good,21.97
+Teresa Espinoza,52,Other,B+,135.0,191,Genetic Parkinson's Disease,129 / 88 mmHg,None,Stuff red claim experience job concern walk.,Good,26.07
+Kristen Calderon,72,Other,B-,64.0,157,Drug-Induced Parkinsonism,157 / 100 mmHg,Rarely,Think instead street prove institution.,Good,28.63
+Kevin Ryan,74,Male,AB+,42.6,165,Genetic Parkinson's Disease,156 / 82 mmHg,Rarely,It stand hot financial and.,Good,22.4
+Robert Wells,35,Other,O-,130.2,202,Drug-Induced Parkinsonism,161 / 82 mmHg,None,End size nature couple.,Poor,38.37
+Patricia Griffin,62,Male,B-,126.8,145,Drug-Induced Parkinsonism,120 / 82 mmHg,Weekly,Art wall admit happy arrive apply fish.,Poor,19.37
+Sarah Holmes,63,Female,A+,144.6,145,Postural Instability,122 / 89 mmHg,Rarely,Beat similar soldier myself.,Poor,24.62
+Adam Larson,64,Other,AB+,53.1,199,Parkinsonism-plus syndromes,107 / 67 mmHg,Rarely,Middle rock section bad southern window east.,Good,36.82
+Beth Johnson,64,Male,AB-,63.8,173,Vascular Parkinsonism,122 / 118 mmHg,Rarely,Fear peace enter with brother hit.,Fair,26.1
+Laura Sanchez,70,Male,AB+,121.9,207,Drug-Induced Parkinsonism,111 / 70 mmHg,Daily,According provide hit big my interest subject.,Good,36.79
+David Myers,34,Male,O-,55.8,186,Postural Instability,150 / 114 mmHg,None,Against cost pretty opportunity.,Fair,30.89
+Jennifer Young,48,Male,O-,74.7,169,Hereditary Parkinsonism,144 / 89 mmHg,Weekly,Ball understand film return.,Poor,32.52
+Jimmy Lutz,36,Male,A-,78.7,165,Young-Onset Parkinson's Disease,155 / 112 mmHg,Weekly,Fine billion effect.,Poor,25.22
+Leslie Martinez,69,Female,A-,82.1,146,Drug-Induced Parkinsonism,92 / 76 mmHg,Daily,Then research particular brother result opportunity.,Good,22.85
+Wayne Robbins,52,Female,O-,54.9,142,Late-Onset Parkinson's Disease,143 / 62 mmHg,Rarely,Hold far yard stay Republican may difficult.,Fair,20.49
+Traci Hansen,51,Female,AB-,124.4,158,Young-Onset Parkinson's Disease,178 / 75 mmHg,Weekly,Notice hold weight decide unit.,Fair,20.77
+Alan Park,26,Male,A-,106.9,163,Drug-Induced Parkinsonism,167 / 79 mmHg,Rarely,Generation against last role notice.,Fair,24.83
+Christopher Buckley,68,Other,O+,132.8,180,Vascular Parkinsonism,150 / 93 mmHg,Weekly,Dinner why without identify vote dream.,Poor,36.29
+Monica Vance,25,Other,AB+,77.8,140,Secondary Parkinsonism,156 / 96 mmHg,None,Main east official body physical eat more.,Fair,32.47
+William Porter,74,Other,AB-,40.7,192,Postural Instability,179 / 99 mmHg,Rarely,Health they politics by.,Good,26.08
+Mrs. Danielle Holmes,40,Other,A+,56.2,141,Hereditary Parkinsonism,118 / 61 mmHg,Weekly,Carry couple turn Mrs save something.,Fair,34.31
+Kelly Ritter,39,Other,AB-,110.4,165,Parkinsonism-plus syndromes,155 / 60 mmHg,Weekly,Small music reflect join herself site.,Good,36.19
+Melissa Dickerson,18,Female,AB-,104.0,196,Late-Onset Parkinson's Disease,164 / 77 mmHg,Weekly,Write individual down put.,Good,24.74
+Margaret Cooper,21,Other,A+,119.2,150,Young-Onset Parkinson's Disease,172 / 97 mmHg,Rarely,Perform less law identify explain skill north mission.,Poor,26.62
+Julie Green,42,Other,A+,137.6,158,Late-Onset Parkinson's Disease,123 / 92 mmHg,Rarely,Simply report position break finish evening.,Poor,26.9
+Cheryl Knight,56,Female,A+,67.1,158,Genetic Parkinson's Disease,123 / 101 mmHg,Weekly,Training national field also middle.,Fair,27.72
+Patricia Hobbs,52,Other,B-,50.8,141,Young-Onset Parkinson's Disease,133 / 70 mmHg,None,Center minute sound win third kid interesting floor.,Good,21.63
+Jennifer Barnes,34,Male,AB+,97.3,187,Hereditary Parkinsonism,153 / 61 mmHg,None,Add development environmental allow mention.,Fair,15.37
+Martha Hernandez,64,Female,O+,98.0,153,Gait Disorder,178 / 85 mmHg,Daily,Air window check even.,Good,21.67
+Tammy Anderson,21,Female,A+,109.2,193,Young-Onset Parkinson's Disease,168 / 113 mmHg,Daily,Coach meet stock.,Poor,39.74
+Adrienne Mcdonald DDS,53,Other,A+,98.5,185,Young-Onset Parkinson's Disease,118 / 109 mmHg,Weekly,Suffer year meeting tough good practice thank.,Poor,22.14
+Ricky Ramos,49,Female,A-,119.5,173,Hereditary Parkinsonism,169 / 71 mmHg,None,Over close director between market long list include.,Fair,22.52
+Robert Lee,54,Other,AB-,54.0,153,Genetic Parkinson's Disease,119 / 89 mmHg,Weekly,Religious production better east.,Poor,27.23
+Carmen King,56,Male,A-,43.4,157,Vascular Parkinsonism,95 / 93 mmHg,Rarely,Everything nice inside year sit financial positive.,Good,17.18
